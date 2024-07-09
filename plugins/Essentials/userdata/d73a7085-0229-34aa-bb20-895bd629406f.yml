@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 157.41.192.146
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712600948071
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712600960019
+  login: 1712598350420
+money: '0'
+last-account-name: titanx378
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -38.18170959362922
+  y: 178.0
+  z: -2.098769833290413
+  yaw: 60.7131233215332
+  pitch: 13.216503143310547
+logoutlocation:
+  world: 33a34951-efe1-4473-ab9e-cae292dfe960
+  world-name: world
+  x: -132.97278433009475
+  y: 53.499234260938216
+  z: 148.5546052750809
+  yaw: 178.04371643066406
+  pitch: 25.097049713134766

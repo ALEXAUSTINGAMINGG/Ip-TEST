@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.168.248.228
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716026877237
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716034961939
+  login: 1716112878086
+money: '0'
+last-account-name: Dreadly
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.738633583490994
+  y: 178.0
+  z: -2.497604249000257
+  yaw: -47.249446868896484
+  pitch: -4.5398664474487305
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -23.025704848162718
+  y: 178.0
+  z: 5.4050031205871285
+  yaw: -43.41119384765625
+  pitch: 17.40963363647461

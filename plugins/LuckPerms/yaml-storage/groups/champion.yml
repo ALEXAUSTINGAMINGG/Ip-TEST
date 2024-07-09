@@ -1,0 +1,27 @@
+name: champion
+permissions:
+- ajleaderboards.dontupdate.*
+- deluxemenus.open
+- displayname.&f
+- duels.duel
+- duels.queue
+- duels.toggle
+- duels.use
+- essentials.msg
+- essentials.spawn
+- essentials.spawn-on-join
+- jumppads.use
+- minecraft.command.msg
+- p1.use
+- permission.one
+- permission.two
+- sternalboard.toggle
+- weight.1
+- weight.36
+- weight.70
+parents:
+- default
+- master
+prefixes:
+- '&#00FFE0&lC&#22DBE4&lH&#43B6E9&lA&#6592ED&lM&#866DF2&lP&#A849F6&lI&#C924FB&lO&#EB00FF&lN &f':
+    priority: 36

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 111.88.38.215
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712583960471
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712586205526
+  login: 1712584274120
+money: '0'
+last-account-name: PreyTheRizzler
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -35.31302953154802
+  y: 178.0
+  z: -0.9046549014623453
+  yaw: 54.025146484375
+  pitch: -6.31531286239624
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -18.909984114905782
+  y: 178.0
+  z: -6.82069368132801
+  yaw: -4.236904144287109
+  pitch: -8.683500289916992

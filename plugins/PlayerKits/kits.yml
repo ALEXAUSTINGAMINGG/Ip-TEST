@@ -1,0 +1,5044 @@
+Kits:
+  iron:
+    Items:
+      '1':
+        id: IRON_AXE
+        amount: 1
+      '2':
+        id: IRON_PICKAXE
+        amount: 1
+      '3':
+        id: IRON_SWORD
+        amount: 1
+    slot: 10
+    display_item: IRON_AXE
+    display_name: '&6&lIron &aKit'
+    display_lore:
+    - '&eThis kit includes:'
+    - '&8- &7x1 Iron Axe'
+    - '&8- &7x1 Iron Pickaxe'
+    - '&8- &7x1 Iron Sword'
+    - ''
+    - '&7Cooldown: &c3 hours'
+    - ''
+    - '&aLeft Click to claim!'
+    - '&bRight Click to preview!'
+    cooldown: 10800
+  diamond:
+    Items:
+      '1':
+        id: DIAMOND_AXE
+        amount: 1
+      '2':
+        id: DIAMOND_PICKAXE
+        amount: 1
+      '3':
+        id: DIAMOND_SWORD
+        name: '&4Super Sword'
+        lore:
+        - '&7Best sword on the server.'
+        - ''
+        - '&7Owner: &6%player%'
+        enchants:
+        - DAMAGE_ALL;5
+        amount: 1
+    Commands:
+    - bc &6%player% &ejust claimed a &aDIAMOND KIT&e!
+    slot: 11
+    display_item: DIAMOND_SWORD
+    display_name: '&6&lDiamond &aKit'
+    display_lore:
+    - '&eThis kit includes:'
+    - '&8- &7x1 Diamond Axe'
+    - '&8- &7x1 Diamond Pickaxe'
+    - '&8- &7x1 Diamond Sword'
+    - ''
+    - '&7Cooldown: &c12 hours'
+    - '&7Price: &a$5000'
+    - ''
+    - '&aLeft Click to buy!'
+    - '&bRight Click to preview!'
+    display_item_glowing: true
+    cooldown: 43200
+    price: 5000
+    permission: playerkits.kit.diamond
+    noPermissionsItem:
+      display_item: BARRIER
+      display_name: '&6&lDiamond &aKit'
+      display_lore:
+      - '&cYou don''t have permissions to claim'
+      - '&cthis kit.'
+      - ''
+      - '&7You need: &bVIP&6+ &7rank.'
+  Neth:
+    slot: 1
+    display_item: IRON_SWORD
+    display_name: '&6&lNeth &aKit'
+    display_lore:
+    - '&7This is a description of the kit.'
+    - '&7You can add multiples &alines&7.'
+    cooldown: 3600
+    permission: playerkits.kit.Neth
+    noPermissionsItem:
+      display_item: BARRIER
+      display_name: '&6&lNeth &aKit'
+      display_lore:
+      - '&cYou don''t have permissions to claim'
+      - '&cthis kit.'
+    auto_armor: true
+    Items:
+      '1':
+        id: NETHERITE_SWORD
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - DAMAGE_ALL;5
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 0
+      '2':
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 1
+      '3':
+        potion-type: STRENGTH
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 2
+      '4':
+        potion-type: SPEED
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 3
+      '5':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 4
+      '6':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 5
+      '7':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 6
+      '8':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 7
+      '9':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 8
+      '10':
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 9
+      '11':
+        id: EXPERIENCE_BOTTLE
+        amount: '64'
+        durability: '0'
+        preview_slot: 10
+      '12':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 11
+      '13':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 12
+      '14':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 13
+      '15':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 14
+      '16':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 15
+      '17':
+        potion-type: STRENGTH
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 16
+      '18':
+        potion-type: SPEED
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 17
+      '19':
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 18
+      '20':
+        id: EXPERIENCE_BOTTLE
+        amount: '64'
+        durability: '0'
+        preview_slot: 19
+      '21':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 20
+      '22':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 21
+      '23':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 22
+      '24':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 23
+      '25':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 24
+      '26':
+        potion-type: STRENGTH
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 25
+      '27':
+        potion-type: SPEED
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 26
+      '28':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 27
+      '29':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 28
+      '30':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 29
+      '31':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 30
+      '32':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 31
+      '33':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 32
+      '34':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 33
+      '35':
+        potion-type: STRENGTH
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 34
+      '36':
+        potion-type: SPEED
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 35
+      '37':
+        id: NETHERITE_BOOTS
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - PROTECTION_ENVIRONMENTAL;4
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 36
+      '38':
+        id: NETHERITE_LEGGINGS
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - PROTECTION_ENVIRONMENTAL;4
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 37
+      '39':
+        id: NETHERITE_CHESTPLATE
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - PROTECTION_ENVIRONMENTAL;4
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 38
+      '40':
+        id: NETHERITE_HELMET
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - PROTECTION_ENVIRONMENTAL;4
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 39
+      '41':
+        offhand: true
+        id: GOLDEN_APPLE
+        amount: '64'
+        durability: '0'
+        preview_slot: 40
+  SmpKit:
+    slot: 2
+    display_item: IRON_SWORD
+    display_name: '&6&lSmpKit &aKit'
+    display_lore:
+    - '&7This is a description of the kit.'
+    - '&7You can add multiples &alines&7.'
+    cooldown: 3600
+    permission: playerkits.kit.SmpKit
+    noPermissionsItem:
+      display_item: BARRIER
+      display_name: '&6&lSmpKit &aKit'
+      display_lore:
+      - '&cYou don''t have permissions to claim'
+      - '&cthis kit.'
+    auto_armor: true
+    Items:
+      '1':
+        id: NETHERITE_SWORD
+        amount: '1'
+        durability: '0'
+        enchants:
+        - FIRE_ASPECT;2
+        - MENDING;1
+        - DAMAGE_ALL;5
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 0
+      '2':
+        id: ENDER_PEARL
+        amount: '16'
+        durability: '0'
+        preview_slot: 1
+      '3':
+        id: GOLDEN_APPLE
+        amount: '64'
+        durability: '0'
+        preview_slot: 2
+      '4':
+        id: NETHERITE_AXE
+        amount: '1'
+        durability: '0'
+        enchants:
+        - DAMAGE_ALL;5
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 3
+      '5':
+        id: BOW
+        amount: '1'
+        durability: '0'
+        enchants:
+        - ARROW_FIRE;1
+        - ARROW_DAMAGE;5
+        - ARROW_KNOCKBACK;2
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 4
+      '6':
+        potion-type: FIRE_RESISTANCE
+        potion-upgraded: 'false'
+        potion-extended: 'true'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 5
+      '7':
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 6
+      '8':
+        potion-type: STRENGTH
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 7
+      '9':
+        potion-type: SPEED
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 8
+      '10':
+        potion-type: INSTANT_DAMAGE
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: TIPPED_ARROW
+        amount: '64'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 9
+      '11':
+        id: EXPERIENCE_BOTTLE
+        amount: '64'
+        durability: '0'
+        preview_slot: 10
+      '12':
+        id: EXPERIENCE_BOTTLE
+        amount: '64'
+        durability: '0'
+        preview_slot: 11
+      '13':
+        potion-type: STRENGTH
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 12
+      '14':
+        potion-type: STRENGTH
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 13
+      '15':
+        potion-type: STRENGTH
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 14
+      '16':
+        potion-type: STRENGTH
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 15
+      '17':
+        potion-type: STRENGTH
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 16
+      '18':
+        potion-type: STRENGTH
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 17
+      '19':
+        id: ENDER_PEARL
+        amount: '16'
+        durability: '0'
+        preview_slot: 18
+      '20':
+        id: ENDER_PEARL
+        amount: '16'
+        durability: '0'
+        preview_slot: 19
+      '21':
+        id: EXPERIENCE_BOTTLE
+        amount: '64'
+        durability: '0'
+        preview_slot: 20
+      '22':
+        potion-type: SPEED
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 21
+      '23':
+        potion-type: SPEED
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 22
+      '24':
+        potion-type: SPEED
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 23
+      '25':
+        potion-type: SPEED
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 24
+      '26':
+        potion-type: SPEED
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 25
+      '27':
+        potion-type: SPEED
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 26
+      '28':
+        id: GOLDEN_APPLE
+        amount: '64'
+        durability: '0'
+        preview_slot: 27
+      '29':
+        id: ENDER_PEARL
+        amount: '16'
+        durability: '0'
+        preview_slot: 28
+      '30':
+        id: EXPERIENCE_BOTTLE
+        amount: '64'
+        durability: '0'
+        preview_slot: 29
+      '31':
+        potion-type: FIRE_RESISTANCE
+        potion-upgraded: 'false'
+        potion-extended: 'true'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 30
+      '32':
+        potion-type: FIRE_RESISTANCE
+        potion-upgraded: 'false'
+        potion-extended: 'true'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 31
+      '33':
+        potion-type: FIRE_RESISTANCE
+        potion-upgraded: 'false'
+        potion-extended: 'true'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 32
+      '34':
+        potion-type: FIRE_RESISTANCE
+        potion-upgraded: 'false'
+        potion-extended: 'true'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 33
+      '35':
+        potion-type: FIRE_RESISTANCE
+        potion-upgraded: 'false'
+        potion-extended: 'true'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 34
+      '36':
+        potion-type: FIRE_RESISTANCE
+        potion-upgraded: 'false'
+        potion-extended: 'true'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 35
+      '37':
+        id: NETHERITE_BOOTS
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - PROTECTION_ENVIRONMENTAL;4
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 36
+      '38':
+        id: NETHERITE_LEGGINGS
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - PROTECTION_ENVIRONMENTAL;4
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 37
+      '39':
+        id: NETHERITE_CHESTPLATE
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - PROTECTION_ENVIRONMENTAL;4
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 38
+      '40':
+        id: NETHERITE_HELMET
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - PROTECTION_ENVIRONMENTAL;4
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 39
+      '41':
+        offhand: true
+        id: SHIELD
+        amount: '1'
+        durability: '0'
+        enchants:
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 40
+  Axe:
+    slot: 3
+    display_item: IRON_SWORD
+    display_name: '&6&lAxe &aKit'
+    display_lore:
+    - '&7This is a description of the kit.'
+    - '&7You can add multiples &alines&7.'
+    cooldown: 3600
+    permission: playerkits.kit.Axe
+    noPermissionsItem:
+      display_item: BARRIER
+      display_name: '&6&lAxe &aKit'
+      display_lore:
+      - '&cYou don''t have permissions to claim'
+      - '&cthis kit.'
+    auto_armor: true
+    Items:
+      '1':
+        id: DIAMOND_SWORD
+        amount: '1'
+        durability: '0'
+        preview_slot: 0
+      '2':
+        id: DIAMOND_AXE
+        amount: '1'
+        durability: '0'
+        preview_slot: 1
+      '3':
+        id: CROSSBOW
+        amount: '1'
+        durability: '0'
+        preview_slot: 2
+      '4':
+        id: BOW
+        amount: '1'
+        durability: '0'
+        preview_slot: 3
+      '5':
+        id: ARROW
+        amount: '16'
+        durability: '0'
+        preview_slot: 4
+      '6':
+        id: COOKED_BEEF
+        amount: '16'
+        durability: '0'
+        preview_slot: 5
+      '7':
+        id: DIAMOND_BOOTS
+        amount: '1'
+        durability: '0'
+        preview_slot: 6
+      '8':
+        id: DIAMOND_LEGGINGS
+        amount: '1'
+        durability: '0'
+        preview_slot: 7
+      '9':
+        id: DIAMOND_CHESTPLATE
+        amount: '1'
+        durability: '0'
+        preview_slot: 8
+      '10':
+        id: DIAMOND_HELMET
+        amount: '1'
+        durability: '0'
+        preview_slot: 9
+      '11':
+        offhand: true
+        id: SHIELD
+        amount: '1'
+        durability: '0'
+        preview_slot: 10
+  OpDuels:
+    slot: 4
+    display_item: IRON_SWORD
+    display_name: '&6&lOpDuels &aKit'
+    display_lore:
+    - '&7This is a description of the kit.'
+    - '&7You can add multiples &alines&7.'
+    cooldown: 3600
+    permission: playerkits.kit.OpDuels
+    noPermissionsItem:
+      display_item: BARRIER
+      display_name: '&6&lOpDuels &aKit'
+      display_lore:
+      - '&cYou don''t have permissions to claim'
+      - '&cthis kit.'
+    auto_armor: true
+    Items:
+      '1':
+        id: DIAMOND_SWORD
+        amount: '1'
+        durability: '0'
+        enchants:
+        - DAMAGE_ALL;3
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 0
+      '2':
+        id: DIAMOND_AXE
+        amount: '1'
+        durability: '0'
+        enchants:
+        - DAMAGE_ALL;2
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 1
+      '3':
+        id: DIAMOND_BOOTS
+        amount: '1'
+        durability: '0'
+        enchants:
+        - PROTECTION_ENVIRONMENTAL;3
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 2
+      '4':
+        id: DIAMOND_LEGGINGS
+        amount: '1'
+        durability: '0'
+        enchants:
+        - PROTECTION_ENVIRONMENTAL;3
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 3
+      '5':
+        id: DIAMOND_CHESTPLATE
+        amount: '1'
+        durability: '0'
+        enchants:
+        - PROTECTION_ENVIRONMENTAL;3
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 4
+      '6':
+        id: DIAMOND_HELMET
+        amount: '1'
+        durability: '0'
+        enchants:
+        - PROTECTION_ENVIRONMENTAL;3
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 5
+      '7':
+        offhand: true
+        id: GOLDEN_APPLE
+        amount: '8'
+        durability: '0'
+        preview_slot: 6
+  BowPvP:
+    slot: 6
+    display_item: IRON_SWORD
+    display_name: '&6&lBowPvP &aKit'
+    display_lore:
+    - '&7This is a description of the kit.'
+    - '&7You can add multiples &alines&7.'
+    cooldown: 3600
+    permission: playerkits.kit.BowPvP
+    noPermissionsItem:
+      display_item: BARRIER
+      display_name: '&6&lBowPvP &aKit'
+      display_lore:
+      - '&cYou don''t have permissions to claim'
+      - '&cthis kit.'
+    auto_armor: true
+    Items:
+      '1':
+        id: BOW
+        amount: '1'
+        durability: '0'
+        enchants:
+        - ARROW_INFINITE;1
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 0
+      '2':
+        id: ARROW
+        amount: '1'
+        durability: '0'
+        preview_slot: 1
+      '3':
+        color: 10511680
+        id: LEATHER_BOOTS
+        amount: '1'
+        durability: '0'
+        preview_slot: 2
+      '4':
+        color: 10511680
+        id: LEATHER_LEGGINGS
+        amount: '1'
+        durability: '0'
+        preview_slot: 3
+      '5':
+        color: 10511680
+        id: LEATHER_CHESTPLATE
+        amount: '1'
+        durability: '0'
+        preview_slot: 4
+      '6':
+        color: 10511680
+        id: LEATHER_HELMET
+        amount: '1'
+        durability: '0'
+        preview_slot: 5
+      '7':
+        offhand: true
+        id: GOLDEN_CARROT
+        amount: '64'
+        durability: '0'
+        preview_slot: 6
+  UHC:
+    slot: 7
+    display_item: IRON_SWORD
+    display_name: '&6&lUHC &aKit'
+    display_lore:
+    - '&7This is a description of the kit.'
+    - '&7You can add multiples &alines&7.'
+    cooldown: 3600
+    permission: playerkits.kit.UHC
+    noPermissionsItem:
+      display_item: BARRIER
+      display_name: '&6&lUHC &aKit'
+      display_lore:
+      - '&cYou don''t have permissions to claim'
+      - '&cthis kit.'
+    auto_armor: true
+    Items:
+      '1':
+        id: DIAMOND_SWORD
+        amount: '1'
+        durability: '0'
+        enchants:
+        - DAMAGE_ALL;5
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 0
+      '2':
+        id: DIAMOND_AXE
+        amount: '1'
+        durability: '0'
+        enchants:
+        - DIG_SPEED;5
+        - DAMAGE_ALL;4
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 1
+      '3':
+        id: BOW
+        amount: '1'
+        durability: '0'
+        enchants:
+        - ARROW_DAMAGE;5
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 2
+      '4':
+        id: GOLDEN_APPLE
+        amount: '32'
+        durability: '0'
+        preview_slot: 3
+      '5':
+        id: WATER_BUCKET
+        amount: '1'
+        durability: '0'
+        preview_slot: 4
+      '6':
+        id: COBWEB
+        amount: '16'
+        durability: '0'
+        preview_slot: 5
+      '7':
+        id: LAVA_BUCKET
+        amount: '1'
+        durability: '0'
+        preview_slot: 6
+      '8':
+        id: LAVA_BUCKET
+        amount: '1'
+        durability: '0'
+        preview_slot: 7
+      '9':
+        id: COBBLESTONE
+        amount: '64'
+        durability: '0'
+        preview_slot: 8
+      '10':
+        id: ARROW
+        amount: '64'
+        durability: '0'
+        preview_slot: 9
+      '11':
+        id: WATER_BUCKET
+        amount: '1'
+        durability: '0'
+        preview_slot: 10
+      '12':
+        id: LAVA_BUCKET
+        amount: '1'
+        durability: '0'
+        preview_slot: 11
+      '13':
+        id: OAK_PLANKS
+        amount: '64'
+        durability: '0'
+        preview_slot: 12
+      '14':
+        id: COBBLESTONE
+        amount: '64'
+        durability: '0'
+        preview_slot: 13
+      '15':
+        nbt:
+        - Charged;false;boolean
+        id: CROSSBOW
+        amount: '1'
+        durability: '0'
+        enchants:
+        - QUICK_CHARGE;2
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 14
+      '16':
+        id: DIAMOND_PICKAXE
+        amount: '1'
+        durability: '0'
+        enchants:
+        - DIG_SPEED;4
+        unbreakable: 'false'
+        preview_slot: 15
+      '17':
+        id: WATER_BUCKET
+        amount: '1'
+        durability: '0'
+        preview_slot: 16
+      '18':
+        id: LAVA_BUCKET
+        amount: '1'
+        durability: '0'
+        preview_slot: 17
+      '19':
+        id: OAK_PLANKS
+        amount: '64'
+        durability: '0'
+        preview_slot: 18
+      '20':
+        id: DIAMOND_BOOTS
+        amount: '1'
+        durability: '0'
+        enchants:
+        - PROTECTION_ENVIRONMENTAL;3
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 19
+      '21':
+        id: DIAMOND_LEGGINGS
+        amount: '1'
+        durability: '0'
+        enchants:
+        - PROTECTION_ENVIRONMENTAL;3
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 20
+      '22':
+        id: DIAMOND_CHESTPLATE
+        amount: '1'
+        durability: '0'
+        enchants:
+        - PROTECTION_ENVIRONMENTAL;3
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 21
+      '23':
+        id: DIAMOND_HELMET
+        amount: '1'
+        durability: '0'
+        enchants:
+        - PROTECTION_ENVIRONMENTAL;3
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 22
+      '24':
+        offhand: true
+        id: SHIELD
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 23
+  Manhunt:
+    slot: 9
+    display_item: IRON_SWORD
+    display_name: '&6&lManhunt &aKit'
+    display_lore:
+    - '&7This is a description of the kit.'
+    - '&7You can add multiples &alines&7.'
+    cooldown: 3600
+    permission: playerkits.kit.Manhunt
+    noPermissionsItem:
+      display_item: BARRIER
+      display_name: '&6&lManhunt &aKit'
+      display_lore:
+      - '&cYou don''t have permissions to claim'
+      - '&cthis kit.'
+    auto_armor: true
+    Items:
+      '1':
+        id: DIAMOND_SWORD
+        amount: '1'
+        durability: '0'
+        preview_slot: 0
+      '2':
+        id: DIAMOND_AXE
+        amount: '1'
+        durability: '0'
+        preview_slot: 1
+      '3':
+        id: COBBLESTONE
+        amount: '64'
+        durability: '0'
+        preview_slot: 2
+      '4':
+        id: CROSSBOW
+        amount: '1'
+        durability: '0'
+        preview_slot: 3
+      '5':
+        id: SLIME_BLOCK
+        amount: '6'
+        durability: '0'
+        preview_slot: 4
+      '6':
+        id: COBWEB
+        amount: '2'
+        durability: '0'
+        preview_slot: 5
+      '7':
+        id: LAVA_BUCKET
+        amount: '1'
+        durability: '0'
+        preview_slot: 6
+      '8':
+        id: WATER_BUCKET
+        amount: '1'
+        durability: '0'
+        preview_slot: 7
+      '9':
+        id: COOKED_BEEF
+        amount: '20'
+        durability: '0'
+        preview_slot: 8
+      '10':
+        id: DIAMOND_PICKAXE
+        amount: '1'
+        durability: '0'
+        preview_slot: 9
+      '11':
+        id: BOW
+        amount: '1'
+        durability: '0'
+        preview_slot: 10
+      '12':
+        id: OAK_BOAT
+        amount: '1'
+        durability: '0'
+        preview_slot: 11
+      '13':
+        id: APPLE
+        amount: '2'
+        durability: '0'
+        preview_slot: 12
+      '14':
+        id: DIAMOND
+        amount: '3'
+        durability: '0'
+        preview_slot: 13
+      '15':
+        id: FISHING_ROD
+        amount: '1'
+        durability: '0'
+        preview_slot: 14
+      '16':
+        id: ANCIENT_DEBRIS
+        amount: '2'
+        durability: '0'
+        preview_slot: 15
+      '17':
+        id: OAK_PLANKS
+        amount: '64'
+        durability: '0'
+        preview_slot: 16
+      '18':
+        id: COBBLESTONE_SLAB
+        amount: '5'
+        durability: '0'
+        preview_slot: 17
+      '19':
+        id: IRON_INGOT
+        amount: '4'
+        durability: '0'
+        preview_slot: 18
+      '20':
+        id: GOLD_INGOT
+        amount: '2'
+        durability: '0'
+        preview_slot: 19
+      '21':
+        id: FLINT_AND_STEEL
+        amount: '1'
+        durability: '0'
+        preview_slot: 20
+      '22':
+        id: SPONGE
+        amount: '1'
+        durability: '0'
+        preview_slot: 21
+      '23':
+        id: POINTED_DRIPSTONE
+        amount: '2'
+        durability: '0'
+        preview_slot: 22
+      '24':
+        id: SCAFFOLDING
+        amount: '22'
+        durability: '0'
+        preview_slot: 23
+      '25':
+        id: OBSIDIAN
+        amount: '2'
+        durability: '0'
+        preview_slot: 24
+      '26':
+        id: ARROW
+        amount: '14'
+        durability: '0'
+        preview_slot: 25
+      '27':
+        id: TNT
+        amount: '3'
+        durability: '0'
+        preview_slot: 26
+      '28':
+        id: DIAMOND_BOOTS
+        amount: '1'
+        durability: '0'
+        preview_slot: 28
+      '29':
+        id: IRON_LEGGINGS
+        amount: '1'
+        durability: '0'
+        preview_slot: 29
+      '30':
+        id: DIAMOND_CHESTPLATE
+        amount: '1'
+        durability: '0'
+        preview_slot: 30
+      '31':
+        id: IRON_HELMET
+        amount: '1'
+        durability: '0'
+        preview_slot: 31
+      '32':
+        offhand: true
+        id: SHIELD
+        amount: '1'
+        durability: '0'
+        preview_slot: 32
+  Cart:
+    slot: 12
+    display_item: IRON_SWORD
+    display_name: '&6&lCart &aKit'
+    display_lore:
+    - '&7This is a description of the kit.'
+    - '&7You can add multiples &alines&7.'
+    cooldown: 3600
+    permission: playerkits.kit.Cart
+    noPermissionsItem:
+      display_item: BARRIER
+      display_name: '&6&lCart &aKit'
+      display_lore:
+      - '&cYou don''t have permissions to claim'
+      - '&cthis kit.'
+    auto_armor: true
+    Items:
+      '1':
+        id: NETHERITE_SWORD
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - DAMAGE_ALL;5
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 0
+      '2':
+        id: NETHERITE_AXE
+        amount: '1'
+        durability: '0'
+        enchants:
+        - DAMAGE_ALL;5
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 1
+      '3':
+        id: GOLDEN_APPLE
+        amount: '64'
+        durability: '0'
+        preview_slot: 2
+      '4':
+        id: BOW
+        amount: '1'
+        durability: '0'
+        enchants:
+        - ARROW_FIRE;1
+        - ARROW_DAMAGE;5
+        - ARROW_KNOCKBACK;2
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 3
+      '5':
+        id: RAIL
+        amount: '64'
+        durability: '0'
+        preview_slot: 4
+      '6':
+        id: TNT_MINECART
+        amount: '1'
+        durability: '0'
+        preview_slot: 5
+      '7':
+        id: COBWEB
+        amount: '64'
+        durability: '0'
+        preview_slot: 6
+      '8':
+        id: WATER_BUCKET
+        amount: '1'
+        durability: '0'
+        preview_slot: 7
+      '9':
+        id: OAK_PLANKS
+        amount: '64'
+        durability: '0'
+        preview_slot: 8
+      '10':
+        id: TNT_MINECART
+        amount: '1'
+        durability: '0'
+        preview_slot: 9
+      '11':
+        id: TNT_MINECART
+        amount: '1'
+        durability: '0'
+        preview_slot: 10
+      '12':
+        id: TNT_MINECART
+        amount: '1'
+        durability: '0'
+        preview_slot: 11
+      '13':
+        id: TNT_MINECART
+        amount: '1'
+        durability: '0'
+        preview_slot: 12
+      '14':
+        id: TNT_MINECART
+        amount: '1'
+        durability: '0'
+        preview_slot: 13
+      '15':
+        id: TNT_MINECART
+        amount: '1'
+        durability: '0'
+        preview_slot: 14
+      '16':
+        id: RAIL
+        amount: '64'
+        durability: '0'
+        preview_slot: 15
+      '17':
+        id: ARROW
+        amount: '64'
+        durability: '0'
+        preview_slot: 16
+      '18':
+        id: WATER_BUCKET
+        amount: '1'
+        durability: '0'
+        preview_slot: 17
+      '19':
+        id: TNT_MINECART
+        amount: '1'
+        durability: '0'
+        preview_slot: 18
+      '20':
+        id: TNT_MINECART
+        amount: '1'
+        durability: '0'
+        preview_slot: 19
+      '21':
+        id: TNT_MINECART
+        amount: '1'
+        durability: '0'
+        preview_slot: 20
+      '22':
+        id: TNT_MINECART
+        amount: '1'
+        durability: '0'
+        preview_slot: 21
+      '23':
+        id: TNT_MINECART
+        amount: '1'
+        durability: '0'
+        preview_slot: 22
+      '24':
+        id: TNT_MINECART
+        amount: '1'
+        durability: '0'
+        preview_slot: 23
+      '25':
+        id: OAK_PLANKS
+        amount: '64'
+        durability: '0'
+        preview_slot: 24
+      '26':
+        id: OAK_PLANKS
+        amount: '64'
+        durability: '0'
+        preview_slot: 25
+      '27':
+        id: WATER_BUCKET
+        amount: '1'
+        durability: '0'
+        preview_slot: 26
+      '28':
+        id: TNT_MINECART
+        amount: '1'
+        durability: '0'
+        preview_slot: 27
+      '29':
+        id: TNT_MINECART
+        amount: '1'
+        durability: '0'
+        preview_slot: 28
+      '30':
+        id: TNT_MINECART
+        amount: '1'
+        durability: '0'
+        preview_slot: 29
+      '31':
+        id: TNT_MINECART
+        amount: '1'
+        durability: '0'
+        preview_slot: 30
+      '32':
+        id: TNT_MINECART
+        amount: '1'
+        durability: '0'
+        preview_slot: 31
+      '33':
+        id: TNT_MINECART
+        amount: '1'
+        durability: '0'
+        preview_slot: 32
+      '34':
+        nbt:
+        - BlockEntityTag;{Items:[{Count:1b,Slot:0b,id:"minecraft:tnt_minecart"},{Count:1b,Slot:1b,id:"minecraft:tnt_minecart"},{Count:1b,Slot:2b,id:"minecraft:tnt_minecart"},{Count:1b,Slot:3b,id:"minecraft:tnt_minecart"},{Count:1b,Slot:4b,id:"minecraft:tnt_minecart"},{Count:1b,Slot:5b,id:"minecraft:tnt_minecart"},{Count:1b,Slot:6b,id:"minecraft:tnt_minecart"},{Count:1b,Slot:7b,id:"minecraft:tnt_minecart"},{Count:1b,Slot:8b,id:"minecraft:tnt_minecart"},{Count:1b,Slot:9b,id:"minecraft:tnt_minecart"},{Count:1b,Slot:10b,id:"minecraft:tnt_minecart"},{Count:1b,Slot:11b,id:"minecraft:tnt_minecart"},{Count:1b,Slot:12b,id:"minecraft:tnt_minecart"},{Count:1b,Slot:13b,id:"minecraft:tnt_minecart"},{Count:1b,Slot:14b,id:"minecraft:tnt_minecart"},{Count:1b,Slot:15b,id:"minecraft:tnt_minecart"},{Count:1b,Slot:16b,id:"minecraft:tnt_minecart"},{Count:1b,Slot:17b,id:"minecraft:tnt_minecart"},{Count:1b,Slot:18b,id:"minecraft:tnt_minecart"},{Count:1b,Slot:19b,id:"minecraft:tnt_minecart"},{Count:1b,Slot:20b,id:"minecraft:tnt_minecart"},{Count:1b,Slot:21b,id:"minecraft:tnt_minecart"},{Count:1b,Slot:22b,id:"minecraft:tnt_minecart"},{Count:1b,Slot:23b,id:"minecraft:tnt_minecart"},{Count:1b,Slot:24b,id:"minecraft:tnt_minecart"},{Count:1b,Slot:25b,id:"minecraft:tnt_minecart"},{Count:1b,Slot:26b,id:"minecraft:tnt_minecart"}],id:"minecraft:shulker_box"};compound
+        id: SHULKER_BOX
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 33
+      '35':
+        id: OAK_PLANKS
+        amount: '64'
+        durability: '0'
+        preview_slot: 34
+      '36':
+        id: COBWEB
+        amount: '64'
+        durability: '0'
+        preview_slot: 35
+      '37':
+        id: NETHERITE_BOOTS
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - PROTECTION_ENVIRONMENTAL;4
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 36
+      '38':
+        id: NETHERITE_LEGGINGS
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - PROTECTION_ENVIRONMENTAL;4
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 37
+      '39':
+        id: NETHERITE_CHESTPLATE
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - PROTECTION_ENVIRONMENTAL;4
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 38
+      '40':
+        id: NETHERITE_HELMET
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - PROTECTION_ENVIRONMENTAL;4
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 39
+      '41':
+        offhand: true
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 40
+  CryFfa:
+    slot: 14
+    display_item: IRON_SWORD
+    display_name: '&6&lCryFfa &aKit'
+    display_lore:
+    - '&7This is a description of the kit.'
+    - '&7You can add multiples &alines&7.'
+    cooldown: 3600
+    permission: playerkits.kit.CryFfa
+    noPermissionsItem:
+      display_item: BARRIER
+      display_name: '&6&lCryFfa &aKit'
+      display_lore:
+      - '&cYou don''t have permissions to claim'
+      - '&cthis kit.'
+    auto_armor: true
+    Items:
+      '1':
+        id: NETHERITE_SWORD
+        amount: '1'
+        durability: '0'
+        enchants:
+        - KNOCKBACK;1
+        - MENDING;1
+        - DAMAGE_ALL;5
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 0
+      '2':
+        id: NETHERITE_PICKAXE
+        amount: '1'
+        durability: '0'
+        enchants:
+        - DIG_SPEED;5
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 1
+      '3':
+        id: OBSIDIAN
+        amount: '64'
+        durability: '0'
+        preview_slot: 2
+      '4':
+        id: END_CRYSTAL
+        amount: '64'
+        durability: '0'
+        preview_slot: 3
+      '5':
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 4
+      '6':
+        id: RESPAWN_ANCHOR
+        amount: '64'
+        durability: '0'
+        preview_slot: 5
+      '7':
+        id: GLOWSTONE
+        amount: '64'
+        durability: '0'
+        preview_slot: 6
+      '8':
+        id: ENDER_PEARL
+        amount: '16'
+        durability: '0'
+        preview_slot: 7
+      '9':
+        id: GOLDEN_APPLE
+        amount: '64'
+        durability: '0'
+        preview_slot: 8
+      '10':
+        potion-type: SLOW_FALLING
+        potion-upgraded: 'false'
+        potion-extended: 'false'
+        id: TIPPED_ARROW
+        amount: '64'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 9
+      '11':
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 10
+      '12':
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 11
+      '13':
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 12
+      '14':
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 13
+      '15':
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 14
+      '16':
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 15
+      '17':
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 16
+      '18':
+        id: RESPAWN_ANCHOR
+        amount: '64'
+        durability: '0'
+        preview_slot: 17
+      '19':
+        nbt:
+        - Charged;false;boolean
+        id: CROSSBOW
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - MULTISHOT;1
+        - QUICK_CHARGE;3
+        unbreakable: 'false'
+        preview_slot: 18
+      '20':
+        id: END_CRYSTAL
+        amount: '64'
+        durability: '0'
+        preview_slot: 19
+      '21':
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 20
+      '22':
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 21
+      '23':
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 22
+      '24':
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 23
+      '25':
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 24
+      '26':
+        id: EXPERIENCE_BOTTLE
+        amount: '64'
+        durability: '0'
+        preview_slot: 25
+      '27':
+        id: GLOWSTONE
+        amount: '64'
+        durability: '0'
+        preview_slot: 26
+      '28':
+        id: END_CRYSTAL
+        amount: '64'
+        durability: '0'
+        preview_slot: 27
+      '29':
+        id: END_CRYSTAL
+        amount: '64'
+        durability: '0'
+        preview_slot: 28
+      '30':
+        id: OBSIDIAN
+        amount: '64'
+        durability: '0'
+        preview_slot: 29
+      '31':
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 30
+      '32':
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 31
+      '33':
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 32
+      '34':
+        id: EXPERIENCE_BOTTLE
+        amount: '64'
+        durability: '0'
+        preview_slot: 33
+      '35':
+        id: ENDER_PEARL
+        amount: '16'
+        durability: '0'
+        preview_slot: 34
+      '36':
+        id: ENDER_PEARL
+        amount: '16'
+        durability: '0'
+        preview_slot: 35
+      '37':
+        id: NETHERITE_BOOTS
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - PROTECTION_ENVIRONMENTAL;4
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 36
+      '38':
+        id: NETHERITE_LEGGINGS
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - PROTECTION_ENVIRONMENTAL;4
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 37
+      '39':
+        id: NETHERITE_CHESTPLATE
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - PROTECTION_ENVIRONMENTAL;4
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 38
+      '40':
+        id: NETHERITE_HELMET
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - PROTECTION_ENVIRONMENTAL;4
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 39
+      '41':
+        offhand: true
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 40
+  Crystal:
+    slot: 13
+    display_item: IRON_SWORD
+    display_name: '&6&lCrystal &aKit'
+    display_lore:
+    - '&7This is a description of the kit.'
+    - '&7You can add multiples &alines&7.'
+    cooldown: 3600
+    permission: playerkits.kit.Crystal
+    noPermissionsItem:
+      display_item: BARRIER
+      display_name: '&6&lCrystal &aKit'
+      display_lore:
+      - '&cYou don''t have permissions to claim'
+      - '&cthis kit.'
+    auto_armor: true
+    Items:
+      '1':
+        id: NETHERITE_SWORD
+        amount: '1'
+        durability: '0'
+        enchants:
+        - KNOCKBACK;1
+        - MENDING;1
+        - DAMAGE_ALL;5
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 0
+      '2':
+        id: NETHERITE_PICKAXE
+        amount: '1'
+        durability: '0'
+        enchants:
+        - DIG_SPEED;5
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 1
+      '3':
+        id: OBSIDIAN
+        amount: '64'
+        durability: '0'
+        preview_slot: 2
+      '4':
+        id: END_CRYSTAL
+        amount: '64'
+        durability: '0'
+        preview_slot: 3
+      '5':
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 4
+      '6':
+        id: RESPAWN_ANCHOR
+        amount: '64'
+        durability: '0'
+        preview_slot: 5
+      '7':
+        id: GLOWSTONE
+        amount: '64'
+        durability: '0'
+        preview_slot: 6
+      '8':
+        id: ENDER_PEARL
+        amount: '16'
+        durability: '0'
+        preview_slot: 7
+      '9':
+        id: GOLDEN_APPLE
+        amount: '64'
+        durability: '0'
+        preview_slot: 8
+      '10':
+        potion-type: SLOW_FALLING
+        potion-upgraded: 'false'
+        potion-extended: 'false'
+        id: TIPPED_ARROW
+        amount: '64'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 9
+      '11':
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 10
+      '12':
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 11
+      '13':
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 12
+      '14':
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 13
+      '15':
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 14
+      '16':
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 15
+      '17':
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 16
+      '18':
+        id: EXPERIENCE_BOTTLE
+        amount: '64'
+        durability: '0'
+        preview_slot: 17
+      '19':
+        nbt:
+        - Charged;false;boolean
+        id: CROSSBOW
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - MULTISHOT;1
+        - QUICK_CHARGE;3
+        unbreakable: 'false'
+        preview_slot: 18
+      '20':
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 19
+      '21':
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 20
+      '22':
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 21
+      '23':
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 22
+      '24':
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 23
+      '25':
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 24
+      '26':
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 25
+      '27':
+        id: EXPERIENCE_BOTTLE
+        amount: '64'
+        durability: '0'
+        preview_slot: 26
+      '28':
+        id: END_CRYSTAL
+        amount: '64'
+        durability: '0'
+        preview_slot: 27
+      '29':
+        id: OBSIDIAN
+        amount: '64'
+        durability: '0'
+        preview_slot: 28
+      '30':
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 29
+      '31':
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 30
+      '32':
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 31
+      '33':
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 32
+      '34':
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 33
+      '35':
+        id: ENDER_PEARL
+        amount: '16'
+        durability: '0'
+        preview_slot: 34
+      '36':
+        id: ENDER_PEARL
+        amount: '16'
+        durability: '0'
+        preview_slot: 35
+      '37':
+        id: NETHERITE_BOOTS
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - PROTECTION_ENVIRONMENTAL;4
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 36
+      '38':
+        id: NETHERITE_LEGGINGS
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - PROTECTION_ENVIRONMENTAL;4
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 37
+      '39':
+        id: NETHERITE_CHESTPLATE
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - PROTECTION_ENVIRONMENTAL;4
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 38
+      '40':
+        id: NETHERITE_HELMET
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - PROTECTION_ENVIRONMENTAL;4
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 39
+      '41':
+        offhand: true
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 40
+  DiaPot:
+    slot: 15
+    display_item: IRON_SWORD
+    display_name: '&6&lDiaPot &aKit'
+    display_lore:
+    - '&7This is a description of the kit.'
+    - '&7You can add multiples &alines&7.'
+    cooldown: 3600
+    permission: playerkits.kit.DiaPot
+    noPermissionsItem:
+      display_item: BARRIER
+      display_name: '&6&lDiaPot &aKit'
+      display_lore:
+      - '&cYou don''t have permissions to claim'
+      - '&cthis kit.'
+    auto_armor: true
+    Items:
+      '1':
+        id: ENDER_PEARL
+        amount: '4'
+        durability: '0'
+        preview_slot: 0
+      '2':
+        id: DIAMOND_SWORD
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - DAMAGE_ALL;4
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 1
+      '3':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 2
+      '4':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 3
+      '5':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 4
+      '6':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 5
+      '7':
+        potion-type: REGEN
+        potion-upgraded: 'false'
+        potion-extended: 'true'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 6
+      '8':
+        potion-type: SPEED
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 7
+      '9':
+        potion-type: STRENGTH
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 8
+      '10':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 9
+      '11':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 10
+      '12':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 11
+      '13':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 12
+      '14':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 13
+      '15':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 14
+      '16':
+        potion-type: REGEN
+        potion-upgraded: 'false'
+        potion-extended: 'true'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 15
+      '17':
+        potion-type: SPEED
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 16
+      '18':
+        potion-type: STRENGTH
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 17
+      '19':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 18
+      '20':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 19
+      '21':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 20
+      '22':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 21
+      '23':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 22
+      '24':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 23
+      '25':
+        potion-type: REGEN
+        potion-upgraded: 'false'
+        potion-extended: 'true'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 24
+      '26':
+        potion-type: SPEED
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 25
+      '27':
+        potion-type: STRENGTH
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 26
+      '28':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 27
+      '29':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 28
+      '30':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 29
+      '31':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 30
+      '32':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 31
+      '33':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 32
+      '34':
+        potion-type: REGEN
+        potion-upgraded: 'false'
+        potion-extended: 'true'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 33
+      '35':
+        potion-type: SPEED
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 34
+      '36':
+        potion-type: STRENGTH
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 35
+      '37':
+        id: DIAMOND_BOOTS
+        amount: '1'
+        durability: '0'
+        enchants:
+        - PROTECTION_FALL;4
+        - MENDING;1
+        - PROTECTION_ENVIRONMENTAL;4
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 36
+      '38':
+        id: DIAMOND_LEGGINGS
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - PROTECTION_ENVIRONMENTAL;4
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 37
+      '39':
+        id: DIAMOND_CHESTPLATE
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - PROTECTION_ENVIRONMENTAL;4
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 38
+      '40':
+        id: DIAMOND_HELMET
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - PROTECTION_ENVIRONMENTAL;4
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 39
+      '41':
+        offhand: true
+        id: GOLDEN_CARROT
+        amount: '64'
+        durability: '0'
+        preview_slot: 40
+  ElytraPvP:
+    slot: 16
+    display_item: IRON_SWORD
+    display_name: '&6&lElytraPvP &aKit'
+    display_lore:
+    - '&7This is a description of the kit.'
+    - '&7You can add multiples &alines&7.'
+    cooldown: 3600
+    permission: playerkits.kit.ElytraPvP
+    noPermissionsItem:
+      display_item: BARRIER
+      display_name: '&6&lElytraPvP &aKit'
+      display_lore:
+      - '&cYou don''t have permissions to claim'
+      - '&cthis kit.'
+    auto_armor: true
+    Items:
+      '1':
+        id: NETHERITE_SWORD
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - DAMAGE_ALL;5
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 0
+      '2':
+        id: GOLDEN_APPLE
+        amount: '64'
+        durability: '0'
+        preview_slot: 1
+      '3':
+        firework-effects: []
+        firework-power: '0'
+        id: FIREWORK_ROCKET
+        amount: '64'
+        durability: '0'
+        preview_slot: 2
+      '4':
+        id: ENDER_PEARL
+        amount: '16'
+        durability: '0'
+        preview_slot: 3
+      '5':
+        id: BOW
+        amount: '1'
+        durability: '0'
+        enchants:
+        - ARROW_INFINITE;1
+        - ARROW_DAMAGE;5
+        - ARROW_KNOCKBACK;2
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 4
+      '6':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 5
+      '7':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 6
+      '8':
+        potion-type: SPEED
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 7
+      '9':
+        potion-type: STRENGTH
+        potion-upgraded: 'false'
+        potion-extended: 'true'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 8
+      '10':
+        firework-effects: []
+        firework-power: '0'
+        id: FIREWORK_ROCKET
+        amount: '64'
+        durability: '0'
+        preview_slot: 9
+      '11':
+        firework-effects: []
+        firework-power: '0'
+        id: FIREWORK_ROCKET
+        amount: '64'
+        durability: '0'
+        preview_slot: 10
+      '12':
+        id: ARROW
+        amount: '1'
+        durability: '0'
+        preview_slot: 11
+      '13':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 12
+      '14':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 13
+      '15':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 14
+      '16':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 15
+      '17':
+        potion-type: SPEED
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 16
+      '18':
+        potion-type: STRENGTH
+        potion-upgraded: 'false'
+        potion-extended: 'true'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 17
+      '19':
+        id: ENDER_PEARL
+        amount: '16'
+        durability: '0'
+        preview_slot: 18
+      '20':
+        id: ENDER_PEARL
+        amount: '16'
+        durability: '0'
+        preview_slot: 19
+      '21':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 20
+      '22':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 21
+      '23':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 22
+      '24':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 23
+      '25':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 24
+      '26':
+        potion-type: SPEED
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 25
+      '27':
+        potion-type: STRENGTH
+        potion-upgraded: 'false'
+        potion-extended: 'true'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 26
+      '28':
+        id: EXPERIENCE_BOTTLE
+        amount: '64'
+        durability: '0'
+        preview_slot: 27
+      '29':
+        id: EXPERIENCE_BOTTLE
+        amount: '64'
+        durability: '0'
+        preview_slot: 28
+      '30':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 29
+      '31':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 30
+      '32':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 31
+      '33':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 32
+      '34':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 33
+      '35':
+        potion-type: SPEED
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 34
+      '36':
+        potion-type: STRENGTH
+        potion-upgraded: 'false'
+        potion-extended: 'true'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 35
+      '37':
+        id: NETHERITE_BOOTS
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - PROTECTION_ENVIRONMENTAL;4
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 36
+      '38':
+        id: NETHERITE_LEGGINGS
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - PROTECTION_ENVIRONMENTAL;4
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 37
+      '39':
+        id: ELYTRA
+        amount: '1'
+        durability: '0'
+        preview_slot: 38
+      '40':
+        id: NETHERITE_HELMET
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - PROTECTION_ENVIRONMENTAL;4
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 39
+      '41':
+        offhand: true
+        firework-effects: []
+        firework-power: '0'
+        id: FIREWORK_ROCKET
+        amount: '64'
+        durability: '0'
+        preview_slot: 40
+  bedpvp:
+    slot: 17
+    display_item: IRON_SWORD
+    display_name: '&6&lbedpvp &aKit'
+    display_lore:
+    - '&7This is a description of the kit.'
+    - '&7You can add multiples &alines&7.'
+    cooldown: 3600
+    permission: playerkits.kit.bedpvp
+    noPermissionsItem:
+      display_item: BARRIER
+      display_name: '&6&lbedpvp &aKit'
+      display_lore:
+      - '&cYou don''t have permissions to claim'
+      - '&cthis kit.'
+    auto_armor: true
+    Items:
+      '1':
+        id: NETHERITE_PICKAXE
+        amount: '1'
+        durability: '0'
+        enchants:
+        - DIG_SPEED;5
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 0
+      '2':
+        id: GOLDEN_APPLE
+        amount: '32'
+        durability: '0'
+        preview_slot: 1
+      '3':
+        id: BLUE_BED
+        amount: '1'
+        durability: '0'
+        preview_slot: 2
+      '4':
+        id: BLUE_BED
+        amount: '1'
+        durability: '0'
+        preview_slot: 3
+      '5':
+        id: BLUE_BED
+        amount: '1'
+        durability: '0'
+        preview_slot: 4
+      '6':
+        id: BLUE_BED
+        amount: '1'
+        durability: '0'
+        preview_slot: 5
+      '7':
+        id: BLUE_BED
+        amount: '1'
+        durability: '0'
+        preview_slot: 6
+      '8':
+        id: BLUE_BED
+        amount: '1'
+        durability: '0'
+        preview_slot: 7
+      '9':
+        nbt:
+        - BlockEntityTag;{Items:[{Count:1b,Slot:0b,id:"minecraft:blue_bed"},{Count:1b,Slot:1b,id:"minecraft:blue_bed"},{Count:1b,Slot:2b,id:"minecraft:blue_bed"},{Count:1b,Slot:3b,id:"minecraft:blue_bed"},{Count:1b,Slot:4b,id:"minecraft:blue_bed"},{Count:1b,Slot:5b,id:"minecraft:blue_bed"},{Count:1b,Slot:6b,id:"minecraft:blue_bed"},{Count:1b,Slot:7b,id:"minecraft:blue_bed"},{Count:1b,Slot:8b,id:"minecraft:blue_bed"},{Count:1b,Slot:9b,id:"minecraft:blue_bed"},{Count:1b,Slot:10b,id:"minecraft:blue_bed"},{Count:1b,Slot:11b,id:"minecraft:blue_bed"},{Count:1b,Slot:13b,id:"minecraft:blue_bed"},{Count:1b,Slot:14b,id:"minecraft:blue_bed"},{Count:1b,Slot:15b,id:"minecraft:blue_bed"},{Count:1b,Slot:16b,id:"minecraft:blue_bed"},{Count:1b,Slot:17b,id:"minecraft:blue_bed"},{Count:1b,Slot:18b,id:"minecraft:blue_bed"},{Count:1b,Slot:19b,id:"minecraft:blue_bed"},{Count:1b,Slot:20b,id:"minecraft:blue_bed"},{Count:1b,Slot:21b,id:"minecraft:blue_bed"},{Count:1b,Slot:22b,id:"minecraft:blue_bed"},{Count:1b,Slot:23b,id:"minecraft:blue_bed"},{Count:1b,Slot:24b,id:"minecraft:blue_bed"},{Count:1b,Slot:25b,id:"minecraft:blue_bed"},{Count:1b,Slot:26b,id:"minecraft:blue_bed"}],id:"minecraft:shulker_box"};compound
+        id: BLUE_SHULKER_BOX
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 8
+      '10':
+        id: BLUE_BED
+        amount: '1'
+        durability: '0'
+        preview_slot: 9
+      '11':
+        id: BLUE_BED
+        amount: '1'
+        durability: '0'
+        preview_slot: 10
+      '12':
+        id: BLUE_BED
+        amount: '1'
+        durability: '0'
+        preview_slot: 11
+      '13':
+        id: BLUE_BED
+        amount: '1'
+        durability: '0'
+        preview_slot: 12
+      '14':
+        id: BLUE_BED
+        amount: '1'
+        durability: '0'
+        preview_slot: 13
+      '15':
+        id: BLUE_BED
+        amount: '1'
+        durability: '0'
+        preview_slot: 14
+      '16':
+        id: BLUE_BED
+        amount: '1'
+        durability: '0'
+        preview_slot: 15
+      '17':
+        id: BLUE_BED
+        amount: '1'
+        durability: '0'
+        preview_slot: 16
+      '18':
+        id: BLUE_BED
+        amount: '1'
+        durability: '0'
+        preview_slot: 17
+      '19':
+        id: BLUE_BED
+        amount: '1'
+        durability: '0'
+        preview_slot: 18
+      '20':
+        id: BLUE_BED
+        amount: '1'
+        durability: '0'
+        preview_slot: 19
+      '21':
+        id: BLUE_BED
+        amount: '1'
+        durability: '0'
+        preview_slot: 20
+      '22':
+        id: BLUE_BED
+        amount: '1'
+        durability: '0'
+        preview_slot: 21
+      '23':
+        id: BLUE_BED
+        amount: '1'
+        durability: '0'
+        preview_slot: 22
+      '24':
+        id: BLUE_BED
+        amount: '1'
+        durability: '0'
+        preview_slot: 23
+      '25':
+        id: BLUE_BED
+        amount: '1'
+        durability: '0'
+        preview_slot: 24
+      '26':
+        id: BLUE_BED
+        amount: '1'
+        durability: '0'
+        preview_slot: 25
+      '27':
+        id: BLUE_BED
+        amount: '1'
+        durability: '0'
+        preview_slot: 26
+      '28':
+        id: BLUE_BED
+        amount: '1'
+        durability: '0'
+        preview_slot: 27
+      '29':
+        id: BLUE_BED
+        amount: '1'
+        durability: '0'
+        preview_slot: 28
+      '30':
+        id: BLUE_BED
+        amount: '1'
+        durability: '0'
+        preview_slot: 29
+      '31':
+        id: BLUE_BED
+        amount: '1'
+        durability: '0'
+        preview_slot: 30
+      '32':
+        id: BLUE_BED
+        amount: '1'
+        durability: '0'
+        preview_slot: 31
+      '33':
+        id: BLUE_BED
+        amount: '1'
+        durability: '0'
+        preview_slot: 32
+      '34':
+        id: BLUE_BED
+        amount: '1'
+        durability: '0'
+        preview_slot: 33
+      '35':
+        id: BLUE_BED
+        amount: '1'
+        durability: '0'
+        preview_slot: 34
+      '36':
+        id: BLUE_BED
+        amount: '1'
+        durability: '0'
+        preview_slot: 35
+      '37':
+        id: NETHERITE_BOOTS
+        amount: '1'
+        durability: '0'
+        enchants:
+        - PROTECTION_FALL;4
+        - PROTECTION_ENVIRONMENTAL;2
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 36
+      '38':
+        id: NETHERITE_LEGGINGS
+        amount: '1'
+        durability: '0'
+        enchants:
+        - PROTECTION_ENVIRONMENTAL;2
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 37
+      '39':
+        id: NETHERITE_CHESTPLATE
+        amount: '1'
+        durability: '0'
+        enchants:
+        - PROTECTION_ENVIRONMENTAL;2
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 38
+      '40':
+        id: NETHERITE_HELMET
+        amount: '1'
+        durability: '0'
+        enchants:
+        - PROTECTION_ENVIRONMENTAL;2
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 39
+      '41':
+        offhand: true
+        id: END_STONE
+        amount: '64'
+        durability: '0'
+        preview_slot: 40
+  Dark:
+    slot: 19
+    display_item: IRON_SWORD
+    display_name: '&6&lDark &aKit'
+    display_lore:
+    - '&7This is a description of the kit.'
+    - '&7You can add multiples &alines&7.'
+    cooldown: 3600
+    permission: playerkits.kit.Dark
+    noPermissionsItem:
+      display_item: BARRIER
+      display_name: '&6&lDark &aKit'
+      display_lore:
+      - '&cYou don''t have permissions to claim'
+      - '&cthis kit.'
+    auto_armor: true
+    Items:
+      '1':
+        id: WOODEN_SWORD
+        amount: '1'
+        durability: '0'
+        name: DarkPlayz_'s Sword
+        unbreakable: 'false'
+        preview_slot: 0
+      '2':
+        id: GLASS
+        amount: '1'
+        durability: '0'
+        preview_slot: 1
+      '3':
+        id: WATER_BUCKET
+        amount: '1'
+        durability: '0'
+        preview_slot: 2
+      '4':
+        id: OAK_PLANKS
+        amount: '64'
+        durability: '0'
+        preview_slot: 3
+      '5':
+        id: OAK_PLANKS
+        amount: '64'
+        durability: '0'
+        preview_slot: 4
+      '6':
+        id: OAK_PLANKS
+        amount: '64'
+        durability: '0'
+        preview_slot: 5
+      '7':
+        id: BREAD
+        amount: '64'
+        durability: '0'
+        preview_slot: 6
+      '8':
+        color: 10511680
+        id: LEATHER_BOOTS
+        amount: '1'
+        durability: '0'
+        name: DarkPlayz_'s Boots
+        unbreakable: 'false'
+        preview_slot: 7
+      '9':
+        id: TURTLE_HELMET
+        amount: '1'
+        durability: '0'
+        name: DarkPlayz_'s Cap
+        unbreakable: 'false'
+        preview_slot: 8
+      '10':
+        offhand: true
+        id: TOTEM_OF_UNDYING
+        amount: '64'
+        durability: '0'
+        preview_slot: 9
+  End:
+    slot: 20
+    display_item: IRON_SWORD
+    display_name: '&6&lEnd &aKit'
+    display_lore:
+    - '&7This is a description of the kit.'
+    - '&7You can add multiples &alines&7.'
+    cooldown: 3600
+    permission: playerkits.kit.End
+    noPermissionsItem:
+      display_item: BARRIER
+      display_name: '&6&lEnd &aKit'
+      display_lore:
+      - '&cYou don''t have permissions to claim'
+      - '&cthis kit.'
+    auto_armor: true
+    Items:
+      '1':
+        id: NETHERITE_SWORD
+        amount: '1'
+        durability: '0'
+        enchants:
+        - FIRE_ASPECT;2
+        - MENDING;1
+        - DAMAGE_ALL;5
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 0
+      '2':
+        id: NETHERITE_AXE
+        amount: '1'
+        durability: '0'
+        enchants:
+        - DAMAGE_ALL;5
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 1
+      '3':
+        id: BOW
+        amount: '1'
+        durability: '0'
+        enchants:
+        - ARROW_FIRE;1
+        - ARROW_DAMAGE;5
+        - ARROW_KNOCKBACK;2
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 2
+      '4':
+        id: NETHERITE_PICKAXE
+        amount: '1'
+        durability: '0'
+        enchants:
+        - DIG_SPEED;5
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 3
+      '5':
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 4
+      '6':
+        id: GOLDEN_APPLE
+        amount: '64'
+        durability: '0'
+        preview_slot: 5
+      '7':
+        id: WATER_BUCKET
+        amount: '1'
+        durability: '0'
+        preview_slot: 6
+      '8':
+        id: ENDER_PEARL
+        amount: '16'
+        durability: '0'
+        preview_slot: 7
+      '9':
+        id: OAK_PLANKS
+        amount: '64'
+        durability: '0'
+        preview_slot: 8
+      '10':
+        potion-type: INSTANT_DAMAGE
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: TIPPED_ARROW
+        amount: '64'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 9
+      '11':
+        id: EXPERIENCE_BOTTLE
+        amount: '64'
+        durability: '0'
+        preview_slot: 10
+      '12':
+        id: EXPERIENCE_BOTTLE
+        amount: '64'
+        durability: '0'
+        preview_slot: 11
+      '13':
+        potion-type: STRENGTH
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 12
+      '14':
+        potion-type: STRENGTH
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 13
+      '15':
+        potion-type: STRENGTH
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 14
+      '16':
+        nbt:
+        - BlockEntityTag;{Items:[{Count:1b,Slot:0b,id:"minecraft:splash_potion",tag:{Potion:"minecraft:strong_strength"}},{Count:1b,Slot:1b,id:"minecraft:splash_potion",tag:{Potion:"minecraft:strong_strength"}},{Count:1b,Slot:2b,id:"minecraft:splash_potion",tag:{Potion:"minecraft:strong_strength"}},{Count:1b,Slot:3b,id:"minecraft:splash_potion",tag:{Potion:"minecraft:strong_strength"}},{Count:1b,Slot:4b,id:"minecraft:splash_potion",tag:{Potion:"minecraft:strong_strength"}},{Count:1b,Slot:5b,id:"minecraft:splash_potion",tag:{Potion:"minecraft:strong_strength"}},{Count:1b,Slot:6b,id:"minecraft:splash_potion",tag:{Potion:"minecraft:strong_strength"}},{Count:64b,Slot:7b,id:"minecraft:experience_bottle"},{Count:64b,Slot:8b,id:"minecraft:experience_bottle"},{Count:1b,Slot:9b,id:"minecraft:splash_potion",tag:{Potion:"minecraft:strong_swiftness"}},{Count:1b,Slot:10b,id:"minecraft:splash_potion",tag:{Potion:"minecraft:strong_swiftness"}},{Count:1b,Slot:11b,id:"minecraft:splash_potion",tag:{Potion:"minecraft:strong_swiftness"}},{Count:1b,Slot:12b,id:"minecraft:splash_potion",tag:{Potion:"minecraft:strong_swiftness"}},{Count:1b,Slot:13b,id:"minecraft:splash_potion",tag:{Potion:"minecraft:strong_swiftness"}},{Count:1b,Slot:14b,id:"minecraft:splash_potion",tag:{Potion:"minecraft:strong_swiftness"}},{Count:1b,Slot:15b,id:"minecraft:splash_potion",tag:{Potion:"minecraft:strong_swiftness"}},{Count:64b,Slot:16b,id:"minecraft:experience_bottle"},{Count:16b,Slot:17b,id:"minecraft:ender_pearl"},{Count:1b,Slot:18b,id:"minecraft:splash_potion",tag:{Potion:"minecraft:long_fire_resistance"}},{Count:1b,Slot:19b,id:"minecraft:splash_potion",tag:{Potion:"minecraft:long_fire_resistance"}},{Count:1b,Slot:20b,id:"minecraft:splash_potion",tag:{Potion:"minecraft:long_fire_resistance"}},{Count:1b,Slot:21b,id:"minecraft:splash_potion",tag:{Potion:"minecraft:long_fire_resistance"}},{Count:1b,Slot:22b,id:"minecraft:splash_potion",tag:{Potion:"minecraft:long_fire_resistance"}},{Count:1b,Slot:23b,id:"minecraft:splash_potion",tag:{Potion:"minecraft:long_fire_resistance"}},{Count:1b,Slot:24b,id:"minecraft:splash_potion",tag:{Potion:"minecraft:long_fire_resistance"}},{Count:16b,Slot:25b,id:"minecraft:ender_pearl"},{Count:16b,Slot:26b,id:"minecraft:ender_pearl"}],id:"minecraft:shulker_box"};compound
+        id: SHULKER_BOX
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 15
+      '17':
+        id: OAK_PLANKS
+        amount: '64'
+        durability: '0'
+        preview_slot: 16
+      '18':
+        id: OAK_PLANKS
+        amount: '64'
+        durability: '0'
+        preview_slot: 17
+      '19':
+        id: ENDER_PEARL
+        amount: '16'
+        durability: '0'
+        preview_slot: 18
+      '20':
+        id: ENDER_PEARL
+        amount: '16'
+        durability: '0'
+        preview_slot: 19
+      '21':
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 20
+      '22':
+        potion-type: SPEED
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 21
+      '23':
+        potion-type: SPEED
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 22
+      '24':
+        potion-type: SPEED
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 23
+      '25':
+        id: OAK_PLANKS
+        amount: '64'
+        durability: '0'
+        preview_slot: 24
+      '26':
+        id: OAK_PLANKS
+        amount: '64'
+        durability: '0'
+        preview_slot: 25
+      '27':
+        id: OAK_PLANKS
+        amount: '64'
+        durability: '0'
+        preview_slot: 26
+      '28':
+        id: GOLDEN_APPLE
+        amount: '64'
+        durability: '0'
+        preview_slot: 27
+      '29':
+        id: ENDER_PEARL
+        amount: '16'
+        durability: '0'
+        preview_slot: 28
+      '30':
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 29
+      '31':
+        potion-type: FIRE_RESISTANCE
+        potion-upgraded: 'false'
+        potion-extended: 'true'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 30
+      '32':
+        potion-type: FIRE_RESISTANCE
+        potion-upgraded: 'false'
+        potion-extended: 'true'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 31
+      '33':
+        potion-type: FIRE_RESISTANCE
+        potion-upgraded: 'false'
+        potion-extended: 'true'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 32
+      '34':
+        id: WATER_BUCKET
+        amount: '1'
+        durability: '0'
+        preview_slot: 33
+      '35':
+        id: OAK_PLANKS
+        amount: '64'
+        durability: '0'
+        preview_slot: 34
+      '36':
+        id: OAK_PLANKS
+        amount: '64'
+        durability: '0'
+        preview_slot: 35
+      '37':
+        id: NETHERITE_BOOTS
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - PROTECTION_ENVIRONMENTAL;4
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 36
+      '38':
+        id: NETHERITE_LEGGINGS
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - PROTECTION_ENVIRONMENTAL;4
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 37
+      '39':
+        id: NETHERITE_CHESTPLATE
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - PROTECTION_ENVIRONMENTAL;4
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 38
+      '40':
+        id: NETHERITE_HELMET
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - PROTECTION_ENVIRONMENTAL;4
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 39
+      '41':
+        offhand: true
+        id: SHIELD
+        amount: '1'
+        durability: '0'
+        enchants:
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 40
+  IronPot:
+    slot: 21
+    display_item: IRON_SWORD
+    display_name: '&6&lIronPot &aKit'
+    display_lore:
+    - '&7This is a description of the kit.'
+    - '&7You can add multiples &alines&7.'
+    cooldown: 3600
+    permission: playerkits.kit.IronPot
+    noPermissionsItem:
+      display_item: BARRIER
+      display_name: '&6&lIronPot &aKit'
+      display_lore:
+      - '&cYou don''t have permissions to claim'
+      - '&cthis kit.'
+    Items:
+      '1':
+        id: IRON_SWORD
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - DAMAGE_ALL;5
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 0
+      '2':
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 1
+      '3':
+        potion-type: STRENGTH
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 2
+      '4':
+        potion-type: SPEED
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 3
+      '5':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 4
+      '6':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 5
+      '7':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 6
+      '8':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 7
+      '9':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 8
+      '10':
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 9
+      '11':
+        id: EXPERIENCE_BOTTLE
+        amount: '64'
+        durability: '0'
+        preview_slot: 10
+      '12':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 11
+      '13':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 12
+      '14':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 13
+      '15':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 14
+      '16':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 15
+      '17':
+        potion-type: STRENGTH
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 16
+      '18':
+        potion-type: SPEED
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 17
+      '19':
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 18
+      '20':
+        id: EXPERIENCE_BOTTLE
+        amount: '64'
+        durability: '0'
+        preview_slot: 19
+      '21':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 20
+      '22':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 21
+      '23':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 22
+      '24':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 23
+      '25':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 24
+      '26':
+        potion-type: STRENGTH
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 25
+      '27':
+        potion-type: SPEED
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 26
+      '28':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 27
+      '29':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 28
+      '30':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 29
+      '31':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 30
+      '32':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 31
+      '33':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 32
+      '34':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 33
+      '35':
+        potion-type: STRENGTH
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 34
+      '36':
+        potion-type: SPEED
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 35
+      '37':
+        id: IRON_BOOTS
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - PROTECTION_ENVIRONMENTAL;4
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 36
+      '38':
+        id: IRON_LEGGINGS
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - PROTECTION_ENVIRONMENTAL;4
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 37
+      '39':
+        id: IRON_CHESTPLATE
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - PROTECTION_ENVIRONMENTAL;4
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 38
+      '40':
+        id: IRON_HELMET
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - PROTECTION_ENVIRONMENTAL;4
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 39
+      '41':
+        offhand: true
+        id: GOLDEN_APPLE
+        amount: '64'
+        durability: '0'
+        preview_slot: 40
+    auto_armor: true
+  Beast:
+    Items:
+      '1':
+        id: DIAMOND_SWORD
+        amount: '1'
+        durability: '0'
+        enchants:
+        - DURABILITY;3
+        unbreakable: 'false'
+      '2':
+        id: STONE_SWORD
+        amount: '1'
+        durability: '0'
+        enchants:
+        - DURABILITY;3
+        unbreakable: 'false'
+      '3':
+        id: DIAMOND_BOOTS
+        amount: '1'
+        durability: '0'
+        enchants:
+        - PROTECTION_ENVIRONMENTAL;3
+        - DURABILITY;3
+        unbreakable: 'false'
+      '4':
+        id: DIAMOND_LEGGINGS
+        amount: '1'
+        durability: '0'
+        enchants:
+        - PROTECTION_ENVIRONMENTAL;3
+        - DURABILITY;3
+        unbreakable: 'false'
+      '5':
+        id: DIAMOND_CHESTPLATE
+        amount: '1'
+        durability: '0'
+        enchants:
+        - PROTECTION_ENVIRONMENTAL;3
+        - DURABILITY;3
+        unbreakable: 'false'
+      '6':
+        id: DIAMOND_HELMET
+        amount: '1'
+        durability: '0'
+        enchants:
+        - PROTECTION_ENVIRONMENTAL;3
+        - DURABILITY;3
+        unbreakable: 'false'
+    slot: 5
+    display_item: IRON_SWORD
+    display_name: '&6&lBeast &aKit'
+    display_lore:
+    - '&7This is a description of the kit.'
+    - '&7You can add multiples &alines&7.'
+    cooldown: 3600
+    permission: playerkits.kit.Beast
+    noPermissionsItem:
+      display_item: BARRIER
+      display_name: '&6&lBeast &aKit'
+      display_lore:
+      - '&cYou don''t have permissions to claim'
+      - '&cthis kit.'
+    auto_armor: true
+  Speed:
+    Items:
+      '1':
+        id: DIAMOND_SWORD
+        amount: '1'
+        durability: '0'
+        enchants:
+        - DURABILITY;3
+        unbreakable: 'false'
+      '2':
+        id: STONE_SWORD
+        amount: '1'
+        durability: '0'
+        enchants:
+        - DURABILITY;3
+        unbreakable: 'false'
+      '3':
+        id: DIAMOND_BOOTS
+        amount: '1'
+        durability: '0'
+        enchants:
+        - PROTECTION_ENVIRONMENTAL;3
+        - DURABILITY;3
+        unbreakable: 'false'
+      '4':
+        id: IRON_LEGGINGS
+        amount: '1'
+        durability: '0'
+        enchants:
+        - PROTECTION_ENVIRONMENTAL;3
+        - DURABILITY;3
+        unbreakable: 'false'
+      '5':
+        id: DIAMOND_CHESTPLATE
+        amount: '1'
+        durability: '0'
+        enchants:
+        - PROTECTION_ENVIRONMENTAL;3
+        - DURABILITY;3
+        unbreakable: 'false'
+      '6':
+        id: DIAMOND_HELMET
+        amount: '1'
+        durability: '0'
+        enchants:
+        - PROTECTION_ENVIRONMENTAL;3
+        - DURABILITY;3
+        unbreakable: 'false'
+    slot: 22
+    display_item: IRON_SWORD
+    display_name: '&6&lSpeed &aKit'
+    display_lore:
+    - '&7This is a description of the kit.'
+    - '&7You can add multiples &alines&7.'
+    cooldown: 3600
+    permission: playerkits.kit.Speed
+    noPermissionsItem:
+      display_item: BARRIER
+      display_name: '&6&lSpeed &aKit'
+      display_lore:
+      - '&cYou don''t have permissions to claim'
+      - '&cthis kit.'
+    auto_armor: true
+  Trident:
+    slot: 23
+    display_item: IRON_SWORD
+    display_name: '&6&lTrident &aKit'
+    display_lore:
+    - '&7This is a description of the kit.'
+    - '&7You can add multiples &alines&7.'
+    cooldown: 3600
+    permission: playerkits.kit.Trident
+    noPermissionsItem:
+      display_item: BARRIER
+      display_name: '&6&lTrident &aKit'
+      display_lore:
+      - '&cYou don''t have permissions to claim'
+      - '&cthis kit.'
+    auto_armor: true
+    Items:
+      '1':
+        id: DIAMOND_SWORD
+        amount: '1'
+        durability: '0'
+        enchants:
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 0
+      '2':
+        id: STONE_SWORD
+        amount: '1'
+        durability: '0'
+        enchants:
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 1
+      '3':
+        id: DIAMOND_BOOTS
+        amount: '1'
+        durability: '0'
+        enchants:
+        - PROTECTION_ENVIRONMENTAL;3
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 2
+      '4':
+        id: IRON_LEGGINGS
+        amount: '1'
+        durability: '0'
+        enchants:
+        - PROTECTION_ENVIRONMENTAL;3
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 3
+      '5':
+        id: IRON_CHESTPLATE
+        amount: '1'
+        durability: '0'
+        enchants:
+        - PROTECTION_ENVIRONMENTAL;3
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 4
+      '6':
+        id: DIAMOND_HELMET
+        amount: '1'
+        durability: '0'
+        enchants:
+        - PROTECTION_ENVIRONMENTAL;3
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 5
+      '7':
+        offhand: true
+        id: TRIDENT
+        amount: '1'
+        durability: '0'
+        enchants:
+        - LOYALTY;1
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 6
+  WoodPvP:
+    slot: 24
+    display_item: IRON_SWORD
+    display_name: '&6&lWoodPvP &aKit'
+    display_lore:
+    - '&7This is a description of the kit.'
+    - '&7You can add multiples &alines&7.'
+    cooldown: 3600
+    permission: playerkits.kit.WoodPvP
+    noPermissionsItem:
+      display_item: BARRIER
+      display_name: '&6&lWoodPvP &aKit'
+      display_lore:
+      - '&cYou don''t have permissions to claim'
+      - '&cthis kit.'
+    auto_armor: true
+    Items:
+      '1':
+        id: WOODEN_SWORD
+        amount: '1'
+        durability: '0'
+        preview_slot: 0
+      '2':
+        id: WOODEN_AXE
+        amount: '1'
+        durability: '0'
+        preview_slot: 1
+      '3':
+        id: COOKED_BEEF
+        amount: '32'
+        durability: '0'
+        preview_slot: 2
+      '4':
+        color: 10511680
+        id: LEATHER_BOOTS
+        amount: '1'
+        durability: '0'
+        preview_slot: 3
+      '5':
+        color: 10511680
+        id: LEATHER_LEGGINGS
+        amount: '1'
+        durability: '0'
+        preview_slot: 4
+      '6':
+        color: 10511680
+        id: LEATHER_CHESTPLATE
+        amount: '1'
+        durability: '0'
+        preview_slot: 5
+      '7':
+        color: 10511680
+        id: LEATHER_HELMET
+        amount: '1'
+        durability: '0'
+        preview_slot: 6
+      '8':
+        offhand: true
+        id: SHIELD
+        amount: '1'
+        durability: '0'
+        preview_slot: 7
+  Lifesteal:
+    slot: 25
+    display_item: IRON_SWORD
+    display_name: '&6&lLifesteal &aKit'
+    display_lore:
+    - '&7This is a description of the kit.'
+    - '&7You can add multiples &alines&7.'
+    cooldown: 3600
+    permission: playerkits.kit.Lifesteal
+    noPermissionsItem:
+      display_item: BARRIER
+      display_name: '&6&lLifesteal &aKit'
+      display_lore:
+      - '&cYou don''t have permissions to claim'
+      - '&cthis kit.'
+    auto_armor: true
+    Items:
+      '1':
+        id: DIAMOND_SWORD
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - DAMAGE_ALL;4
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 0
+      '2':
+        id: ENDER_PEARL
+        amount: '16'
+        durability: '0'
+        preview_slot: 1
+      '3':
+        id: COBWEB
+        amount: '64'
+        durability: '0'
+        preview_slot: 2
+      '4':
+        id: GOLDEN_APPLE
+        amount: '16'
+        durability: '0'
+        preview_slot: 3
+      '5':
+        id: BOW
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - ARROW_DAMAGE;2
+        - ARROW_KNOCKBACK;2
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 4
+      '6':
+        potion-type: POISON
+        potion-upgraded: 'false'
+        potion-extended: 'true'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 5
+      '7':
+        potion-type: REGEN
+        potion-upgraded: 'false'
+        potion-extended: 'true'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 6
+      '8':
+        potion-type: SPEED
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 7
+      '9':
+        potion-type: STRENGTH
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 8
+      '10':
+        id: COBWEB
+        amount: '64'
+        durability: '0'
+        preview_slot: 9
+      '11':
+        id: GOLDEN_CARROT
+        amount: '64'
+        durability: '0'
+        preview_slot: 10
+      '12':
+        id: OAK_PLANKS
+        amount: '64'
+        durability: '0'
+        preview_slot: 11
+      '13':
+        id: OAK_PLANKS
+        amount: '64'
+        durability: '0'
+        preview_slot: 12
+      '14':
+        id: OAK_PLANKS
+        amount: '64'
+        durability: '0'
+        preview_slot: 13
+      '15':
+        potion-type: POISON
+        potion-upgraded: 'false'
+        potion-extended: 'true'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 14
+      '16':
+        potion-type: REGEN
+        potion-upgraded: 'false'
+        potion-extended: 'true'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 15
+      '17':
+        potion-type: SPEED
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 16
+      '18':
+        potion-type: STRENGTH
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 17
+      '19':
+        id: SHIELD
+        amount: '1'
+        durability: '0'
+        preview_slot: 18
+      '20':
+        id: COBBLESTONE
+        amount: '64'
+        durability: '0'
+        preview_slot: 19
+      '21':
+        id: COBBLESTONE
+        amount: '64'
+        durability: '0'
+        preview_slot: 20
+      '22':
+        id: OAK_PLANKS
+        amount: '64'
+        durability: '0'
+        preview_slot: 21
+      '23':
+        potion-type: INSTANT_DAMAGE
+        potion-upgraded: 'false'
+        potion-extended: 'false'
+        id: TIPPED_ARROW
+        amount: '64'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 22
+      '24':
+        potion-type: POISON
+        potion-upgraded: 'false'
+        potion-extended: 'true'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 23
+      '25':
+        potion-type: REGEN
+        potion-upgraded: 'false'
+        potion-extended: 'true'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 24
+      '26':
+        potion-type: SPEED
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 25
+      '27':
+        potion-type: STRENGTH
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 26
+      '28':
+        id: ENDER_PEARL
+        amount: '16'
+        durability: '0'
+        preview_slot: 27
+      '29':
+        id: COBBLESTONE
+        amount: '64'
+        durability: '0'
+        preview_slot: 28
+      '30':
+        id: COBBLESTONE
+        amount: '64'
+        durability: '0'
+        preview_slot: 29
+      '31':
+        id: DIAMOND_AXE
+        amount: '1'
+        durability: '0'
+        preview_slot: 30
+      '32':
+        potion-type: INSTANT_DAMAGE
+        potion-upgraded: 'false'
+        potion-extended: 'false'
+        id: TIPPED_ARROW
+        amount: '64'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 31
+      '33':
+        potion-type: POISON
+        potion-upgraded: 'false'
+        potion-extended: 'true'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 32
+      '34':
+        potion-type: REGEN
+        potion-upgraded: 'false'
+        potion-extended: 'true'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 33
+      '35':
+        potion-type: SPEED
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 34
+      '36':
+        potion-type: STRENGTH
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 35
+      '37':
+        id: DIAMOND_BOOTS
+        amount: '1'
+        durability: '0'
+        enchants:
+        - PROTECTION_FALL;4
+        - MENDING;1
+        - PROTECTION_ENVIRONMENTAL;4
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 36
+      '38':
+        id: DIAMOND_LEGGINGS
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - PROTECTION_ENVIRONMENTAL;4
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 37
+      '39':
+        id: DIAMOND_CHESTPLATE
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - PROTECTION_ENVIRONMENTAL;4
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 38
+      '40':
+        id: DIAMOND_HELMET
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - PROTECTION_ENVIRONMENTAL;4
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 39
+      '41':
+        offhand: true
+        id: SHIELD
+        amount: '1'
+        durability: '0'
+        preview_slot: 40
+  WeakenKit:
+    Items:
+      '1':
+        id: NETHERITE_SWORD
+        amount: '1'
+        durability: '0'
+      '2':
+        id: DIAMOND_AXE
+        amount: '1'
+        durability: '0'
+      '3':
+        color: 10511680
+        id: LEATHER_BOOTS
+        amount: '1'
+        durability: '0'
+      '4':
+        color: 10511680
+        id: LEATHER_LEGGINGS
+        amount: '1'
+        durability: '0'
+      '5':
+        id: IRON_CHESTPLATE
+        amount: '1'
+        durability: '0'
+      '6':
+        id: IRON_HELMET
+        amount: '1'
+        durability: '0'
+    slot: 27
+    display_item: IRON_SWORD
+    display_name: '&6&lWeakenKit &aKit'
+    display_lore:
+    - '&7This is a description of the kit.'
+    - '&7You can add multiples &alines&7.'
+    cooldown: 3600
+    permission: playerkits.kit.WeakenKit
+    noPermissionsItem:
+      display_item: BARRIER
+      display_name: '&6&lWeakenKit &aKit'
+      display_lore:
+      - '&cYou don''t have permissions to claim'
+      - '&cthis kit.'
+    first_join: false
+    auto_armor: true
+  FisherManKit:
+    slot: 28
+    display_item: IRON_SWORD
+    display_name: '&6&lFisherManKit &aKit'
+    display_lore:
+    - '&7This is a description of the kit.'
+    - '&7You can add multiples &alines&7.'
+    cooldown: 3600
+    permission: playerkits.kit.FisherManKit
+    noPermissionsItem:
+      display_item: BARRIER
+      display_name: '&6&lFisherManKit &aKit'
+      display_lore:
+      - '&cYou don''t have permissions to claim'
+      - '&cthis kit.'
+    auto_armor: true
+    Items:
+      '1':
+        id: CHAINMAIL_HELMET
+        amount: '1'
+        durability: '0'
+        preview_slot: 0
+      '2':
+        id: CHAINMAIL_CHESTPLATE
+        amount: '1'
+        durability: '0'
+        preview_slot: 1
+      '3':
+        id: DIAMOND_LEGGINGS
+        amount: '1'
+        durability: '0'
+        preview_slot: 2
+      '4':
+        id: DIAMOND_BOOTS
+        amount: '1'
+        durability: '0'
+        preview_slot: 3
+      '5':
+        offhand: true
+        id: FISHING_ROD
+        amount: '1'
+        durability: '0'
+        preview_slot: 4
+      '6':
+        id: DIAMOND_SWORD
+        amount: '1'
+        durability: '0'
+        preview_slot: 5
+  MedasKit:
+    slot: 29
+    display_item: IRON_SWORD
+    display_name: '&6&lMedasKit &aKit'
+    display_lore:
+    - '&7This is a description of the kit.'
+    - '&7You can add multiples &alines&7.'
+    cooldown: 3600
+    permission: playerkits.kit.MedasKit
+    noPermissionsItem:
+      display_item: BARRIER
+      display_name: '&6&lMedasKit &aKit'
+      display_lore:
+      - '&cYou don''t have permissions to claim'
+      - '&cthis kit.'
+    auto_armor: true
+    Items:
+      '1':
+        id: GOLDEN_SWORD
+        amount: '1'
+        durability: '0'
+        preview_slot: 0
+      '2':
+        id: GOLDEN_BOOTS
+        amount: '1'
+        durability: '0'
+        preview_slot: 1
+      '3':
+        id: GOLDEN_LEGGINGS
+        amount: '1'
+        durability: '0'
+        preview_slot: 2
+      '4':
+        id: GOLDEN_CHESTPLATE
+        amount: '1'
+        durability: '0'
+        preview_slot: 3
+      '5':
+        id: GOLDEN_HELMET
+        amount: '1'
+        durability: '0'
+        preview_slot: 4
+      '6':
+        offhand: true
+        id: GOLDEN_APPLE
+        amount: '3'
+        durability: '0'
+        preview_slot: 5
+  PumpkinPvP:
+    slot: 30
+    display_item: IRON_SWORD
+    display_name: '&6&lPumpkinPvP &aKit'
+    display_lore:
+    - '&7This is a description of the kit.'
+    - '&7You can add multiples &alines&7.'
+    cooldown: 3600
+    permission: playerkits.kit.PumpkinPvP
+    noPermissionsItem:
+      display_item: BARRIER
+      display_name: '&6&lPumpkinPvP &aKit'
+      display_lore:
+      - '&cYou don''t have permissions to claim'
+      - '&cthis kit.'
+    auto_armor: true
+    Items:
+      '1':
+        id: NETHERITE_SWORD
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - DAMAGE_ALL;5
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 0
+      '2':
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 1
+      '3':
+        potion-type: STRENGTH
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 2
+      '4':
+        potion-type: SPEED
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 3
+      '5':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 4
+      '6':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 5
+      '7':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 6
+      '8':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 7
+      '9':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 8
+      '10':
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 9
+      '11':
+        id: EXPERIENCE_BOTTLE
+        amount: '64'
+        durability: '0'
+        preview_slot: 10
+      '12':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 11
+      '13':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 12
+      '14':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 13
+      '15':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 14
+      '16':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 15
+      '17':
+        potion-type: STRENGTH
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 16
+      '18':
+        potion-type: SPEED
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 17
+      '19':
+        id: TOTEM_OF_UNDYING
+        amount: '1'
+        durability: '0'
+        preview_slot: 18
+      '20':
+        id: EXPERIENCE_BOTTLE
+        amount: '64'
+        durability: '0'
+        preview_slot: 19
+      '21':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 20
+      '22':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 21
+      '23':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 22
+      '24':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 23
+      '25':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 24
+      '26':
+        potion-type: STRENGTH
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 25
+      '27':
+        potion-type: SPEED
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 26
+      '28':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 27
+      '29':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 28
+      '30':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 29
+      '31':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 30
+      '32':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 31
+      '33':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 32
+      '34':
+        potion-type: INSTANT_HEAL
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 33
+      '35':
+        potion-type: STRENGTH
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 34
+      '36':
+        potion-type: SPEED
+        potion-upgraded: 'true'
+        potion-extended: 'false'
+        id: SPLASH_POTION
+        amount: '1'
+        durability: '0'
+        unbreakable: 'false'
+        preview_slot: 35
+      '37':
+        id: NETHERITE_BOOTS
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - PROTECTION_ENVIRONMENTAL;4
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 36
+      '38':
+        id: NETHERITE_LEGGINGS
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - PROTECTION_ENVIRONMENTAL;4
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 37
+      '39':
+        id: NETHERITE_CHESTPLATE
+        amount: '1'
+        durability: '0'
+        enchants:
+        - MENDING;1
+        - PROTECTION_ENVIRONMENTAL;4
+        - DURABILITY;3
+        unbreakable: 'false'
+        preview_slot: 38
+      '40':
+        nbt:
+        - Unbreakable;true;boolean
+        id: CARVED_PUMPKIN
+        amount: '1'
+        durability: '0'
+        unbreakable: 'true'
+        preview_slot: 39
+      '41':
+        offhand: true
+        id: GOLDEN_APPLE
+        amount: '64'
+        durability: '0'
+        preview_slot: 40
+  ElytraSword:
+    Items:
+      '1':
+        id: DIAMOND_SWORD
+        amount: '1'
+        durability: '0'
+        enchants:
+        - DURABILITY;3
+        unbreakable: 'false'
+      '2':
+        id: STONE_SWORD
+        amount: '1'
+        durability: '0'
+        enchants:
+        - DURABILITY;3
+        unbreakable: 'false'
+      '3':
+        id: DIAMOND_BOOTS
+        amount: '1'
+        durability: '0'
+        enchants:
+        - PROTECTION_ENVIRONMENTAL;3
+        - DURABILITY;3
+        unbreakable: 'false'
+      '4':
+        id: DIAMOND_LEGGINGS
+        amount: '1'
+        durability: '0'
+        enchants:
+        - PROTECTION_ENVIRONMENTAL;3
+        - DURABILITY;3
+        unbreakable: 'false'
+      '5':
+        id: ELYTRA
+        amount: '1'
+        durability: '0'
+      '6':
+        id: DIAMOND_HELMET
+        amount: '1'
+        durability: '0'
+        enchants:
+        - PROTECTION_ENVIRONMENTAL;3
+        - DURABILITY;3
+        unbreakable: 'false'
+    slot: 31
+    display_item: IRON_SWORD
+    display_name: '&6&lElytraSword &aKit'
+    display_lore:
+    - '&7This is a description of the kit.'
+    - '&7You can add multiples &alines&7.'
+    cooldown: 3600
+    permission: playerkits.kit.ElytraSword
+    noPermissionsItem:
+      display_item: BARRIER
+      display_name: '&6&lElytraSword &aKit'
+      display_lore:
+      - '&cYou don''t have permissions to claim'
+      - '&cthis kit.'
+    auto_armor: true

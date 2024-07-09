@@ -1,0 +1,91 @@
+# Copy the code in this file and paste it in the "messages.yml" file.
+
+# a3f06efb-3cf4-43e5-b6cb-01c16e2c38cb
+
+# Добро пожаловать в конфигурацию сообщений Xyris Kits.
+
+# Убедитесь, что прочитали инструкции ниже, чтобы узнать, как редактировать сообщения, использовать шестнадцатеричные коды, градиенты или отключить их!
+# Если у вас есть вопросы, сначала проверьте комментарии, а затем не стесняйтесь присоединиться к нашему Discord и задать вопрос: https://xyris.fun/devs!
+
+# Удачной настройки!
+
+# Сделано Darkxx (Xyris Plugins) с ❤️
+
+
+# Можно добавить дополнительные сообщения, например:
+# - "&eИспользуйте команду &f/kiteditor save &7для сохранения комплекта."
+# - "&eИспользуйте команду &f/kiteditor leave &7для выхода из редактора комплектов."
+# - ""
+# - "&cМои новые сообщения!"
+
+# Поддержка цветов Hex и градиентов.
+# Пример Hex:
+# - "<SOLID:FF0080>Откройте инвентарь и &frearrange&7 предметы."
+# Пример градиента:
+# - "<GRADIENT:2C08BA>Используйте команду /kiteditor save для сохранения комплекта.</GRADIENT:028A97>"
+
+# Используйте "NONE" для отключения сообщения.
+
+editing-kit:
+  start:
+    - ""
+    - "&f&lТеперь вы редактируете комплект"
+    - ""
+    - "&7Откройте инвентарь и &frearrange&7 предметы."
+    - ""
+    - "&7Используйте команду &f/kiteditor save &7для сохранения комплекта."
+    - "&7Используйте команду &f/kiteditor reset &7для сброса комплекта."
+    - "&7Используйте команду &f/kiteditor leave &7для выхода из редактора комплектов."
+    - ""
+
+# Используйте "NONE" для отключения сообщения.
+
+KitGiveSender: "&aКомплект <GRADIENT:00ff1e>%kit%</GRADIENT:00ff62> успешно передан игроку <GRADIENT:00ff1e>%player%</GRADIENT:00ff62>"
+KitGiveReceiver: "&aВам был передан комплект <GRADIENT:00ff1e>%kit%</GRADIENT:00ff62> от <GRADIENT:00ff1e>%sender%</GRADIENT:00ff62>"
+
+# Сообщение для времени отката /kits.claim!
+
+CooldownRemainingMessage: "&cУ вас еще есть откат для этого комплекта, осталось времени %time%"
+
+# Сообщения для ActionBar во время редактирования комплекта
+# Необходимо перезапустить сервер для применения изменений (только для KitEditActionBarMessages)
+KitEditActionBarMessages:
+  - "&aXyris Kits"
+  - "<GRADIENT:00ff1e>Моё градиентное сообщение!</GRADIENT:00ff62>"
+  - "<SOLID:FF0080>Моё сообщение!"
+# Добавьте больше сообщений при необходимости...
+
+
+# Можно использовать "NONE" для отключения заголовка/подзаголовка/сообщения
+# Пример:
+# KitSaveTitle: "<GRADIENT:04ff00>Комплект Сохранен</GRADIENT:00ff5e>"
+# KitSaveSubtitle: "NONE"
+# KitSaveMessage: "NONE"
+
+# Это отправит только заголовок, не будет отправлять сообщение и подзаголовок игроку!
+
+KitSaveTitle: "<GRADIENT:04ff00>Комплект Сохранен</GRADIENT:00ff5e>"
+KitSaveSubtitle: "&fXyris Kits"
+KitSaveMessage: "&aВаш пользовательский дизайн комплекта был сохранен!"
+
+KitEditorLeaveTitle: "<GRADIENT:ff0000>Выход из Редактора Комплекта</GRADIENT:ff5100>"
+KitEditorLeaveSubtitle: "&fXyris Kits"
+KitEditorLeaveMessage: "&cВы покинули редактор комплектов!"
+
+ResetKitTitle: "<GRADIENT:FB9D00>Комплект Сброшен</GRADIENT:FD6A23>"
+ResetKitSubtitle: "&fXyris Kits"
+ResetKitMessage: "&aВаш комплект был заменен на комплект по умолчанию!"
+
+KitNotFoundTitle: "<SOLID:FF1414>Упс!"
+KitNotFoundSubtitle: "&fКомплект по Умолчанию Не Найден"
+KitNotFoundMessage: "&cКомплект не найден!"
+
+
+NotEditingModeTitle: "<SOLID:FF1414>Упс!"
+NotEditingModeSubtitle: "&fВы не в режиме редактирования комплекта"
+NotEditingModeMessage: "&cВы не в редакторе комплектов!"
+
+EnderPearlDeniedTitle: "<SOLID:FF1414>Упс!"
+EnderPearlDeniedSubtitle: "&fВы не можете использовать жемчуг Края здесь"
+
+# О, вы здесь. Закончили настройку? Просто сохраните файл и выполните команду /kits.reload в игре. Это обновит все сообщения.

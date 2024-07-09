@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.139.145.37
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712588586220
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712588676771
+  login: 1712588661020
+money: '0'
+last-account-name: Sayad_GamingZ
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -36.602669830367745
+  y: 178.0
+  z: -1.3702635294575092
+  yaw: -3.242241382598877
+  pitch: -5.114582061767578
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -30.406505435673854
+  y: 178.0
+  z: -7.530487452607814
+  yaw: 63.17446517944336
+  pitch: 7.727982521057129

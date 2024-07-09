@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.43.163.70
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712478808444
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712479148602
+  login: 1712474894191
+money: '0'
+last-account-name: MODI_FF99
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.502535851296656
+  y: 178.0
+  z: -6.043050402900031
+  yaw: 33.804595947265625
+  pitch: -6.128386497497559
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -30.672435338749533
+  y: 178.0
+  z: -9.27876823176588
+  yaw: 92.96311950683594
+  pitch: 6.091773509979248

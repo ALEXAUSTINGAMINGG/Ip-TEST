@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 38.41.72.39
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716111196246
+  login: 1716110294336
+money: '0'
+last-account-name: ltzMrClown
+logoutlocation:
+  world: fd2a2c6a-eda5-4f74-8350-27f0fde897c2
+  world-name: duels
+  x: 491.5419036109421
+  y: 106.25220334025373
+  z: 195.21721746841104
+  yaw: 33.77618408203125
+  pitch: 19.749584197998047

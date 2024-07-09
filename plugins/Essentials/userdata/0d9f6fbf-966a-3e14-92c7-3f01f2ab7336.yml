@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.37.37.112
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712647493114
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712648044019
+  login: 1712647220113
+money: '0'
+last-account-name: DARKRONITYT
+logoutlocation:
+  world: 33a34951-efe1-4473-ab9e-cae292dfe960
+  world-name: world
+  x: -2249.8412791538235
+  y: 210.0
+  z: 2345.138360158142
+  yaw: -97.22396087646484
+  pitch: 12.463623046875
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.74338370926292
+  y: 178.0
+  z: -6.717336665179834
+  yaw: 115.59164428710938
+  pitch: -14.28771686553955

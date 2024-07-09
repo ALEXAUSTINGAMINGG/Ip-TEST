@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 106.202.252.156
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712479900508
+  login: 1712476854291
+money: '0'
+last-account-name: Ysh_shorts
+logoutlocation:
+  world: fd2a2c6a-eda5-4f74-8350-27f0fde897c2
+  world-name: duels
+  x: 333.4572951297916
+  y: 115.0
+  z: 244.5095569693539
+  yaw: -116.6781234741211
+  pitch: 7.116387367248535

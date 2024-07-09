@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 171.60.195.13
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712639325764
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712640825771
+  login: 1712639298413
+money: '0'
+last-account-name: _DarkGhost13_
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.2245664455854
+  y: 178.0
+  z: -6.534399407784074
+  yaw: 117.63897705078125
+  pitch: -11.671502113342285
+logoutlocation:
+  world: fd2a2c6a-eda5-4f74-8350-27f0fde897c2
+  world-name: duels
+  x: 381.36428241073367
+  y: 103.1212968405392
+  z: 58.6819381144489
+  yaw: -25.899658203125
+  pitch: 16.72072410583496

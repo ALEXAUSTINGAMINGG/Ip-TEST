@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 27.34.48.193
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712501920256
+  login: 1712501685603
+money: '0'
+last-account-name: xteri
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -58.69999998807907
+  y: 185.0
+  z: -46.69999998807907
+  yaw: 107.21389770507812
+  pitch: 49.51560974121094

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 106.210.40.2
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712557615292
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712557784145
+  login: 1712556607441
+money: '0'
+last-account-name: AmanPrajapti
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -42.002274769402106
+  y: 179.0
+  z: -6.918216842757033
+  yaw: 108.7814712524414
+  pitch: 7.300649642944336
+logoutlocation:
+  world: 33a34951-efe1-4473-ab9e-cae292dfe960
+  world-name: world
+  x: -2260.847308855861
+  y: 210.0
+  z: 2354.51080087577
+  yaw: 158.90464782714844
+  pitch: 46.82891845703125

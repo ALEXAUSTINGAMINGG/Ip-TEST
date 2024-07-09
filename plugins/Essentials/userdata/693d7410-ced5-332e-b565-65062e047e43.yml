@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.244.92.227
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712548694792
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712548745446
+  login: 1712548548641
+money: '0'
+last-account-name: ABDULLAH1078
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.64495305385181
+  y: 178.0
+  z: -3.1466372595576737
+  yaw: 168.8970184326172
+  pitch: 5.879262924194336
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -19.5
+  y: 178.0000001
+  z: -7.5
+  yaw: 80.52651977539062
+  pitch: 18.503658294677734

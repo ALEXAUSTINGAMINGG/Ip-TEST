@@ -1,0 +1,60 @@
+names:
+  change-interval: 6000
+  texts:
+  - '&#0073FB&l&nDISCORD&8 | &b&lRANKS &8| &c&lYOUTUBE'
+  - '&#0073FB&lDISCORD &8| &b&lRANKS &8 | &c&lYOUTUBE'
+  - '&#0073FB&lDISCORD &8| &b&lRANKS &8| &c&l&nYOUTUBE'
+1:
+  change-interval: 6000
+  texts:
+  - '&fJoin our Discord Server to chat with'
+  - '&fPurchase awesome ranks & points to'
+  - '&fCheck Out'
+2:
+  change-interval: 6000
+  texts:
+  - '&four community and receive updates!'
+  - '&fshow off to your friends!'
+  - '&fvideos on youtube!'
+3:
+  change-interval: 6000
+  texts:
+  - '&#0073FB&nᴅɪѕᴄᴏʀᴅ.ɢɢ/demonpvp'
+  - '&b&n/ʀᴀɴᴋs'
+  - '&c&n/ʏᴏᴜᴛᴜʙᴇ'
+status:
+  change-interval: 600
+  # discord
+  texts:
+  - '&#0073FB■&7■■■■■■■■■'
+  - '&#0073FB■■&7■■■■■■■■'
+  - '&#0073FB■■■&7■■■■■■■'
+  - '&#0073FB■■■■&7■■■■■■'
+  - '&#0073FB■■■■■&7■■■■■'
+  - '&#0073FB■■■■■■&7■■■■'
+  - '&#0073FB■■■■■■■&7■■■'
+  - '&#0073FB■■■■■■■■&7■■'
+  - '&#0073FB■■■■■■■■■&7■'
+  - '&#0073FB■■■■■■■■■■'
+  # store
+  - '&b■&7■■■■■■■■■'
+  - '&b■■&7■■■■■■■■'
+  - '&b■■■&7■■■■■■■'
+  - '&b■■■■&7■■■■■■'
+  - '&b■■■■■&7■■■■■'
+  - '&b■■■■■■&7■■■■'
+  - '&b■■■■■■■&7■■■'
+  - '&b■■■■■■■■&7■■'
+  - '&b■■■■■■■■■&7■'
+  - '&b■■■■■■■■■■'
+  # vote
+  - '&c■&7■■■■■■■■■'
+  - '&c■■&7■■■■■■■■'
+  - '&c■■■&7■■■■■■■'
+  - '&c■■■■&7■■■■■■'
+  - '&c■■■■■&7■■■■■'
+  - '&c■■■■■■&7■■■■'
+  - '&c■■■■■■■&7■■■'
+  - '&c■■■■■■■■&7■■'
+  - '&c■■■■■■■■■&7■'
+  - '&c■■■■■■■■■■'

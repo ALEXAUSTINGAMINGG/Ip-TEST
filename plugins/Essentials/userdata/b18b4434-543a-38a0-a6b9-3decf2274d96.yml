@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.14.148.32
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712635244664
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712635342167
+  login: 1712634685713
+money: '0'
+last-account-name: Ari_gamer2697
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -36.56572242663391
+  y: 178.0
+  z: -2.91412049855603
+  yaw: 64.26911926269531
+  pitch: -4.913175582885742
+logoutlocation:
+  world: 33a34951-efe1-4473-ab9e-cae292dfe960
+  world-name: world
+  x: -130.65960692574063
+  y: 52.0
+  z: 152.80941957974738
+  yaw: 153.6256103515625
+  pitch: 23.030393600463867

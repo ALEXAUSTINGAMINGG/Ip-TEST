@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 45.64.163.227
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716044829987
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716045271488
+  login: 1716044283286
+money: '0'
+last-account-name: iAim
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -39.380683459533536
+  y: 178.0
+  z: -2.472681324291474
+  yaw: 16.367122650146484
+  pitch: -4.706573486328125
+logoutlocation:
+  world: fd2a2c6a-eda5-4f74-8350-27f0fde897c2
+  world-name: duels
+  x: 264.1499855059734
+  y: 92.17675927506424
+  z: 229.18303923019025
+  yaw: -74.2431640625
+  pitch: 24.30078125

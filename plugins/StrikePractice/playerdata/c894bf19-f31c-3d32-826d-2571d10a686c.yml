@@ -1,0 +1,726 @@
+username: DevanshOG
+scoreboard-disabled: false
+duel-requests-disabled: false
+hide-other-players: false
+stats:
+  brackets: 0
+  kills: 0
+  deaths: 6
+  lms: 0
+  party_vs_party_wins: 0
+  global_elo: 1000
+  sumo_wins: 0
+  juggernaut: 0
+limits-updated: 1712513052684
+rankeds-left: 20
+unrankeds-left: 0
+premium-matches: 0
+cooldowns: []
+custom-kit:
+  ==: BattleKit
+  types: ANY
+  pearl-cooldown: 0
+  best-of: 1
+  no-bestof-rollback: false
+  icon:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: DIAMOND_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"CUSTOM
+        KIT"}],"text":""}'
+      ItemFlags:
+      - HIDE_ENCHANTS
+      - HIDE_ATTRIBUTES
+      - HIDE_UNBREAKABLE
+      - HIDE_DESTROYS
+      - HIDE_PLACED_ON
+      - HIDE_POTION_EFFECTS
+      - HIDE_DYE
+      - HIDE_ARMOR_TRIM
+  no-damage: false
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  no-death-countdown: false
+  chestplate:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEATHER_CHESTPLATE
+  helmet:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEATHER_HELMET
+  name: §aCUSTOM KIT
+  boots:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEATHER_BOOTS
+  boxing: false
+  block-disappear: 0
+  leggings:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEATHER_LEGGINGS
+kits:
+- ==: BattleKit
+  pearl-cooldown: 0
+  best-of: 1
+  no-bestof-rollback: false
+  no-damage: false
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: NETHERITE_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        KNOCKBACK: 1
+        MENDING: 1
+        DAMAGE_ALL: 5
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: NETHERITE_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 5
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: OBSIDIAN
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: END_CRYSTAL
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: RESPAWN_ANCHOR
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: GLOWSTONE
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: ENDER_PEARL
+    amount: 16
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: GOLDEN_APPLE
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: TIPPED_ARROW
+    amount: 64
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:slow_falling
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: RESPAWN_ANCHOR
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: CROSSBOW
+    meta:
+      ==: ItemMeta
+      meta-type: CROSSBOW
+      enchants:
+        MENDING: 1
+        MULTISHOT: 1
+        QUICK_CHARGE: 3
+      charged: false
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: END_CRYSTAL
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: EXPERIENCE_BOTTLE
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: GLOWSTONE
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: END_CRYSTAL
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: END_CRYSTAL
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: OBSIDIAN
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: EXPERIENCE_BOTTLE
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: ENDER_PEARL
+    amount: 16
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: ENDER_PEARL
+    amount: 16
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: NETHERITE_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        MENDING: 1
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: NETHERITE_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        MENDING: 1
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: NETHERITE_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        MENDING: 1
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: NETHERITE_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        MENDING: 1
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: TOTEM_OF_UNDYING
+  no-death-countdown: false
+  chestplate:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: NETHERITE_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        MENDING: 1
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+  helmet:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: NETHERITE_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        MENDING: 1
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+  name: crystalpvp
+  boots:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: NETHERITE_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        MENDING: 1
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+  boxing: false
+  block-disappear: 0
+  leggings:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: NETHERITE_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        MENDING: 1
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+- ==: BattleKit
+  types: ANY
+  pearl-cooldown: 0
+  best-of: 1
+  no-bestof-rollback: false
+  icon:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: END_CRYSTAL
+    amount: 64
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"Crystalpvp
+        "},{"bold":false,"italic":false,"text":"# "},{"italic":false,"color":"green","text":"1"}],"text":""}'
+      ItemFlags:
+      - HIDE_ENCHANTS
+      - HIDE_ATTRIBUTES
+      - HIDE_UNBREAKABLE
+      - HIDE_DESTROYS
+      - HIDE_PLACED_ON
+      - HIDE_POTION_EFFECTS
+      - HIDE_DYE
+      - HIDE_ARMOR_TRIM
+  no-damage: false
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: NETHERITE_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        KNOCKBACK: 1
+        MENDING: 1
+        DAMAGE_ALL: 5
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: NETHERITE_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 5
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: OBSIDIAN
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: END_CRYSTAL
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: RESPAWN_ANCHOR
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: GLOWSTONE
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: ENDER_PEARL
+    amount: 16
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: GOLDEN_APPLE
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: TIPPED_ARROW
+    amount: 64
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:slow_falling
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: RESPAWN_ANCHOR
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: CROSSBOW
+    meta:
+      ==: ItemMeta
+      meta-type: CROSSBOW
+      enchants:
+        MENDING: 1
+        MULTISHOT: 1
+        QUICK_CHARGE: 3
+      charged: false
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: END_CRYSTAL
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: EXPERIENCE_BOTTLE
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: GLOWSTONE
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: END_CRYSTAL
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: END_CRYSTAL
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: OBSIDIAN
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: EXPERIENCE_BOTTLE
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: ENDER_PEARL
+    amount: 16
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: ENDER_PEARL
+    amount: 16
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: NETHERITE_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        MENDING: 1
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: NETHERITE_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        MENDING: 1
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: NETHERITE_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        MENDING: 1
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: NETHERITE_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        MENDING: 1
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: TOTEM_OF_UNDYING
+  no-death-countdown: false
+  chestplate:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: NETHERITE_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        MENDING: 1
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+  helmet:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: NETHERITE_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        MENDING: 1
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+  name: crystalpvp-1
+  boots:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: NETHERITE_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        MENDING: 1
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+  boxing: false
+  block-disappear: 0
+  leggings:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: NETHERITE_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        MENDING: 1
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+language: english

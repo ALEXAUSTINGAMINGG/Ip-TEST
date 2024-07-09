@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.98.191.124
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716033063987
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716033199595
+  login: 1716032685486
+money: '0'
+last-account-name: Shuvampro
+logoutlocation:
+  world: fd2a2c6a-eda5-4f74-8350-27f0fde897c2
+  world-name: duels
+  x: 183.69999998807907
+  y: 93.0
+  z: 388.95771833967336
+  yaw: -151.0963897705078
+  pitch: 25.118959426879883
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.18898889181912
+  y: 178.0
+  z: -5.300000011920929
+  yaw: 22.443166732788086
+  pitch: 4.22714376449585

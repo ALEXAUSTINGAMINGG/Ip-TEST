@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 59.91.76.12
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712641073363
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712641462875
+  login: 1712641423513
+money: '0'
+last-account-name: NotArsh_
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -33.83603876513872
+  y: 178.0
+  z: -5.8487465414434885
+  yaw: 29.652099609375
+  pitch: -1.2859102487564087
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.52239513318424
+  y: 178.0
+  z: -9.972763516339684
+  yaw: 118.53861999511719
+  pitch: -12.12166976928711

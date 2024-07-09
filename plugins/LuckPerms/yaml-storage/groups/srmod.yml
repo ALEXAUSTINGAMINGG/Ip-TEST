@@ -1,0 +1,50 @@
+name: srmod
+permissions:
+- essentials.fly:
+    value: true
+    context:
+      world: world
+- ajleaderboards.dontupdate.*
+- deluxemenus.open
+- duels.duel
+- duels.queue
+- duels.toggle
+- duels.use
+- essentials.ban
+- essentials.jail
+- essentials.jail.allow
+- essentials.jail.allow-interact
+- essentials.jail.exempt
+- essentials.jail.notify
+- essentials.jails
+- essentials.kick
+- essentials.msg
+- essentials.mute
+- essentials.spawn
+- essentials.spawn-on-join
+- essentials.teleport
+- essentials.tempban
+- essentials.tempbanip
+- essentials.tp
+- essentials.unban
+- essentials.unbanip
+- jumppads.use
+- minecraft.command.ban
+- minecraft.command.ban-ip
+- minecraft.command.kick
+- minecraft.command.msg
+- minecraft.command.op:
+    value: false
+- p1.use
+- permission.one
+- permission.two
+- sternalboard.toggle
+- weight.1
+- weight.55
+- weight.70
+parents:
+- default
+- mod
+prefixes:
+- '&#9e00c6&lS&#ae00c4&lR&#be00c1&l.&#cf00bf&lM&#df00bc&lO&#ef00ba&lD &f':
+    priority: 55

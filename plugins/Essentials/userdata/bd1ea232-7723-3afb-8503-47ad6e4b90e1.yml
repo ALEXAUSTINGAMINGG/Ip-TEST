@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.240.79.145
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716052144337
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716052209938
+  login: 1716051679636
+money: '0'
+last-account-name: Mortale_Npw
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -23.979000157269212
+  y: 178.0
+  z: -7.726718701138151
+  yaw: 80.81478881835938
+  pitch: 32.21501541137695
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -37.28996175378571
+  y: 178.0
+  z: -2.6194954073577783
+  yaw: 66.94989776611328
+  pitch: -2.8231992721557617

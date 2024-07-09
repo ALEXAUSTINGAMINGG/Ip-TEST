@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 171.79.102.44
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712572383921
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712573104376
+  login: 1712572331770
+money: '0'
+last-account-name: SuperGamer7137
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -39.376696934657055
+  y: 178.0
+  z: -8.724620206424717
+  yaw: 65.46472930908203
+  pitch: -10.646225929260254
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -33.989851340473265
+  y: 179.0
+  z: 4.40737840262771
+  yaw: -137.8463897705078
+  pitch: 19.273347854614258

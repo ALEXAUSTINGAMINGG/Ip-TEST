@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.61.240.130
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712569503821
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712569516175
+  login: 1712568997420
+money: '0'
+last-account-name: Tawrat
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.34252967855891
+  y: 178.0
+  z: -8.101289943665947
+  yaw: 79.08130645751953
+  pitch: 6.187058448791504
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -31.19438140966939
+  y: 178.0
+  z: -5.5274974727919535
+  yaw: 69.82670593261719
+  pitch: 24.353347778320312

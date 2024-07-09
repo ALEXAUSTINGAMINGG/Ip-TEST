@@ -1,0 +1,778 @@
+arenas:
+- ==: Arena
+  loc2:
+    ==: Location
+    world: duels
+    x: 48.30000001192093
+    y: 96.0
+    z: 38.30000001192093
+    pitch: -9.832629
+    yaw: -45.35672
+  corner1:
+    ==: Location
+    world: duels
+    x: 143.5
+    y: 132.0000001
+    z: 33.5
+    pitch: 68.49601
+    yaw: 41.871838
+  corner2:
+    ==: Location
+    world: duels
+    x: 43.5
+    y: 82.0
+    z: 137.5
+    pitch: 0.91652465
+    yaw: -141.32373
+  loc1:
+    ==: Location
+    world: duels
+    x: 138.69999998807907
+    y: 106.0
+    z: 130.69999998807907
+    pitch: -1.0589015
+    yaw: 136.59715
+  display-name: §eduels
+  build: true
+  center:
+    ==: Location
+    world: duels
+    x: 88.37963988120951
+    y: 96.0
+    z: 88.32341547836347
+    pitch: -0.15127784
+    yaw: -41.877747
+  name: duels2
+  icon:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: WHITE_WOOL
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"text":"duels2"}],"text":""}'
+      ItemFlags:
+      - HIDE_ENCHANTS
+      - HIDE_ATTRIBUTES
+      - HIDE_UNBREAKABLE
+      - HIDE_DESTROYS
+      - HIDE_PLACED_ON
+      - HIDE_POTION_EFFECTS
+      - HIDE_DYE
+      - HIDE_ARMOR_TRIM
+- ==: Arena
+  loc2:
+    ==: Location
+    world: duels
+    x: -41.69999998807907
+    y: 100.0
+    z: 179.30000001192093
+    pitch: 7.109932
+    yaw: -37.898804
+  loc1:
+    ==: Location
+    world: duels
+    x: 68.69999998807907
+    y: 100.0
+    z: 289.69999998807907
+    pitch: -6.504471
+    yaw: 129.68396
+  display-name: §eduels
+  build: true
+  center:
+    ==: Location
+    world: duels
+    x: 17.216635784621015
+    y: 110.0
+    z: 241.95419016102863
+    pitch: 24.959942
+    yaw: 134.2221
+  name: duels9
+  icon:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: WHITE_WOOL
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"text":"duels9"}],"text":""}'
+      ItemFlags:
+      - HIDE_ENCHANTS
+      - HIDE_ATTRIBUTES
+      - HIDE_UNBREAKABLE
+      - HIDE_DESTROYS
+      - HIDE_PLACED_ON
+      - HIDE_POTION_EFFECTS
+      - HIDE_DYE
+      - HIDE_ARMOR_TRIM
+- ==: Arena
+  loc2:
+    ==: Location
+    world: duels
+    x: 447.30000001192093
+    y: 104.0
+    z: 280.69999998807907
+    pitch: -10.437576
+    yaw: -146.3551
+  corner1:
+    ==: Location
+    world: duels
+    x: 520.5
+    y: 159.0
+    z: 284.5
+    pitch: 74.22025
+    yaw: 152.00282
+  corner2:
+    ==: Location
+    world: duels
+    x: 443.3486288515666
+    y: 91.71607187104418
+    z: 184.78113932984797
+    pitch: -2.9698617
+    yaw: -43.26075
+  loc1:
+    ==: Location
+    world: duels
+    x: 518.6999999880791
+    y: 104.0
+    z: 189.30000001192093
+    pitch: -5.445626
+    yaw: 40.74243
+  display-name: §eduels
+  build: true
+  center:
+    ==: Location
+    world: duels
+    x: 484.344545079448
+    y: 102.0
+    z: 231.9080076955872
+    pitch: 8.471322
+    yaw: -144.99371
+  name: duels5
+  icon:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: WHITE_WOOL
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"text":"duels5"}],"text":""}'
+      ItemFlags:
+      - HIDE_ENCHANTS
+      - HIDE_ATTRIBUTES
+      - HIDE_UNBREAKABLE
+      - HIDE_DESTROYS
+      - HIDE_PLACED_ON
+      - HIDE_POTION_EFFECTS
+      - HIDE_DYE
+      - HIDE_ARMOR_TRIM
+- ==: Arena
+  loc2:
+    ==: Location
+    world: duels
+    x: 89.30000001192093
+    y: 100.0
+    z: 289.69999998807907
+    pitch: 19.514147
+    yaw: -128.05615
+  corner1:
+    ==: Location
+    world: duels
+    x: 86.5
+    y: 170.0
+    z: 291.5
+    pitch: 71.99913
+    yaw: -127.58509
+  corner2:
+    ==: Location
+    world: duels
+    x: 203.5
+    y: 88.0
+    z: 174.5
+    pitch: -2.1400118
+    yaw: 39.6092
+  loc1:
+    ==: Location
+    world: duels
+    x: 199.69999998807907
+    y: 100.0
+    z: 179.30000001192093
+    pitch: 7.5636983
+    yaw: 55.134033
+  display-name: §eduels
+  build: true
+  center:
+    ==: Location
+    world: duels
+    x: 150.3044092322237
+    y: 100.0
+    z: 236.98677447886996
+    pitch: 8.3200655
+    yaw: 50.745728
+  name: duels8
+  icon:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: WHITE_WOOL
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"text":"duels8"}],"text":""}'
+      ItemFlags:
+      - HIDE_ENCHANTS
+      - HIDE_ATTRIBUTES
+      - HIDE_UNBREAKABLE
+      - HIDE_DESTROYS
+      - HIDE_PLACED_ON
+      - HIDE_POTION_EFFECTS
+      - HIDE_DYE
+      - HIDE_ARMOR_TRIM
+- ==: Arena
+  loc2:
+    ==: Location
+    world: duels
+    x: -37.69999998807907
+    y: 95.0
+    z: 41.30000001192093
+    pitch: -2.5716047
+    yaw: -36.885468
+  corner1:
+    ==: Location
+    world: duels
+    x: -56.5
+    y: 154.0
+    z: 25.5
+    pitch: 60.892
+    yaw: -45.50479
+  corner2:
+    ==: Location
+    world: duels
+    x: 37.5
+    y: 87.0
+    z: 136.5
+    pitch: -0.1567949
+    yaw: 130.36787
+  loc1:
+    ==: Location
+    world: duels
+    x: 33.69999998807907
+    y: 95.0
+    z: 132.69999998807907
+    pitch: -0.6050816
+    yaw: 135.86624
+  display-name: §eduels
+  build: true
+  center:
+    ==: Location
+    world: duels
+    x: -8.371336816887744
+    y: 95.0
+    z: 82.53268200410318
+    pitch: 15.127105
+    yaw: -25.842773
+  name: duels1
+  icon:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: WHITE_WOOL
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"text":"duels1"}],"text":""}'
+      ItemFlags:
+      - HIDE_ENCHANTS
+      - HIDE_ATTRIBUTES
+      - HIDE_UNBREAKABLE
+      - HIDE_DESTROYS
+      - HIDE_PLACED_ON
+      - HIDE_POTION_EFFECTS
+      - HIDE_DYE
+      - HIDE_ARMOR_TRIM
+- ==: Arena
+  loc2:
+    ==: Location
+    world: duels
+    x: 164.7093035175685
+    y: 93.0
+    z: 387.69999998807907
+    pitch: -6.958302
+    yaw: -131.43604
+  corner1:
+    ==: Location
+    world: duels
+    x: 236.75348959551215
+    y: 118.0
+    z: 395.664836162948
+    pitch: 78.86385
+    yaw: 139.28511
+  corner2:
+    ==: Location
+    world: duels
+    x: 154.09411415371468
+    y: 86.8866023186802
+    z: 333.1728481437896
+    pitch: 1.673765
+    yaw: -53.825676
+  loc1:
+    ==: Location
+    world: duels
+    x: 229.69999998807907
+    y: 93.0
+    z: 343.30000001192093
+    pitch: 3.328137
+    yaw: 59.29126
+  display-name: §eduels
+  build: true
+  center:
+    ==: Location
+    world: duels
+    x: 198.5968742092006
+    y: 93.0
+    z: 365.8363212090335
+    pitch: 5.143393
+    yaw: -127.049805
+  name: duels12
+  icon:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: WHITE_WOOL
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"text":"duels12"}],"text":""}'
+      ItemFlags:
+      - HIDE_ENCHANTS
+      - HIDE_ATTRIBUTES
+      - HIDE_UNBREAKABLE
+      - HIDE_DESTROYS
+      - HIDE_PLACED_ON
+      - HIDE_POTION_EFFECTS
+      - HIDE_DYE
+      - HIDE_ARMOR_TRIM
+- ==: Arena
+  loc2:
+    ==: Location
+    world: duels
+    x: 306.30000001192093
+    y: 111.0
+    z: 294.69999998807907
+    pitch: 16.186167
+    yaw: -137.71057
+  corner1:
+    ==: Location
+    world: duels
+    x: 419.5
+    y: 148.0
+    z: 181.5
+    pitch: 72.55927
+    yaw: 46.660614
+  corner2:
+    ==: Location
+    world: duels
+    x: 301.4046853663365
+    y: 99.41273411109374
+    z: 297.40611898157465
+    pitch: -0.2069001
+    yaw: -128.75456
+  loc1:
+    ==: Location
+    world: duels
+    x: 416.69999998807907
+    y: 111.0
+    z: 184.30000001192093
+    pitch: 1.5128714
+    yaw: 46.81665
+  display-name: §eduels
+  build: true
+  center:
+    ==: Location
+    world: duels
+    x: 358.53818672647077
+    y: 129.0
+    z: 246.61805932578247
+    pitch: 24.506084
+    yaw: -150.56909
+  name: duels6
+  icon:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: WHITE_WOOL
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"text":"duels6"}],"text":""}'
+      ItemFlags:
+      - HIDE_ENCHANTS
+      - HIDE_ATTRIBUTES
+      - HIDE_UNBREAKABLE
+      - HIDE_DESTROYS
+      - HIDE_PLACED_ON
+      - HIDE_POTION_EFFECTS
+      - HIDE_DYE
+      - HIDE_ARMOR_TRIM
+- ==: Arena
+  loc2:
+    ==: Location
+    world: duels
+    x: 292.69999998807907
+    y: 91.0
+    z: 178.30000001192093
+    pitch: 5.445923
+    yaw: 36.83008
+  corner1:
+    ==: Location
+    world: duels
+    x: 293.94158513938487
+    y: 117.0
+    z: 177.06650440787217
+    pitch: 77.05733
+    yaw: 44.3692
+  corner2:
+    ==: Location
+    world: duels
+    x: 217.5
+    y: 84.0
+    z: 274.5
+    pitch: 3.375923
+    yaw: -154.09656
+  loc1:
+    ==: Location
+    world: duels
+    x: 221.30000001192093
+    y: 94.0
+    z: 269.69999998807907
+    pitch: 9.681526
+    yaw: -144.06494
+  display-name: §eduels
+  build: true
+  center:
+    ==: Location
+    world: duels
+    x: 255.24307477076897
+    y: 90.0
+    z: 221.9923114411057
+    pitch: 15.732371
+    yaw: -132.26611
+  name: duels7
+  icon:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: WHITE_WOOL
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"text":"duels7"}],"text":""}'
+      ItemFlags:
+      - HIDE_ENCHANTS
+      - HIDE_ATTRIBUTES
+      - HIDE_UNBREAKABLE
+      - HIDE_DESTROYS
+      - HIDE_PLACED_ON
+      - HIDE_POTION_EFFECTS
+      - HIDE_DYE
+      - HIDE_ARMOR_TRIM
+- ==: Arena
+  loc2:
+    ==: Location
+    world: duels
+    x: 268.69999998807907
+    y: 103.0
+    z: 33.30000001192093
+    pitch: -4.538057
+    yaw: 37.36242
+  corner1:
+    ==: Location
+    world: duels
+    x: 153.57864201447512
+    y: 198.7517689026797
+    z: 146.9539219194858
+    pitch: 75.507774
+    yaw: -126.99207
+  corner2:
+    ==: Location
+    world: duels
+    x: 277.31866826424385
+    y: 79.66619168544983
+    z: 27.898643358100287
+    pitch: -11.445471
+    yaw: 47.812927
+  loc1:
+    ==: Location
+    world: duels
+    x: 157.30000001192093
+    y: 103.0
+    z: 143.69999998807907
+    pitch: 4.2356462
+    yaw: -143.68367
+  display-name: §eduels
+  build: true
+  center:
+    ==: Location
+    world: duels
+    x: 209.30000001192093
+    y: 114.0
+    z: 89.69999998807907
+    pitch: 24.506014
+    yaw: 62.32214
+  name: duels3
+  icon:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: WHITE_WOOL
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"text":"duels3"}],"text":""}'
+      ItemFlags:
+      - HIDE_ENCHANTS
+      - HIDE_ATTRIBUTES
+      - HIDE_UNBREAKABLE
+      - HIDE_DESTROYS
+      - HIDE_PLACED_ON
+      - HIDE_POTION_EFFECTS
+      - HIDE_DYE
+      - HIDE_ARMOR_TRIM
+- ==: Arena
+  loc2:
+    ==: Location
+    world: duels
+    x: 337.69999998807907
+    y: 94.0
+    z: 430.69999998807907
+    pitch: -2.571425
+    yaw: 133.23865
+  corner1:
+    ==: Location
+    world: duels
+    x: 264.8411916420894
+    y: 117.0
+    z: 432.1704157492402
+    pitch: 74.06518
+    yaw: -132.07695
+  corner2:
+    ==: Location
+    world: duels
+    x: 341.5
+    y: 85.0
+    z: 335.5
+    pitch: 10.75707
+    yaw: 34.643066
+  loc1:
+    ==: Location
+    world: duels
+    x: 266.30774179717133
+    y: 94.0
+    z: 339.30000001192093
+    pitch: 6.807397
+    yaw: -37.21704
+  display-name: §eduels
+  build: true
+  center:
+    ==: Location
+    world: duels
+    x: 302.7647588712159
+    y: 90.0
+    z: 383.22609448970934
+    pitch: 8.773922
+    yaw: -40.242188
+  name: duels11
+  icon:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: WHITE_WOOL
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"text":"duels11"}],"text":""}'
+      ItemFlags:
+      - HIDE_ENCHANTS
+      - HIDE_ATTRIBUTES
+      - HIDE_UNBREAKABLE
+      - HIDE_DESTROYS
+      - HIDE_PLACED_ON
+      - HIDE_POTION_EFFECTS
+      - HIDE_DYE
+      - HIDE_ARMOR_TRIM
+- ==: Arena
+  loc2:
+    ==: Location
+    world: duels
+    x: 58.30000001192093
+    y: 97.0
+    z: 427.69999998807907
+    pitch: -8.168419
+    yaw: -137.79346
+  corner1:
+    ==: Location
+    world: duels
+    x: 56.9558182441086
+    y: 122.0
+    z: 429.1100388472341
+    pitch: 71.98836
+    yaw: -126.36146
+  corner2:
+    ==: Location
+    world: duels
+    x: 133.5
+    y: 89.0
+    z: 334.5
+    pitch: -13.286852
+    yaw: 70.10629
+  loc1:
+    ==: Location
+    world: duels
+    x: 129.69999998807907
+    y: 97.0
+    z: 336.30000001192093
+    pitch: 1.815479
+    yaw: 40.833008
+  display-name: §eduels
+  build: true
+  center:
+    ==: Location
+    world: duels
+    x: 95.89013612451669
+    y: 95.0
+    z: 380.98800362034314
+    pitch: 1.815479
+    yaw: 40.833008
+  name: duels13
+  icon:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: WHITE_WOOL
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"text":"duels13"}],"text":""}'
+      ItemFlags:
+      - HIDE_ENCHANTS
+      - HIDE_ATTRIBUTES
+      - HIDE_UNBREAKABLE
+      - HIDE_DESTROYS
+      - HIDE_PLACED_ON
+      - HIDE_POTION_EFFECTS
+      - HIDE_DYE
+      - HIDE_ARMOR_TRIM
+- ==: Arena
+  loc2:
+    ==: Location
+    world: duels
+    x: 457.69999998807907
+    y: 96.0
+    z: 423.69999998807907
+    pitch: 9.832779
+    yaw: 138.93567
+  corner1:
+    ==: Location
+    world: duels
+    x: 459.07967063026814
+    y: 136.0
+    z: 425.22283643370093
+    pitch: 71.38893
+    yaw: 147.32712
+  corner2:
+    ==: Location
+    world: duels
+    x: 379.66896830339886
+    y: 79.03721214831627
+    z: 326.11674228153583
+    pitch: -6.4113235
+    yaw: -46.715668
+  loc1:
+    ==: Location
+    world: duels
+    x: 386.30000001192093
+    y: 96.0
+    z: 332.30000001192093
+    pitch: -8.319774
+    yaw: -48.03418
+  display-name: §eduels
+  build: true
+  center:
+    ==: Location
+    world: duels
+    x: 423.79609891999064
+    y: 93.0
+    z: 375.7686409245995
+    pitch: -16.639687
+    yaw: -43.495728
+  name: duels10
+  icon:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: WHITE_WOOL
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"text":"duels10"}],"text":""}'
+      ItemFlags:
+      - HIDE_ENCHANTS
+      - HIDE_ATTRIBUTES
+      - HIDE_UNBREAKABLE
+      - HIDE_DESTROYS
+      - HIDE_PLACED_ON
+      - HIDE_POTION_EFFECTS
+      - HIDE_DYE
+      - HIDE_ARMOR_TRIM
+- ==: Arena
+  loc2:
+    ==: Location
+    world: duels
+    x: 416.69999998807907
+    y: 103.0
+    z: 37.30000001192093
+    pitch: -5.445657
+    yaw: 45.102936
+  corner1:
+    ==: Location
+    world: duels
+    x: 303.5
+    y: 194.0
+    z: 150.5
+    pitch: 88.016884
+    yaw: -116.5627
+  corner2:
+    ==: Location
+    world: duels
+    x: 423.177428387755
+    y: 89.23027371433865
+    z: 33.26604848800354
+    pitch: -9.462376
+    yaw: 53.835045
+  loc1:
+    ==: Location
+    world: duels
+    x: 307.23983148708555
+    y: 103.0
+    z: 147.69999998807907
+    pitch: -10.437616
+    yaw: -139.902
+  display-name: §eduels
+  build: true
+  center:
+    ==: Location
+    world: duels
+    x: 360.84545827417577
+    y: 103.0
+    z: 92.08361884382474
+    pitch: 6.5047646
+    yaw: 40.716003
+  name: duels4
+  icon:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: WHITE_WOOL
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"text":"duels4"}],"text":""}'
+      ItemFlags:
+      - HIDE_ENCHANTS
+      - HIDE_ATTRIBUTES
+      - HIDE_UNBREAKABLE
+      - HIDE_DESTROYS
+      - HIDE_PLACED_ON
+      - HIDE_POTION_EFFECTS
+      - HIDE_DYE
+      - HIDE_ARMOR_TRIM

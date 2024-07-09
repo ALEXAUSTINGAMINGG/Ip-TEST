@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 157.40.87.149
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712580369670
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712580554775
+  login: 1712580181670
+money: '0'
+last-account-name: Rishu23
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -20.8589326687139
+  y: 178.0
+  z: -8.694074635531571
+  yaw: 77.41829681396484
+  pitch: -26.472904205322266
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -42.379770924376196
+  y: 178.0
+  z: -8.463356040644975
+  yaw: -5.563498020172119
+  pitch: -29.330400466918945

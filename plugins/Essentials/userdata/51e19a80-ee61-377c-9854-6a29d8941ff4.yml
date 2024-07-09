@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 27.57.102.195
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712559487942
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712559557810
+  login: 1712559353291
+money: '0'
+last-account-name: Saju786
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.340400414062
+  y: 178.0
+  z: -7.741087083895477
+  yaw: 84.26309204101562
+  pitch: 1.2165008783340454
+logoutlocation:
+  world: 33a34951-efe1-4473-ab9e-cae292dfe960
+  world-name: world
+  x: -1354.103471615313
+  y: 207.0
+  z: 4351.531421636249
+  yaw: -18.788082122802734
+  pitch: 18.512304306030273

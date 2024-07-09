@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 171.79.178.47
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712477659543
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712477759076
+  login: 1712477412941
+money: '0'
+last-account-name: I_AM_BLAZE4919
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -35.454858955669735
+  y: 178.0
+  z: -1.16807363278342
+  yaw: 37.16305923461914
+  pitch: -6.2835001945495605
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -27.211955200203448
+  y: 178.0
+  z: -8.017608319139276
+  yaw: 96.11309814453125
+  pitch: -11.083498001098633

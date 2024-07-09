@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.156.94.181
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712596141067
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712647729621
+  login: 1712647649313
+money: '0'
+last-account-name: RISHAAN
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: 30.69639281291761
+  y: 42.35973106700201
+  z: 14.925318695130008
+  yaw: -146.27243041992188
+  pitch: 14.916542053222656
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -34.547936635612736
+  y: 180.7429316017249
+  z: -1.1387021545827054
+  yaw: -129.78955078125
+  pitch: 31.816469192504883

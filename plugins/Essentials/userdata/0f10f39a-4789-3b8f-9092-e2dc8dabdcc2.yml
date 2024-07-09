@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.43.26.205
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716027611087
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716028406339
+  login: 1716027435036
+money: '0'
+last-account-name: ZadOP
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -37.526614895038094
+  y: 178.0
+  z: -12.095091642907468
+  yaw: 132.80274963378906
+  pitch: -8.817033767700195
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.97118051650862
+  y: 178.0
+  z: -5.300000011920929
+  yaw: -35.23394775390625
+  pitch: 41.27837371826172

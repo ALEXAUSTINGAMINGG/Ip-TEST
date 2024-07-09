@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 37.43.230.253
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712530759543
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712531974444
+  login: 1712531706791
+money: '0'
+last-account-name: ancientspider
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.24135918041303
+  y: 178.0
+  z: -7.512890631630611
+  yaw: 91.1631088256836
+  pitch: -8.533500671386719
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -21.657409403254412
+  y: 178.0000001
+  z: -7.9093034498716035
+  yaw: 145.46310424804688
+  pitch: -23.383502960205078

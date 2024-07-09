@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.66.228.247
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716105840836
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716108408239
+  login: 1716108275836
+money: '0'
+last-account-name: MazeBurner66
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -36.51854909250419
+  y: 178.0
+  z: -1.8112341614076315
+  yaw: -0.8159173130989075
+  pitch: -6.929745197296143
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -38.69999998807907
+  y: 178.0
+  z: -13.700441241560968
+  yaw: 25.962587356567383
+  pitch: 10.339590072631836

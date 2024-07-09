@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.190.40.18
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716088305287
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716090571590
+  login: 1716090230786
+money: '0'
+last-account-name: XNotFirey_X
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -42.096620359976285
+  y: 178.0
+  z: -5.300000011920929
+  yaw: -38.43074035644531
+  pitch: -22.04833221435547
+logoutlocation:
+  world: fd2a2c6a-eda5-4f74-8350-27f0fde897c2
+  world-name: duels
+  x: 392.75262037282414
+  y: 112.16610926093821
+  z: 287.95361717576776
+  yaw: 75.10693359375
+  pitch: 2.7817370891571045

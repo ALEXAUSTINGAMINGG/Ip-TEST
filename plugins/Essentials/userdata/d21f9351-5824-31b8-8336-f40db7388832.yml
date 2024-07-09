@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.36.183.134
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716101666637
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716103551838
+  login: 1716100517186
+money: '0'
+last-account-name: bullyer44
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.72591771115809
+  y: 178.0
+  z: -5.446038280617454
+  yaw: 34.7630615234375
+  pitch: -16.33357048034668
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.790639736396834
+  y: 178.0
+  z: -6.323530171776177
+  yaw: 18.713075637817383
+  pitch: 16.96650505065918

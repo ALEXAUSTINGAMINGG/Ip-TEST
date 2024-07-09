@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 110.227.39.5
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712640708264
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712640834467
+  login: 1712639154913
+money: '0'
+last-account-name: NOT_KING_SHIVXD
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.69999998807907
+  y: 178.0
+  z: -7.830599853837989
+  yaw: 88.31310272216797
+  pitch: 6.916501998901367
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -43.958989646407474
+  y: 178.0
+  z: -9.786186565822057
+  yaw: -102.63687133789062
+  pitch: -6.283498764038086

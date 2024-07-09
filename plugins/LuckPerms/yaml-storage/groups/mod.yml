@@ -1,0 +1,35 @@
+name: mod
+permissions:
+- ajleaderboards.dontupdate.*
+- deluxemenus.open
+- duels.duel
+- duels.queue
+- duels.toggle
+- duels.use
+- essentials.ban
+- essentials.fly
+- essentials.msg
+- essentials.spawn
+- essentials.spawn-on-join
+- essentials.tempbanip
+- essentials.tp.others
+- essentials.unban
+- essentials.unbanip
+- essentials.vanish
+- jumppads.use
+- minecraft.command.msg
+- minecraft.command.op:
+    value: false
+- p1.use
+- permission.one
+- permission.two
+- sternalboard.toggle
+- weight.1
+- weight.50
+- weight.70
+parents:
+- default
+- jrmod
+prefixes:
+- '&#5eecfb&lM&#82b6fc&lO&#a580fd&lD &f':
+    priority: 50

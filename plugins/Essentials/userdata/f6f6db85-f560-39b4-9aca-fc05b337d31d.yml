@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 110.37.39.16
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712480017855
+  login: 1712479763541
+money: '0'
+last-account-name: AncientWalkerOG
+logoutlocation:
+  world: fd2a2c6a-eda5-4f74-8350-27f0fde897c2
+  world-name: duels
+  x: 353.6447075634104
+  y: 118.25220334025373
+  z: 254.63354590103023
+  yaw: 40.46282958984375
+  pitch: 9.844541549682617

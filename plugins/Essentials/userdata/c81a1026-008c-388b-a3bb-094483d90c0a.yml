@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 157.38.66.124
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712564422871
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712564631624
+  login: 1712564254870
+money: '0'
+last-account-name: SekaiXD_
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -39.7967129785659
+  y: 178.0
+  z: -5.791096938841977
+  yaw: 61.324371337890625
+  pitch: -13.210108757019043
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -38.39462715447855
+  y: 178.0
+  z: 5.592040430459734
+  yaw: -160.70458984375
+  pitch: 34.02819061279297

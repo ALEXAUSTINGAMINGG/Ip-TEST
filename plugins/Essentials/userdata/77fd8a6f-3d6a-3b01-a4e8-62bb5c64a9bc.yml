@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 152.59.91.121
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716106915787
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716106991739
+  login: 1716105699836
+money: '0'
+last-account-name: Coolingbreeze
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -39.00067247756708
+  y: 178.0
+  z: -2.3450110938865896
+  yaw: 13.654266357421875
+  pitch: 4.674524784088135
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -19.480425202736185
+  y: 178.0
+  z: -7.499006368178019
+  yaw: 88.59697723388672
+  pitch: 1.413744568824768

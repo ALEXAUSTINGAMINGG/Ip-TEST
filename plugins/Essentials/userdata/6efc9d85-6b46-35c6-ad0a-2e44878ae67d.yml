@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.15.245.106
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712588087921
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712588143229
+  login: 1712587959220
+money: '0'
+last-account-name: HITESHGOD
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.76113014914806
+  y: 178.0
+  z: -6.503859774885439
+  yaw: 129.21273803710938
+  pitch: 4.859702110290527
+logoutlocation:
+  world: fd2a2c6a-eda5-4f74-8350-27f0fde897c2
+  world-name: duels
+  x: 199.62581157097364
+  y: 103.0
+  z: 104.15300219395422
+  yaw: 101.887451171875
+  pitch: 15.043181419372559

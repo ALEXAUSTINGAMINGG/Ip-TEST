@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 123.136.29.131
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716040466887
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716052369238
+  login: 1716052364936
+money: '0'
+last-account-name: ProArmyYT
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -19.5
+  y: 178.0
+  z: -7.5
+  yaw: 92.96310424804688
+  pitch: 3.0165014266967773
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -37.39275006362206
+  y: 178.0
+  z: -1.4000826626472531
+  yaw: 89.3630142211914
+  pitch: -9.733500480651855

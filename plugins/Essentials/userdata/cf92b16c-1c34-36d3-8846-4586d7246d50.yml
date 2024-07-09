@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 152.58.122.70
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712479316995
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712479627855
+  login: 1712479042641
+money: '0'
+last-account-name: DDwanted
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.280019710797724
+  y: 178.0
+  z: -7.934526141938636
+  yaw: 70.74755859375
+  pitch: -19.634464263916016
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -16.98891330972974
+  y: 178.0
+  z: -6.985788818606056
+  yaw: 60.9437255859375
+  pitch: -90.0

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 101.2.167.134
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716111990987
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716112748840
+  login: 1716111264510
+money: '0'
+last-account-name: Aydin_5881
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.06831063299977
+  y: 178.0
+  z: -6.309640675517822
+  yaw: 36.781494140625
+  pitch: 0.29004067182540894
+logoutlocation:
+  world: fd2a2c6a-eda5-4f74-8350-27f0fde897c2
+  world-name: duels
+  x: 38.779159437865076
+  y: 106.0
+  z: 244.09650636424846
+  yaw: -147.61788940429688
+  pitch: 19.141023635864258

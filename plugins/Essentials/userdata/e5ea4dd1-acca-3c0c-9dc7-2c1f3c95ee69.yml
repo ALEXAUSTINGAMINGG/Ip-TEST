@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 47.9.37.27
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712582065421
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712582233225
+  login: 1712580887620
+money: '0'
+last-account-name: roboabhigyan13
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.53513226934637
+  y: 178.0
+  z: -6.369068891988866
+  yaw: 116.18878173828125
+  pitch: -5.709290981292725
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -19.354212943973945
+  y: 178.0
+  z: -7.551230678153079
+  yaw: 92.96310424804688
+  pitch: 3.0165014266967773

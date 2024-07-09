@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.179.239.164
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712600932470
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712600960015
+  login: 1712600128020
+money: '0'
+last-account-name: Kalmatbhai
+lastlocation:
+  world: 33a34951-efe1-4473-ab9e-cae292dfe960
+  world-name: world
+  x: 988.2404761831888
+  y: 157.0
+  z: 3528.2759650451267
+  yaw: -120.1009521484375
+  pitch: 15.851497650146484
+logoutlocation:
+  world: 33a34951-efe1-4473-ab9e-cae292dfe960
+  world-name: world
+  x: 982.4168087353187
+  y: 157.31227378840168
+  z: 3533.805697912699
+  yaw: -102.03854370117188
+  pitch: 4.736082077026367

@@ -1,0 +1,30 @@
+name: deadliest
+permissions:
+- essentials.fly:
+    value: true
+    context:
+      world: world
+- ajleaderboards.dontupdate.*
+- deluxemenus.open
+- duels.duel
+- duels.queue
+- duels.toggle
+- duels.use
+- essentials.msg
+- essentials.spawn
+- essentials.spawn-on-join
+- jumppads.use
+- minecraft.command.msg
+- p1.use
+- permission.one
+- permission.two
+- sternalboard.toggle
+- weight.1
+- weight.37
+- weight.70
+parents:
+- champion
+- default
+prefixes:
+- '&#ff0000&lD&#f10000&lE&#e20000&lA&#d40000&lD&#c50000&lL&#b70000&lI&#a80000&lE&#9a0000&lS&#8b0000&lT &f':
+    priority: 37

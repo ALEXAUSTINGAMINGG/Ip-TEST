@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.42.84.143
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712644921503
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712647690268
+  login: 1712644179713
+money: '0'
+last-account-name: TheBumbleBeeO
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -19.259673985198567
+  y: 178.0
+  z: 1.156962176589618
+  yaw: 179.2139434814453
+  pitch: 13.516457557678223
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -43.64273362025931
+  y: 178.92699798443005
+  z: -37.855885415171734
+  yaw: 52.46413803100586
+  pitch: -8.999909400939941

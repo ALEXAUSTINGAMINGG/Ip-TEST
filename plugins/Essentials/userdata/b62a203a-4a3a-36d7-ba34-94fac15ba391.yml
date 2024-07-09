@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 116.72.221.157
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712573401571
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712573426926
+  login: 1712573299170
+money: '0'
+last-account-name: BasicGamerzYT
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.69999998807907
+  y: 178.0
+  z: -7.4442729498141675
+  yaw: 81.86309814453125
+  pitch: 4.966501235961914
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -22.30202851541375
+  y: 178.0
+  z: -7.578918030127419
+  yaw: 92.96310424804688
+  pitch: 3.0165014266967773

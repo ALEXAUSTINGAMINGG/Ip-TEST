@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 83.20.142.234
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712589300071
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712589343374
+  login: 1712588685720
+money: '0'
+last-account-name: Marlowwww
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.125626614166436
+  y: 178.0
+  z: -5.199426253739803
+  yaw: 71.95500183105469
+  pitch: -2.588942766189575
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -19.56268909930836
+  y: 178.0
+  z: -7.5
+  yaw: 92.96310424804688
+  pitch: 3.0165014266967773

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.15.234.67
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716026351837
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716026375989
+  login: 1716026165736
+money: '0'
+last-account-name: playzbhai4608
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.30562287225788
+  y: 178.0
+  z: -4.124179761905834
+  yaw: 100.18592071533203
+  pitch: 10.18187427520752
+logoutlocation:
+  world: 33a34951-efe1-4473-ab9e-cae292dfe960
+  world-name: world
+  x: -1568.5
+  y: 269.0000001
+  z: 1637.5
+  yaw: -42.043914794921875
+  pitch: 80.25355529785156

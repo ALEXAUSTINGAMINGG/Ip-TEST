@@ -1,0 +1,68 @@
+language-items:
+- ==: LanguageItem
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: ORANGE_WOOL
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"blue","text":"Español
+        "}],"text":""}'
+  language: spanish
+  slot: 10
+- ==: LanguageItem
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: WHITE_WOOL
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"blue","text":"Français"}],"text":""}'
+  language: français
+  slot: 11
+- ==: LanguageItem
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: NETHER_BRICK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"blue","text":"Italiano"}],"text":""}'
+  language: italiano
+  slot: 12
+- ==: LanguageItem
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: NETHER_BRICK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"blue","text":"Nederlands"}],"text":""}'
+  language: nederlands
+  slot: 13
+- ==: LanguageItem
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: BLUE_WOOL
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"blue","text":"Suomi"}],"text":""}'
+  language: suomi
+  slot: 15
+- ==: LanguageItem
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: NETHER_STAR
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"blue","text":"English"}],"text":""}'
+  language: English
+  slot: 9

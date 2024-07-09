@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 152.59.26.197
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712556006592
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712556080195
+  login: 1712555366591
+money: '0'
+last-account-name: MrKiller2
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -34.66386327497548
+  y: 178.0
+  z: -0.27892417908940254
+  yaw: 59.8130989074707
+  pitch: -5.533500671386719
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -32.74489900905983
+  y: 178.0
+  z: -1.2142603857776728
+  yaw: 49.46312713623047
+  pitch: 6.166501998901367

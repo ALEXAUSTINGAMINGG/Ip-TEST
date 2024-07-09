@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 182.68.25.255
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712602911414
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712602959016
+  login: 1712602306613
+money: '0'
+last-account-name: DeadlyShaurya_
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -22.34719739798388
+  y: 178.0
+  z: -7.672420111790616
+  yaw: 92.96310424804688
+  pitch: 3.0165014266967773
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -39.8093180010175
+  y: 178.0
+  z: -3.6925834717983252
+  yaw: 111.86276245117188
+  pitch: -6.583505153656006

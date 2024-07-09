@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.149.241.107
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712607865364
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712607902421
+  login: 1712606863163
+money: '0'
+last-account-name: MEER_YT
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -37.28263845046066
+  y: 178.0
+  z: -2.882322172048615
+  yaw: 56.213134765625
+  pitch: -0.8834813833236694
+logoutlocation:
+  world: 33a34951-efe1-4473-ab9e-cae292dfe960
+  world-name: world
+  x: -174.64945482478032
+  y: 53.166109260938214
+  z: 153.76720896187996
+  yaw: 37.04376220703125
+  pitch: 30.947019577026367

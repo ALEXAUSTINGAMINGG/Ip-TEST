@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.111.227.253
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712647475714
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712647986867
+  login: 1712645871213
+money: '0'
+last-account-name: bayyan
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.683767510917804
+  y: 178.0
+  z: -5.8841038954815685
+  yaw: 39.536251068115234
+  pitch: -13.276017189025879
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -30.52786010063873
+  y: 178.0
+  z: -5.289672417955624
+  yaw: 63.975067138671875
+  pitch: 19.30902099609375

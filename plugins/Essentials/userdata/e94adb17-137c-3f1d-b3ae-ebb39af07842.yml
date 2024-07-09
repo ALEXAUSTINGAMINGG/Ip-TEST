@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 154.192.9.94
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712558285192
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712558374500
+  login: 1712558266341
+money: '0'
+last-account-name: SpaceHamster86
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.50421973174044
+  y: 178.0
+  z: -5.814362659818219
+  yaw: -0.1370736062526703
+  pitch: -11.953363418579102
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -30.721818906658307
+  y: 178.0
+  z: -10.140773138523796
+  yaw: 91.11753845214844
+  pitch: -0.26456451416015625

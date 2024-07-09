@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 111.88.104.88
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712646355513
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712648381017
+  login: 1712645777113
+money: '0'
+last-account-name: UN_HERO_123445
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -37.30000001192093
+  y: 178.0
+  z: 10.514521667290103
+  yaw: -74.73681640625
+  pitch: 49.96649932861328
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -42.11287667466783
+  y: 179.0
+  z: -7.77422958275109
+  yaw: 77.66310119628906
+  pitch: 13.966501235961914

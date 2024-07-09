@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.136.159.196
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712643617114
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712643649467
+  login: 1712643589263
+money: '0'
+last-account-name: aSaaFiR
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -18.859038036306558
+  y: 178.0
+  z: -7.4848140225258355
+  yaw: 89.28722381591797
+  pitch: 4.192784309387207
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -39.66558272471587
+  y: 178.0
+  z: -9.65935220158098
+  yaw: 114.1361083984375
+  pitch: 9.044957160949707

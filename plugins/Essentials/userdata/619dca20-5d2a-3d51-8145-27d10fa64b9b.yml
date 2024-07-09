@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 111.88.62.91
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712644024014
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712644044066
+  login: 1712643803263
+money: '0'
+last-account-name: DonOP321
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.80580604809945
+  y: 178.0
+  z: -5.300000011920929
+  yaw: 56.22107696533203
+  pitch: -1.741452932357788
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -27.65034696827508
+  y: 179.1661092609382
+  z: -10.059658547269644
+  yaw: 103.80069732666016
+  pitch: 1.95917809009552

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.35.182.241
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712652627524
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712653556679
+  login: 1712652614924
+money: '0'
+last-account-name: Opsanju7689
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -35.85243688726606
+  y: 178.0
+  z: -0.6325267725891801
+  yaw: 2.59798264503479
+  pitch: 16.73731231689453
+logoutlocation:
+  world: fd2a2c6a-eda5-4f74-8350-27f0fde897c2
+  world-name: duels
+  x: 368.96858204372865
+  y: 103.0
+  z: 61.24463099982807
+  yaw: -165.9776611328125
+  pitch: 31.81123161315918

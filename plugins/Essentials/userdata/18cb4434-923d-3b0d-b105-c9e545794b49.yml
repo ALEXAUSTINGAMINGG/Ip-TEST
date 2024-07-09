@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 202.47.38.162
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712624849814
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712643424100
+  login: 1712642447663
+money: '0'
+last-account-name: HeroFlameXD
+logoutlocation:
+  world: fd2a2c6a-eda5-4f74-8350-27f0fde897c2
+  world-name: duels
+  x: 66.66146539060496
+  y: 98.2418642570268
+  z: 71.57000721757052
+  yaw: -95.451171875
+  pitch: 33.219181060791016
+lastlocation:
+  world: fd2a2c6a-eda5-4f74-8350-27f0fde897c2
+  world-name: duels
+  x: -4.876864515462181
+  y: 101.43911905054199
+  z: 206.01303695956577
+  yaw: -78.41357421875
+  pitch: 8.294994354248047

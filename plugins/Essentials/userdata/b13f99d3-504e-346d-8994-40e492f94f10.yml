@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.15.244.34
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712640844064
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712640869768
+  login: 1712640579963
+money: '0'
+last-account-name: Itachi
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -38.914863162970796
+  y: 178.0
+  z: -3.369301501490774
+  yaw: 10.89862060546875
+  pitch: -3.2435853481292725
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -26.635127955777808
+  y: 178.0
+  z: -2.376195931099839
+  yaw: 73.94636535644531
+  pitch: 11.493725776672363

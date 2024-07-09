@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 157.47.119.174
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716113214487
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716111850639
+  login: 1716112139386
+money: '0'
+last-account-name: daquavih
+logoutlocation:
+  world: fd2a2c6a-eda5-4f74-8350-27f0fde897c2
+  world-name: duels
+  x: 417.8706973859506
+  y: 93.0
+  z: 389.03487412567745
+  yaw: 20.630859375
+  pitch: 47.211421966552734
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.86346328856344
+  y: 179.0
+  z: -4.979705668673738
+  yaw: 58.38054656982422
+  pitch: 1.8442127704620361

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.43.3.167
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712652696275
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712653556339
+  login: 1712652534124
+money: '0'
+last-account-name: ICONIC_ICE
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.69999998807907
+  y: 178.0
+  z: -7.168950585642636
+  yaw: 92.96310424804688
+  pitch: 3.0165014266967773
+logoutlocation:
+  world: fd2a2c6a-eda5-4f74-8350-27f0fde897c2
+  world-name: duels
+  x: 351.35498759749737
+  y: 106.8687055453341
+  z: 129.65250163753367
+  yaw: 150.74937438964844
+  pitch: 19.650009155273438

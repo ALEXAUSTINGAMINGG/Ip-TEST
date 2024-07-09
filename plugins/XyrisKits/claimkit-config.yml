@@ -1,0 +1,31 @@
+# To add a cooldown to the "/kits.claim" command, use the following format:
+# Replace 'kit1', 'kit2', 'kit3', etc., with the names of your specific kits.
+
+# Specify the cooldown time for each kit using different units:
+# 's' for seconds, 'm' for minutes, and 'h' for hours.
+
+# Example:
+# kit1:
+#   cooldown: 10s  # This sets a cooldown of 10 seconds for 'kit1'
+# kit2:
+#   cooldown: 5m   # This sets a cooldown of 5 minutes for 'kit2'
+# kit3:
+#   cooldown: 1h   # This sets a cooldown of 1 hour for 'kit3'
+
+# Done setting up? Execute the command /kits.reload to apply the changes made.
+
+# If you want to apply a cooldown to the 'mykit' command, use the following:
+
+mykit:
+  cooldown: 1h                 # Cooldown of 1 hour for the 'mykit' command
+  permission: xyriskits.kit.mykit  # Requires the 'xyriskits.kit.mykit' permission
+
+# Add more kits or commands with their respective cooldowns and permissions below:
+
+# kit4:
+#   cooldown: 2m
+# kit5:
+#   cooldown: 30s
+#   permission: xyriskits.kit.kit5
+
+# Feel free to continue adding more configurations as needed.

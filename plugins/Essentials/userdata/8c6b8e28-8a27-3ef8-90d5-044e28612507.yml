@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 182.181.132.179
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712576893971
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712577197224
+  login: 1712576562520
+money: '0'
+last-account-name: ZOyyan44
+lastlocation:
+  world: 33a34951-efe1-4473-ab9e-cae292dfe960
+  world-name: world
+  x: -1548.4390044359614
+  y: 210.0
+  z: 1621.488415188357
+  yaw: 76.2427978515625
+  pitch: 9.689462661743164
+logoutlocation:
+  world: 33a34951-efe1-4473-ab9e-cae292dfe960
+  world-name: world
+  x: -504.69999998807907
+  y: 184.0
+  z: 1591.2527819832524
+  yaw: 36.9593505859375
+  pitch: 31.28811264038086

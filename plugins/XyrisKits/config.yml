@@ -1,0 +1,16 @@
+# aa76a4e7-171b-4128-8d32-fd5f71b0a630
+
+# Welcome to the config of Xyris Kits.
+
+# Make sure to read the instructions below to learn how to edit configuration options, and disable them!
+# If you have any questions, check the comments first, and then feel free to join our Discord and ask: https://xyris.fun/devs!
+
+# Happy configuring!
+
+# Made by Darkxx (Xyris Plugins) with ❤️
+
+kit-settings:
+  HealOnKitGive: true # When set to true, this will heal the player upon receiving the kit.
+  EffectClearOnKitGive: true # When set to true, this will remove all potion effects from the player upon receiving the kit.
+  FeedOnKitGive: true # When set to true, this will fully satisfy the player's hunger upon receiving the kit.
+  Sound: "BLOCK_AMETHYST_BLOCK_STEP" # You can use "NONE" to disable this option!

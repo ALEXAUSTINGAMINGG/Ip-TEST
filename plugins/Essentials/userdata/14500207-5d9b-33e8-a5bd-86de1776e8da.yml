@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 157.119.51.98
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712630661114
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712630692016
+  login: 1712630360113
+money: '0'
+last-account-name: DARK_VS_LIGHT
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -39.12462737999879
+  y: 178.0
+  z: -3.467898533455828
+  yaw: 11.719263076782227
+  pitch: -6.704980850219727
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -33.6302518663388
+  y: 178.0
+  z: -7.606446414100255
+  yaw: 89.35225677490234
+  pitch: 21.76507568359375

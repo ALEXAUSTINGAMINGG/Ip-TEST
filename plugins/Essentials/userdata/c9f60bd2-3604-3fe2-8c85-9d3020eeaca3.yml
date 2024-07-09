@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.14.174.7
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712574980071
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712575126326
+  login: 1712574940470
+money: '0'
+last-account-name: NotAyushIND
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -38.43321420184672
+  y: 178.0
+  z: -3.7375662608904623
+  yaw: 16.898244857788086
+  pitch: -3.9392828941345215
+logoutlocation:
+  world: fd2a2c6a-eda5-4f74-8350-27f0fde897c2
+  world-name: duels
+  x: 361.22639400828524
+  y: 103.0
+  z: 69.17018999880908
+  yaw: 157.22802734375
+  pitch: 41.6510009765625

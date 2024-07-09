@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 45.115.54.72
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712600731571
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712600748723
+  login: 1712600524720
+money: '0'
+last-account-name: Reedy_path
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.69999998807907
+  y: 178.0
+  z: -4.111795014196477
+  yaw: 104.36309814453125
+  pitch: 23.416501998901367
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -29.625515319348278
+  y: 178.0
+  z: -5.093142774586453
+  yaw: 75.5631103515625
+  pitch: 8.716504096984863

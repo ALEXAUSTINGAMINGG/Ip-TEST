@@ -1,0 +1,101 @@
+
+# Messages use MiniMessage formatting (https://docs.adventure.kyori.net/minimessage/format)
+messages:
+  prefix: ''
+  command_denied: <red> Unknown Command.
+  subcommand_denied: You cannot use this subcommand
+  no_permission: <red>You don't have permission to do this.
+  no_such_subcommand: <red>No subcommand by that name.
+  config_reloaded: <yellow>Configuration reloaded.
+  added_to_whitelist: <yellow>Whitelisted command <gold>%s <yellow>for permission
+    <gold>%s
+  removed_from_whitelist: <yellow>Removed command <gold>%s <yellow>from permission
+    <gold>%s
+  group_doesnt_exist: <red>Group doesn't exist or error occured
+
+# Do not enable if you don't have issues with aliased commands.
+# This requires server restart to take effect.
+use_protocollib: false
+groups:
+  example:
+    commands:
+    - example
+    subcommands:
+    - example of
+    custom_command_denied_message: You don't have commandwhitelist.group.example permission.
+  default:
+    commands:
+    - msg
+    - caacceptcrystal
+    - kitpvp
+    - dm
+    - leaderboards
+    - bal
+    - /spawn
+    - skins
+    - balance
+    - /k1
+    - reg
+    - caacceptneth
+    - /k2
+    - duelaccept
+    - caaccepttank
+    - /k3
+    - kiteditor
+    - /k4
+    - /k5
+    - /k6
+    - /k7
+    - /k
+    - cadenycrystal
+    - skinsrestorer
+    - settings
+    - cacrystal
+    - k1
+    - k2
+    - k3
+    - pay
+    - k4
+    - k5
+    - k6
+    - tpahere
+    - k7
+    - eventjoin
+    - deathmessage-author
+    - discord
+    - catank
+    - canetherite
+    - changepass
+    - party
+    - warp
+    - tpdeny
+    - log
+    - crystal
+    - skin
+    - extras
+    - login
+    - skins\
+    - fastcrystals
+    - duel
+    - ca
+    - coinshop
+    - cadenytank
+    - changepassword
+    - dueltoggle
+    - potion
+    - tpa
+    - cadenyneth
+    - k
+    - baltop
+    - 1v1
+    - tpaccept
+    - help
+    - sword
+    - r
+    - spawn
+    - dmenu
+    - clan
+    - queue
+    - register
+    subcommands:
+    - help about

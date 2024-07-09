@@ -1,0 +1,17 @@
+command /streammode <text>:
+	permission: stream.mode
+	trigger:
+		if arg-1 is "Enable":
+			send "&aStreammode enabled"
+			execute console command "/lp user %player% meta addsuffix 100 &7[&cStreaming&7]"
+		if arg-1 is "Disable":
+			send "&cStreammode disabled"
+			execute console command "/lp user %player% meta removesuffix 100"
+on tab complete of "/streammode":
+	set tab completions for position 1 to "Enable" and "Disable"
+on command "/fly":
+	if player is in world "spawn":
+		send message "&aFly enabled" to player
+	else:
+		cancel event
+		send message "only for spawn "

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 110.224.175.74
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712507110775
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712562180724
+  login: 1712561370720
+money: '0'
+last-account-name: Sepdy
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -14.988681892074919
+  y: 178.0
+  z: -11.888701305124505
+  yaw: 145.46234130859375
+  pitch: 21.899961471557617
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -37.724176138343644
+  y: 178.0
+  z: -0.4352450309117516
+  yaw: -48.132266998291016
+  pitch: -15.442590713500977

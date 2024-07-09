@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 117.97.170.167
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712590796571
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712590955375
+  login: 1712590522670
+money: '0'
+last-account-name: Mr_GreenYT
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -37.12832052411881
+  y: 178.0
+  z: -12.351451347162683
+  yaw: -55.503997802734375
+  pitch: -2.579589605331421
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -39.830259330334094
+  y: 178.0
+  z: -8.368500827696488
+  yaw: 68.24713897705078
+  pitch: -1.18059241771698

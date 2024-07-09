@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 182.191.135.13
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712477317543
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712478287959
+  login: 1712476925391
+money: '0'
+last-account-name: hamood96795
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -21.75280300347253
+  y: 178.0
+  z: -9.033854324908333
+  yaw: 20.372854232788086
+  pitch: 48.095394134521484
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.69999998807907
+  y: 178.0
+  z: -10.558964755204617
+  yaw: 91.8029556274414
+  pitch: -5.601524353027344

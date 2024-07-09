@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.43.101.213
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712581459871
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712581529074
+  login: 1712580990770
+money: '0'
+last-account-name: XHausT3R_
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -38.3886649729962
+  y: 178.0
+  z: -2.5326283822183098
+  yaw: 53.5235710144043
+  pitch: -4.624909400939941
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -28.667934438009606
+  y: 178.0
+  z: -8.773630463516206
+  yaw: 91.73059844970703
+  pitch: 4.248984336853027

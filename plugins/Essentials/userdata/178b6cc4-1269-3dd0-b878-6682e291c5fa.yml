@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 202.83.124.8
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712477636542
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712477759303
+  login: 1712477254591
+money: '0'
+last-account-name: FaiyazXD
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -39.72425448836932
+  y: 178.0
+  z: -10.070555790049417
+  yaw: 104.06310272216797
+  pitch: -1.1834990978240967
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -24.629692840765536
+  y: 178.0
+  z: -6.145121613951233
+  yaw: 36.263099670410156
+  pitch: 9.316502571105957

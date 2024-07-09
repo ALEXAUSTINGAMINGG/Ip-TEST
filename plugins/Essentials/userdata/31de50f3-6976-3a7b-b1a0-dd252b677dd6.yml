@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.205.141.253
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712511124376
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712511163329
+  login: 1712509854324
+money: '0'
+last-account-name: dakshath
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.374031275780595
+  y: 178.0
+  z: -4.120047238805332
+  yaw: -11.736898422241211
+  pitch: -10.633499145507812
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -21.68343352602219
+  y: 178.0
+  z: -7.440612518537929
+  yaw: 71.96310424804688
+  pitch: 5.416501998901367

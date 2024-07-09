@@ -1,0 +1,24 @@
+name: default
+permissions:
+- ajleaderboards.dontupdate.*
+- deluxemenus.open
+- duels.duel
+- duels.queue
+- duels.toggle
+- duels.use
+- essentials.msg
+- essentials.spawn
+- essentials.spawn-on-join
+- jumppads.use
+- minecraft.command.msg
+- p1.use
+- permission.one
+- permission.two
+- sternalboard.toggle
+- weight.1
+- weight.70
+parents:
+- default
+prefixes:
+- '&7&lMEMBER &7':
+    priority: 1

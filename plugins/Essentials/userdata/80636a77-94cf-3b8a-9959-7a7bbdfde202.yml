@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 45.114.249.37
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712588720621
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712588810476
+  login: 1712588510520
+money: '0'
+last-account-name: LEGEND_OFFICAL
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -35.60055147910141
+  y: 178.0
+  z: 0.9071084628436847
+  yaw: 129.4486846923828
+  pitch: 3.7511086463928223
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -21.899554514347386
+  y: 178.0
+  z: -6.916452498704325
+  yaw: 132.63198852539062
+  pitch: -0.6565446853637695

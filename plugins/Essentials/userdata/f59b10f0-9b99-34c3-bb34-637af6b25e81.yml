@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 174.55.161.152
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712593861921
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712593891373
+  login: 1712593089470
+money: '0'
+last-account-name: sleepyrainz
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.69999998807907
+  y: 178.0
+  z: -8.181364370148621
+  yaw: 50.52738571166992
+  pitch: -16.219064712524414
+logoutlocation:
+  world: 33a34951-efe1-4473-ab9e-cae292dfe960
+  world-name: world
+  x: 82.10788383258058
+  y: 95.0
+  z: 4036.7752905708503
+  yaw: -32.730010986328125
+  pitch: 14.071759223937988

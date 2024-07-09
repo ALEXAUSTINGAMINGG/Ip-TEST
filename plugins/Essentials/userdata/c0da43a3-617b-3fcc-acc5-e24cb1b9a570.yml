@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.37.116.133
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712574518821
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712574594274
+  login: 1712571344670
+money: '0'
+last-account-name: Miraze_God
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.69999998807907
+  y: 178.0
+  z: -6.986692388123478
+  yaw: 134.9201202392578
+  pitch: -9.249002456665039
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -19.5
+  y: 178.0
+  z: -7.5
+  yaw: 93.03789520263672
+  pitch: 2.6425533294677734

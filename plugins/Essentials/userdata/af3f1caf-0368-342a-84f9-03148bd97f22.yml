@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.14.157.215
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712649623475
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712649694729
+  login: 1712649587224
+money: '0'
+last-account-name: Frost_Emperor
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -33.62286522317424
+  y: 178.0
+  z: -12.950776056172318
+  yaw: -114.02223205566406
+  pitch: -8.297807693481445
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.548216353894034
+  y: 178.0
+  z: -8.64176617456971
+  yaw: 58.687416076660156
+  pitch: -8.297809600830078

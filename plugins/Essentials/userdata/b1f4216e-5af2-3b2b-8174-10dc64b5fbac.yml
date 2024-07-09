@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 36.255.40.44
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712479272044
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712479536758
+  login: 1712478981641
+money: '0'
+last-account-name: Sharpness
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.18260720036544
+  y: 178.0
+  z: -6.345090879734829
+  yaw: 111.41312408447266
+  pitch: -15.900012969970703
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.468274287008335
+  y: 178.0
+  z: -6.667965283358806
+  yaw: 100.46240234375
+  pitch: 68.71651458740234

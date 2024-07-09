@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.106.235.72
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712590495621
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712590889725
+  login: 1712589593320
+money: '0'
+last-account-name: Aaruush221
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.624700110082294
+  y: 178.0
+  z: -4.213756570988251
+  yaw: 114.71367645263672
+  pitch: -2.0834648609161377
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -32.54135543580614
+  y: 180.0
+  z: 6.056646056351216
+  yaw: -58.236968994140625
+  pitch: 41.866493225097656

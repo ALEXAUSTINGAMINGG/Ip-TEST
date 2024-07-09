@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.174.5.164
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712563816271
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712564356675
+  login: 1712564024820
+money: '0'
+last-account-name: Not_Sword_YT
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -39.18048383999553
+  y: 178.0
+  z: -4.028306232692488
+  yaw: 1.233588695526123
+  pitch: -13.669054985046387
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -47.109097120212894
+  y: 178.0
+  z: -14.44519201594448
+  yaw: -33.78132247924805
+  pitch: 10.825016975402832

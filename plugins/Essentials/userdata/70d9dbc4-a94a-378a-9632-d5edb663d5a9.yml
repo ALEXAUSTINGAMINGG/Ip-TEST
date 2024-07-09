@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 111.92.26.30
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716105721087
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716105800389
+  login: 1716104827086
+money: '0'
+last-account-name: XStrike_
+lastlocation:
+  world: 33a34951-efe1-4473-ab9e-cae292dfe960
+  world-name: world
+  x: -1538.5
+  y: 196.0
+  z: 1640.5
+  yaw: 76.71659088134766
+  pitch: -34.40595626831055
+logoutlocation:
+  world: 33a34951-efe1-4473-ab9e-cae292dfe960
+  world-name: world
+  x: -497.50033261622053
+  y: 184.0
+  z: 1586.2387669278373
+  yaw: 33.3560791015625
+  pitch: 3.2335355281829834

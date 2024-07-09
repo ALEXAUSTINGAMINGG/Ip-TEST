@@ -1,0 +1,83 @@
+open_command: profile
+register_command: true
+size: 27
+menu_title: 'LeaderBoards'
+
+items:
+
+  'filler':
+    material: GRAY_STAINED_GLASS_PANE
+    display_name: "&f"
+    data: 1
+    slots: [0-26]
+
+  'kills':
+    material: NETHERITE_SWORD
+    slot: 10
+    display_name: "&#38B2FF&lKills:"
+    lore:
+      - "&8Kills LeaderBoard"
+      - "%ajlb_lb_statistic_player_kills_1_alltime_name%"
+      - "%ajlb_lb_statistic_player_kills_2_alltime_name%"
+      - "%ajlb_lb_statistic_player_kills_3_alltime_name%"
+      - "%ajlb_lb_statistic_player_kills_4_alltime_name%"
+      - "%ajlb_lb_statistic_player_kills_5_alltime_name%"
+      - "%ajlb_lb_statistic_player_kills_6_alltime_name%"
+      - "%ajlb_lb_statistic_player_kills_7_alltime_name%"
+      - "%ajlb_lb_statistic_player_kills_8_alltime_name%"
+      - "%ajlb_lb_statistic_player_kills_9_alltime_name%"
+      - "%ajlb_lb_statistic_player_kills_10_alltime_name%"
+  'deaths':
+    material: RECOVERY_COMPASS
+    slot: 11
+    display_name: "&#3AFFAE&lDeaths:"
+    lore:
+      - "&8Player Deaths LeaderBoard"
+      - "%ajlb_lb_statistic_deaths_1_alltime_name%"
+      - "%ajlb_lb_statistic_deaths_2_alltime_name%"
+      - "%ajlb_lb_statistic_deaths_3_alltime_name%"
+      - "%ajlb_lb_statistic_deaths_4_alltime_name%"
+      - "%ajlb_lb_statistic_deaths_5_alltime_name%"
+      - "%ajlb_lb_statistic_deaths_6_alltime_name%"
+      - "%ajlb_lb_statistic_deaths_7_alltime_name%"
+      - "%ajlb_lb_statistic_deaths_8_alltime_name%"
+      - "%ajlb_lb_statistic_deaths_9_alltime_name%"
+      - "%ajlb_lb_statistic_deaths_10_alltime_name%"
+  'hearts':
+    material: APPLE
+    slot: 13
+    display_name: "&#FF3F3F&lGlobal Elo Rating:"
+    lore:
+      - "&8Player Stats"
+      - ""
+      - "&8&l| &#FF8C8CCurrent Rating: &f%strikepractice_global_elo%"
+      - ""
+
+  'votes':
+    material: AMETHYST_SHARD
+    slot: 15
+    display_name: "&#FF43E7&lStats:"
+    lore:
+      - "&8Player Stats"
+      - "&8&l| &#FF91F1Click To Execute"
+      - ""
+    left_click_commands:
+      - '[player] stats'
+      - '[sound] ENTITY_EXPERIENCE_ORB_PICKUP'
+      - '[close]'
+  'playtime':
+    material: CLOCK
+    slot: 16
+    display_name: "&#F4FF49&lPlaytime:"
+    lore:
+      - "&8PlayTime LeaderBoard"
+      - "%ajlb_lb_statistic_hours_played_1_alltime_name%"
+      - "%ajlb_lb_statistic_hours_played_2_alltime_name%"
+      - "%ajlb_lb_statistic_hours_played_3_alltime_name%"
+      - "%ajlb_lb_statistic_hours_played_4_alltime_name%"
+      - "%ajlb_lb_statistic_hours_played_5_alltime_name%"
+      - "%ajlb_lb_statistic_hours_played_6_alltime_name%"
+      - "%ajlb_lb_statistic_hours_played_7_alltime_name%"
+      - "%ajlb_lb_statistic_hours_played_8_alltime_name%"
+      - "%ajlb_lb_statistic_hours_played_9_alltime_name%"
+      - "%ajlb_lb_statistic_hours_played_10_alltime_name%"

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 45.120.124.58
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712505987826
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712506066928
+  login: 1712505263374
+money: '0'
+last-account-name: Sam_Gaming_OP27
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.930898207753735
+  y: 178.0
+  z: -7.857622814237917
+  yaw: 72.3724594116211
+  pitch: 2.0475292205810547
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -38.09431240704392
+  y: 178.0
+  z: -3.1239204505368883
+  yaw: 46.69465255737305
+  pitch: -3.0395760536193848

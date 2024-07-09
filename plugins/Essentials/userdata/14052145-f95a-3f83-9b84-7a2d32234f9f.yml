@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 45.125.62.253
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712520381473
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712521808995
+  login: 1712521794341
+money: '0'
+last-account-name: Yug_playz
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -19.5
+  y: 178.0
+  z: -7.5
+  yaw: 92.96310424804688
+  pitch: 3.0165014266967773
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -37.52346621853127
+  y: 178.0
+  z: -2.2226630152380333
+  yaw: -19.98692512512207
+  pitch: -3.1334962844848633

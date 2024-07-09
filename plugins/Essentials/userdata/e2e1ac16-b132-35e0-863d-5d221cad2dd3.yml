@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 58.65.221.164
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712587238871
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712587831877
+  login: 1712582743220
+money: '0'
+last-account-name: DeadlyX_boy2
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -31.0471217952689
+  y: 178.0
+  z: 1.6074785651614312
+  yaw: 85.83025360107422
+  pitch: 10.998443603515625
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.438822370662734
+  y: 178.0
+  z: -4.699316773114949
+  yaw: 72.24402618408203
+  pitch: -15.494836807250977

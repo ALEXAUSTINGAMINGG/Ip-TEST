@@ -1,0 +1,513 @@
+username: DonOP321
+scoreboard-disabled: false
+duel-requests-disabled: false
+hide-other-players: false
+stats:
+  brackets: 0
+  kills: 49
+  deaths: 12
+  lms: 0
+  party_vs_party_wins: 0
+  global_elo: 1000
+  sumo_wins: 0
+  juggernaut: 0
+limits-updated: 1712581754585
+rankeds-left: 20
+unrankeds-left: 0
+premium-matches: 0
+cooldowns: []
+custom-kit:
+  ==: BattleKit
+  types: ANY
+  pearl-cooldown: 0
+  best-of: 1
+  no-bestof-rollback: false
+  icon:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: DIAMOND_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"CUSTOM
+        KIT"}],"text":""}'
+      ItemFlags:
+      - HIDE_ENCHANTS
+      - HIDE_ATTRIBUTES
+      - HIDE_UNBREAKABLE
+      - HIDE_DESTROYS
+      - HIDE_PLACED_ON
+      - HIDE_POTION_EFFECTS
+      - HIDE_DYE
+      - HIDE_ARMOR_TRIM
+  no-damage: false
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  no-death-countdown: false
+  chestplate:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEATHER_CHESTPLATE
+  helmet:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEATHER_HELMET
+  name: §aCUSTOM KIT
+  boots:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEATHER_BOOTS
+  boxing: false
+  block-disappear: 0
+  leggings:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEATHER_LEGGINGS
+kits:
+- ==: BattleKit
+  pearl-cooldown: 0
+  best-of: 1
+  no-bestof-rollback: false
+  no-damage: false
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: DIAMOND_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DAMAGE_ALL: 3
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: DIAMOND_AXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DAMAGE_ALL: 2
+        DURABILITY: 3
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: DIAMOND_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 3
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: DIAMOND_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 3
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: DIAMOND_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 3
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: DIAMOND_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 3
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: GOLDEN_APPLE
+    amount: 8
+  no-death-countdown: false
+  chestplate:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: DIAMOND_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 3
+        DURABILITY: 3
+  helmet:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: DIAMOND_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 3
+        DURABILITY: 3
+  name: opduels
+  boots:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: DIAMOND_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 3
+        DURABILITY: 3
+  boxing: false
+  block-disappear: 0
+  leggings:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: DIAMOND_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 3
+        DURABILITY: 3
+- ==: BattleKit
+  types: ANY
+  pearl-cooldown: 0
+  best-of: 1
+  no-bestof-rollback: false
+  icon:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: GOLDEN_APPLE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"Opduels
+        "},{"bold":false,"italic":false,"text":"# "},{"italic":false,"color":"green","text":"1"}],"text":""}'
+      ItemFlags:
+      - HIDE_ENCHANTS
+      - HIDE_ATTRIBUTES
+      - HIDE_UNBREAKABLE
+      - HIDE_DESTROYS
+      - HIDE_PLACED_ON
+      - HIDE_POTION_EFFECTS
+      - HIDE_DYE
+      - HIDE_ARMOR_TRIM
+  no-damage: false
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: DIAMOND_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DAMAGE_ALL: 3
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: DIAMOND_AXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DAMAGE_ALL: 2
+        DURABILITY: 3
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: DIAMOND_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 3
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: DIAMOND_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 3
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: DIAMOND_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 3
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: DIAMOND_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 3
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: GOLDEN_APPLE
+    amount: 8
+  no-death-countdown: false
+  chestplate:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: DIAMOND_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 3
+        DURABILITY: 3
+  helmet:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: DIAMOND_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 3
+        DURABILITY: 3
+  name: opduels-1
+  boots:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: DIAMOND_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 3
+        DURABILITY: 3
+  boxing: false
+  block-disappear: 0
+  leggings:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: DIAMOND_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 3
+        DURABILITY: 3
+language: english

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 223.178.213.83
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716104845987
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716104889589
+  login: 1716104304636
+money: '0'
+last-account-name: Drade69430
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.97640499256695
+  y: 179.0
+  z: -4.052519804338783
+  yaw: 128.39979553222656
+  pitch: 31.63836097717285
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -25.319612401702283
+  y: 178.0
+  z: -4.725157378280182
+  yaw: 74.27124786376953
+  pitch: 10.415349960327148

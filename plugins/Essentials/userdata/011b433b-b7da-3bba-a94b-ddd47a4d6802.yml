@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 223.123.108.237
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712637634214
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712638417966
+  login: 1712633815213
+money: '0'
+last-account-name: GamerFratop
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -39.879293852036255
+  y: 178.0
+  z: -4.599709192274983
+  yaw: 82.39349365234375
+  pitch: -1.2677886486053467
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -23.721717272046593
+  y: 178.0
+  z: -7.710559930866484
+  yaw: 92.96310424804688
+  pitch: 3.0165014266967773

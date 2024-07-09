@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 38.255.140.67
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712639653664
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712639757267
+  login: 1712638939313
+money: '0'
+last-account-name: shneaws
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.62028334963375
+  y: 178.0
+  z: -4.2538782990076225
+  yaw: 126.11341094970703
+  pitch: 3.4665098190307617
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -21.43131325273829
+  y: 178.0000001
+  z: -2.169013502353117
+  yaw: 11.063108444213867
+  pitch: -0.2834993004798889

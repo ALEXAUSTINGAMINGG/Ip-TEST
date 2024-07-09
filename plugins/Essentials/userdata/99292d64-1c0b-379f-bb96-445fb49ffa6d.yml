@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 223.231.157.109
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712645437664
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712645961769
+  login: 1712645389363
+money: '0'
+last-account-name: NotRowdy
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -39.192465505793855
+  y: 178.0
+  z: -5.1833938340887995
+  yaw: 75.86309814453125
+  pitch: -7.633500099182129
+logoutlocation:
+  world: fd2a2c6a-eda5-4f74-8350-27f0fde897c2
+  world-name: duels
+  x: 205.5534413595143
+  y: 128.0
+  z: 135.6531311235552
+  yaw: -89.68379211425781
+  pitch: 24.14999771118164

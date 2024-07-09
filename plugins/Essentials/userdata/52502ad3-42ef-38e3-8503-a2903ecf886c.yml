@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 182.181.192.98
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712627246464
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712627258265
+  login: 1712627232263
+money: '0'
+last-account-name: zaidrnminikadost
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.252097702767436
+  y: 178.0
+  z: -7.591334739603994
+  yaw: 88.023681640625
+  pitch: -0.5551047921180725
+logoutlocation:
+  world: 33a34951-efe1-4473-ab9e-cae292dfe960
+  world-name: world
+  x: -188.71713813740385
+  y: 189.0
+  z: 483.9301974447084
+  yaw: -85.76553344726562
+  pitch: 11.57671070098877

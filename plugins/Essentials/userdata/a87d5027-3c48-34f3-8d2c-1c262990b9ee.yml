@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 182.182.35.232
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712616544814
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712616615465
+  login: 1712616185013
+money: '0'
+last-account-name: abuzaif
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -19.5
+  y: 178.0000001
+  z: -7.5
+  yaw: 95.57060241699219
+  pitch: -2.435558319091797
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.01774856565822
+  y: 178.0
+  z: -6.128205947323776
+  yaw: 24.1287841796875
+  pitch: -9.072843551635742

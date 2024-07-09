@@ -1,0 +1,74 @@
+# Welcome to the Kit Editor GUI config of Xyris Kits.
+
+# Make sure to read the instructions below to learn how to edit names, item-slots, inventory size, lore, item use hex and gradients!
+# If you have any questions, check the comments first, and then feel free to join our Discord and ask: https://xyris.fun/devs!
+
+# Happy configuring!
+
+# Made by Darkxx (Xyris Plugins) with ❤️
+
+# Support for Hex & Gradient colors.
+# Hex Example:
+# - "<SOLID:FF0080>Click To Save The Kit!"
+# Gradient Example:
+# - "<GRADIENT:2C08BA>this is a gradient</GRADIENT:028A97>"
+
+# You can also add custom items to the GUI. Here is an example:
+#   save:
+#    id: 4
+#    material: "DIAMOND_SWORD"
+#    displayName: "&bTest Item"
+#    slot: 4
+#   lore:
+#     - "&7My Lore"
+#      - " "
+#      - "&bThis is an example."
+
+# Use ID '1' for a custom item that saves the kit on click, ID '2' to reset the kit on click, and ID '3' to exit the editor on click.
+
+title: "Kit Editor"
+size: 27
+
+InventoryClose:
+  action:
+    type: "save" # do not edit this if you don't know what it is.
+
+fillEmptySlots:
+  enabled: true
+  item: "BLACK_STAINED_GLASS_PANE" # Use capital letters here, Small letters are not supported.
+
+# this feature is developed for xyris, set it to 'dont-give' if this is not Xyris (as.xyris.fun)
+spawnItems:
+  click: "dont-give"
+  close: "dont-give"
+
+items:
+  save:
+    id: 1 # do not edit this!
+    material: "GREEN_CANDLE"
+    displayName: "<GRADIENT:04ff00>Save Kit</GRADIENT:00ff5e>"
+    slot: 11
+    lore:
+      - "&7Save the new kit layout."
+      - " "
+      - "&7Click to <GRADIENT:04ff00>Save</GRADIENT:00ff5e>&7 the Kit!"
+
+  reset:
+    id: 2 # do not edit this!
+    material: "ORANGE_CANDLE"
+    displayName: "<GRADIENT:FB9D00>Reset Kit</GRADIENT:FD6A23>"
+    slot: 13
+    lore:
+      - "&7Revert all changes."
+      - "&7 "
+      - "&7Click to <GRADIENT:FB9D00>Reset</GRADIENT:FD6A23>&7 the Kit!"
+
+  leave:
+    id: 3 # do not edit this!
+    material: "RED_CANDLE"
+    displayName: "<GRADIENT:ff0000>Leave Editor</GRADIENT:ff5100>"
+    slot: 15
+    lore:
+      - "&7Leave the kit editor."
+      - "&7 "
+      - "&7Click to <GRADIENT:ff0000>Leave</GRADIENT:ff5100>&7 Editor!"

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.220.81.212
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712571144020
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712649009428
+  login: 1712648783124
+money: '0'
+last-account-name: shantanu15
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -39.81398705147838
+  y: 178.0
+  z: -10.392575266837072
+  yaw: 95.51310729980469
+  pitch: -7.183502197265625
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -29.231934127649897
+  y: 178.0
+  z: -15.770235846956169
+  yaw: -21.337005615234375
+  pitch: 14.116533279418945

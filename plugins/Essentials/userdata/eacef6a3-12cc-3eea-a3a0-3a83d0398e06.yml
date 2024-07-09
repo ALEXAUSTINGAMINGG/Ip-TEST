@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 175.157.26.54
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716105192087
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716105226538
+  login: 1716104595036
+money: '0'
+last-account-name: themcguy67
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.69999998807907
+  y: 178.0
+  z: -4.6652612776897
+  yaw: 94.9597396850586
+  pitch: 1.3526318073272705
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -26.868578365592104
+  y: 178.0
+  z: -7.577769418514878
+  yaw: 92.29756164550781
+  pitch: 2.3509535789489746

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.36.34.178
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712597536520
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712597565273
+  login: 1712595481970
+money: '0'
+last-account-name: SulfurXD
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -35.69999998807907
+  y: 178.0
+  z: 0.0380479992434532
+  yaw: 69.71312713623047
+  pitch: -13.033501625061035
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -21.99991275215696
+  y: 178.0
+  z: -7.112816325669481
+  yaw: 70.31309509277344
+  pitch: 10.81650161743164

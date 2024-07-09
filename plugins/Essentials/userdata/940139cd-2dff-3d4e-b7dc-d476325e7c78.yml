@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.125.128.170
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712565749070
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712565872424
+  login: 1712565696870
+money: '0'
+last-account-name: Aryan_PlayzOG
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.52036065503633
+  y: 178.0
+  z: -7.514454862670249
+  yaw: 88.01300811767578
+  pitch: 2.7164928913116455
+logoutlocation:
+  world: 33a34951-efe1-4473-ab9e-cae292dfe960
+  world-name: world
+  x: -1335.3829434339125
+  y: 207.0
+  z: 4392.929082694149
+  yaw: 24.87615966796875
+  pitch: 2.648775100708008

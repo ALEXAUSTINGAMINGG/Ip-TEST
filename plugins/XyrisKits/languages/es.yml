@@ -1,0 +1,90 @@
+# Copy the code in this file and paste it in the "messages.yml" file.
+
+# a3f06efb-3cf4-43e5-b6cb-01c16e2c38cb
+
+# Bienvenido a la configuración de mensajes de Xyris Kits.
+
+# Asegúrate de leer las instrucciones a continuación para aprender cómo editar mensajes, usar hexadecimal, degradados o desactivarlos.
+# Si tienes alguna pregunta, consulta los comentarios primero, y luego siéntete libre de unirte a nuestro Discord y preguntar: https://xyris.fun/devs!
+
+# ¡Configuración feliz!
+
+# Hecho por Darkxx (Xyris Plugins) con ❤️
+
+
+# Se pueden agregar mensajes adicionales, por ejemplo:
+# - "&eUsa el comando &f/kiteditor save &7para guardar el kit."
+# - "&eUsa el comando &f/kiteditor leave &7para salir del editor de kits."
+# - ""
+# - "&c¡Mis nuevos mensajes!"
+
+# Soporte para colores Hex y degradados.
+# Ejemplo de Hex:
+# - "<SOLID:FF0080>Abre tu inventario y &freorganiza&7 los elementos."
+# Ejemplo de degradado:
+# - "<GRADIENT:2C08BA>Usa el comando /kiteditor save para guardar el kit.</GRADIENT:028A97>"
+
+# Usa "NONE" para desactivar el mensaje.
+
+editing-kit:
+  start:
+    - ""
+    - "&f&lAhora estás editando un kit"
+    - ""
+    - "&7Abre tu inventario y &freorganiza&7 los elementos."
+    - ""
+    - "&7Usa el comando &f/kiteditor save &7para guardar el kit."
+    - "&7Usa el comando &f/kiteditor reset &7para restablecer el kit."
+    - "&7Usa el comando &f/kiteditor leave &7para salir del editor de kits."
+    - ""
+
+# Usa "NONE" para desactivar el mensaje.
+
+KitGiveSender: "&aSe ha dado exitosamente el kit <GRADIENT:00ff1e>%kit%</GRADIENT:00ff62> a <GRADIENT:00ff1e>%player%</GRADIENT:00ff62>"
+KitGiveReceiver: "&aHas recibido el kit <GRADIENT:00ff1e>%kit%</GRADIENT:00ff62> de <GRADIENT:00ff1e>%sender%</GRADIENT:00ff62>"
+
+# Mensaje para el enfriamiento de /kits.claim.
+
+CooldownRemainingMessage: "&cTodavía tienes un tiempo de enfriamiento para este kit, tiempo restante %time%"
+
+# Mensajes para ActionBar durante la edición de kits
+# Necesitas reiniciar el servidor para aplicar los cambios (solo para KitEditActionBarMessages)
+KitEditActionBarMessages:
+  - "&aXyris Kits"
+  - "<GRADIENT:00ff1e>¡Mi mensaje de degradado!</GRADIENT:00ff62>"
+  - "<SOLID:FF0080>¡Mi mensaje!"
+# Agrega más mensajes según sea necesario...
+
+
+# Puedes usar "NONE" para desactivar un título/subtítulo/mensaje
+# Ejemplo:
+# KitSaveTitle: "<GRADIENT:04ff00>Kit Guardado</GRADIENT:00ff5e>"
+# KitSaveSubtitle: "NONE"
+# KitSaveMessage: "NONE"
+
+# Esto solo enviará el título, no enviará el mensaje y el subtítulo al jugador.
+
+KitSaveTitle: "<GRADIENT:04ff00>Kit Guardado</GRADIENT:00ff5e>"
+KitSaveSubtitle: "&fXyris Kits"
+KitSaveMessage: "&aTu diseño de kit personalizado ha sido guardado."
+
+KitEditorLeaveTitle: "<GRADIENT:ff0000>Editor de Kit Abandonado</GRADIENT:ff5100>"
+KitEditorLeaveSubtitle: "&fXyris Kits"
+KitEditorLeaveMessage: "&cHas abandonado el editor de kit."
+
+ResetKitTitle: "<GRADIENT:FB9D00>Kit Restablecido</GRADIENT:FD6A23>"
+ResetKitSubtitle: "&fXyris Kits"
+ResetKitMessage: "&aTu kit ha sido reemplazado por el kit predeterminado."
+
+KitNotFoundTitle: "<SOLID:FF1414>¡Ups!"
+KitNotFoundSubtitle: "&fKit Predeterminado No Encontrado"
+KitNotFoundMessage: "&c¡Kit no encontrado!"
+
+NotEditingModeTitle: "<SOLID:FF1414>¡Ups!"
+NotEditingModeSubtitle: "&fNo estás en modo de edición de kit"
+NotEditingModeMessage: "&cNo estás en el editor de kits."
+
+EnderPearlDeniedTitle: "<SOLID:FF1414>¡Ups!"
+EnderPearlDeniedSubtitle: "&fNo puedes usar una perla de Ender aquí."
+
+# Oh, estás aquí. ¿Has terminado de configurar? Simplemente guarda el archivo y ejecuta el comando /kits.reload en el juego. Esto actualizará todos los mensajes.

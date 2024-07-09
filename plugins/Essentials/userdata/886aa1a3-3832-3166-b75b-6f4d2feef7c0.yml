@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 39.63.79.21
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712607758814
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712607902431
+  login: 1712607681113
+money: '0'
+last-account-name: rtvFaizan2
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -39.506373092163514
+  y: 179.0
+  z: -1.627169688431844
+  yaw: 37.42816162109375
+  pitch: 19.497194290161133
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -38.28188703060807
+  y: 178.0
+  z: -6.916616484280099
+  yaw: 115.3367919921875
+  pitch: 14.003632545471191

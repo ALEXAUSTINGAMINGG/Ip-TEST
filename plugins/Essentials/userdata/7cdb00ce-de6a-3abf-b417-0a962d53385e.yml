@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.36.192.138
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712588077071
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712588294875
+  login: 1712588041120
+money: '0'
+last-account-name: xIconic_
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -39.97560711013281
+  y: 178.0
+  z: -3.2203480478510107
+  yaw: -18.083221435546875
+  pitch: 1.1257712841033936
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -43.727082584574994
+  y: 178.0
+  z: -17.508828708215706
+  yaw: -36.4862060546875
+  pitch: 32.764190673828125

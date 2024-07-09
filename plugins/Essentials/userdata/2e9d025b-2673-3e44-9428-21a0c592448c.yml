@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.69.25.76
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716112705392
+  login: 1716112713486
+money: '0'
+last-account-name: Kylaz69
+logoutlocation:
+  world: fd2a2c6a-eda5-4f74-8350-27f0fde897c2
+  world-name: duels
+  x: -11.63115509184041
+  y: 96.16610926093821
+  z: 72.77192308071197
+  yaw: -120.65789794921875
+  pitch: 12.937955856323242

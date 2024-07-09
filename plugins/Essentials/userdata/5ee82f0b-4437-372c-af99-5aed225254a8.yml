@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 42.108.113.16
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716098847236
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716109502489
+  login: 1716105718886
+money: '0'
+last-account-name: Smart_Bertsa
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -18.97880713532902
+  y: 178.0
+  z: -6.797364992101607
+  yaw: 123.16207885742188
+  pitch: -8.492640495300293
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -37.14069523246563
+  y: 178.0
+  z: -2.366371390509368
+  yaw: -14.9747314453125
+  pitch: 4.5427775382995605

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 116.204.151.85
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712584328421
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712585373977
+  login: 1712584050570
+money: '0'
+last-account-name: Gloster3843
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -38.69999998807907
+  y: 178.0
+  z: -2.1507717306236205
+  yaw: 32.920658111572266
+  pitch: 1.3092124462127686
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.10565815672197
+  y: 178.0
+  z: -11.980981033069618
+  yaw: -156.6841278076172
+  pitch: -8.309026718139648

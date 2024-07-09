@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.43.24.15
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712573137071
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712573176876
+  login: 1712573085520
+money: '0'
+last-account-name: Harshsoshit
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -39.64108627913892
+  y: 178.0
+  z: -4.690606513347976
+  yaw: 80.23551177978516
+  pitch: -1.2957841157913208
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -32.707799416042626
+  y: 179.0
+  z: -19.7138887063869
+  yaw: 48.08155059814453
+  pitch: 20.307506561279297

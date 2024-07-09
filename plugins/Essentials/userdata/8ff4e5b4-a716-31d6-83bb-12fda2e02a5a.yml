@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.87.30.126
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712589129271
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712589177278
+  login: 1712589088970
+money: '0'
+last-account-name: BetterZenXoo
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.13981051551372
+  y: 178.0
+  z: -6.490478228047878
+  yaw: 127.98389434814453
+  pitch: -7.4282989501953125
+logoutlocation:
+  world: 33a34951-efe1-4473-ab9e-cae292dfe960
+  world-name: world
+  x: -2292.355766234111
+  y: 210.0
+  z: 2365.852901780659
+  yaw: 160.6975555419922
+  pitch: 22.530841827392578

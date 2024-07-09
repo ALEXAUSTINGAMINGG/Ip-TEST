@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.137.71.106
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712652467626
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712652720929
+  login: 1712651717074
+money: '0'
+last-account-name: Sigma_Man
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -38.476941900845986
+  y: 178.0
+  z: -3.7196787243117644
+  yaw: 29.60929298400879
+  pitch: -2.3876962661743164
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -18.192051973705237
+  y: 178.0
+  z: -7.480932163566549
+  yaw: 73.8119125366211
+  pitch: -13.398815155029297

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.124.15.25
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712552701742
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712552774445
+  login: 1712552486691
+money: '0'
+last-account-name: VernexTTV_Deadly
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -20.168558790545433
+  y: 178.0
+  z: -7.501316117961017
+  yaw: 94.24024963378906
+  pitch: 2.225862979888916
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -39.25674605872874
+  y: 178.0
+  z: -3.603846558526338
+  yaw: 113.39805603027344
+  pitch: -6.471157550811768

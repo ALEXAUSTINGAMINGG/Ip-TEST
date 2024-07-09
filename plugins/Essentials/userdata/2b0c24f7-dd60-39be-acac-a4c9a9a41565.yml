@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 122.161.240.73
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716098834037
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716099058340
+  login: 1716097961886
+money: '0'
+last-account-name: FIGHTER559922
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -23.90113227500907
+  y: 178.41999998688698
+  z: -7.715800037801704
+  yaw: 93.11317443847656
+  pitch: -5.083500862121582
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.18437857480955
+  y: 178.0
+  z: -5.972345299905481
+  yaw: 130.46463012695312
+  pitch: -3.2835803031921387

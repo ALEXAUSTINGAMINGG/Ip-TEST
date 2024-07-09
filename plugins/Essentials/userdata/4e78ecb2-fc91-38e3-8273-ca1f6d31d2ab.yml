@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 182.69.62.84
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712512692475
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712512727827
+  login: 1712512048524
+money: '0'
+last-account-name: DozenFish546221
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -42.13857312593527
+  y: 178.0
+  z: -3.0985584791783554
+  yaw: -104.28689575195312
+  pitch: 49.49995803833008
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -17.589192420428624
+  y: 178.0
+  z: -5.2020816370478125
+  yaw: -52.98779296875
+  pitch: 27.166471481323242

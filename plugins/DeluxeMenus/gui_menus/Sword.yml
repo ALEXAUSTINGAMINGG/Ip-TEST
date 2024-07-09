@@ -1,0 +1,57 @@
+#  A DeluxeMenus advanced configuration guide
+#=========================================================
+menu_title: 'Sword'
+open_command:
+  - Sword
+size: 27
+# as always, only cool people can open this menu :)
+items:
+  'TridentKit':
+    material: ELYTRA
+    slot: 11
+    priority: 1
+    update: true
+    hide_attributes: true
+    display_name: '&c&lELYTRA KIT'
+    lore:
+      - ''
+      - '&7Click To Join Sword Arena'
+      - ''
+    left_click_commands:
+      - '[console] eclear %player_name% **'
+      - '[console] playerkits:kit give ElytraSword %player_name%'
+      - '[console] heal %player_name%'
+      - '[console] ewarp Sword %player_name%'
+  'SpeedKit':
+    material: IRON_LEGGINGS
+    slot: 15
+    priority: 1
+    update: true
+    hide_attributes: true
+    display_name: '&f&lSPEED KIT'
+    lore:
+      - ''
+      - '&7Click To Join Sword Arena'
+      - ''
+    left_click_commands:
+      - '[console] eclear %player_name% **'
+      - '[console] playerkits:kit give Speed %player_name%'
+      - '[console] heal %player_name%'
+      - '[console] ewarp Sword %player_name%'
+      - '[console] effect give %player_name% minecraft:speed infinite 1'
+  'BeastKit':
+    material: DIAMOND_CHESTPLATE
+    slot: 13
+    priority: 1
+    update: true
+    hide_attributes: true
+    display_name: '&b&lBEAST KIT'
+    lore:
+      - ''
+      - '&7Click To Join Sword Arena'
+      - ''
+    left_click_commands:
+      - '[console] eclear %player_name% **'
+      - '[console] playerkits:kit give Beast %player_name%'
+      - '[console] heal %player_name%'
+      - '[console] ewarp Sword %player_name%'

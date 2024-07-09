@@ -1,0 +1,91 @@
+# Copy the code in this file and paste it in the "messages.yml" file.
+
+# a3f06efb-3cf4-43e5-b6cb-01c16e2c38cb
+
+# 欢迎来到Xyris Kits消息配置。
+
+# 请确保阅读下面的说明，了解如何编辑消息，使用十六进制、渐变或禁用它们！
+# 如果您有任何问题，请首先查看评论，然后随时加入我们的Discord提问：https://xyris.fun/devs！
+
+# 愉快的配置！
+
+# 由Darkxx（Xyris Plugins）制作，带有❤️
+
+
+# 还可以添加其他消息，例如：
+# - "&e使用命令 &f/kiteditor save &7保存套件。"
+# - "&e使用命令 &f/kiteditor leave &7退出套件编辑器。"
+# - ""
+# - "&c我的新消息！"
+
+# 支持十六进制和渐变颜色。
+# 十六进制示例：
+# - "<SOLID:FF0080>打开您的库存并 &frearrange&7 物品。"
+# 渐变示例：
+# - "<GRADIENT:2C08BA>使用命令 /kiteditor save 保存套件。</GRADIENT:028A97>"
+
+# 使用 "NONE" 禁用消息。
+
+editing-kit:
+  start:
+    - ""
+    - "&f&l您现在正在编辑一个套件"
+    - ""
+    - "&7打开您的库存并 &frearrange&7 物品。"
+    - ""
+    - "&7使用命令 &f/kiteditor save &7保存套件。"
+    - "&7使用命令 &f/kiteditor reset &7重置套件。"
+    - "&7使用命令 &f/kiteditor leave &7退出套件编辑器。"
+    - ""
+
+# 使用 "NONE" 禁用消息。
+
+KitGiveSender: "&a成功将套件 <GRADIENT:00ff1e>%kit%</GRADIENT:00ff62> 给予 <GRADIENT:00ff1e>%player%</GRADIENT:00ff62>"
+KitGiveReceiver: "&a您已收到来自 <GRADIENT:00ff1e>%sender%</GRADIENT:00ff62> 的套件 <GRADIENT:00ff1e>%kit%</GRADIENT:00ff62>"
+
+# /kits.claim 冷却的消息！
+
+CooldownRemainingMessage: "&c您仍然对此套件有冷却时间，剩余时间 %time%"
+
+# 套件编辑期间ActionBar的消息
+# 您需要重新启动服务器以应用更改（仅适用于KitEditActionBarMessages）
+KitEditActionBarMessages:
+  - "&aXyris Kits"
+  - "<GRADIENT:00ff1e>我的渐变消息！</GRADIENT:00ff62>"
+  - "<SOLID:FF0080>我的消息！"
+# 根据需要添加更多消息...
+
+
+# 您可以使用 "NONE" 禁用标题/副标题/消息
+# 例如：
+# KitSaveTitle: "<GRADIENT:04ff00>套件已保存</GRADIENT:00ff5e>"
+# KitSaveSubtitle: "NONE"
+# KitSaveMessage: "NONE"
+
+# 这将仅向玩家发送标题，不会发送消息和副标题！
+
+KitSaveTitle: "<GRADIENT:04ff00>套件已保存</GRADIENT:00ff5e>"
+KitSaveSubtitle: "&fXyris Kits"
+KitSaveMessage: "&a您的自定义套件布局已保存！"
+
+KitEditorLeaveTitle: "<GRADIENT:ff0000>退出套件编辑器</GRADIENT:ff5100>"
+KitEditorLeaveSubtitle: "&fXyris Kits"
+KitEditorLeaveMessage: "&c您已退出套件编辑器！"
+
+ResetKitTitle: "<GRADIENT:FB9D00>套件已重置</GRADIENT:FD6A23>"
+ResetKitSubtitle: "&fXyris Kits"
+ResetKitMessage: "&a您的套件已替换为默认套件！"
+
+KitNotFoundTitle: "<SOLID:FF1414>糟糕！"
+KitNotFoundSubtitle: "&f未找到默认套件"
+KitNotFoundMessage: "&c找不到套件！"
+
+
+NotEditingModeTitle: "<SOLID:FF1414>糟糕！"
+NotEditingModeSubtitle: "&f您不在套件编辑模式中"
+NotEditingModeMessage: "&c您不在套件编辑器中！"
+
+EnderPearlDeniedTitle: "<SOLID:FF1414>糟糕！"
+EnderPearlDeniedSubtitle: "&f您不能在这里使用末影珍珠"
+
+# 噢，您在这里。您完成配置了吗？只需保存文件并在游戏中执行命令 /kits.reload。这将更新所有消息。

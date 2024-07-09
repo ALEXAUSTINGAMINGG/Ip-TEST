@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 175.107.215.91
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716107164037
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716107613489
+  login: 1716106605086
+money: '0'
+last-account-name: Mrcreepy
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -37.3040319074809
+  y: 178.0
+  z: -2.1513786357810236
+  yaw: 70.2369155883789
+  pitch: -12.85580062866211
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -25.959551053637064
+  y: 178.0
+  z: -5.792694750410254
+  yaw: 83.04286193847656
+  pitch: 28.808990478515625

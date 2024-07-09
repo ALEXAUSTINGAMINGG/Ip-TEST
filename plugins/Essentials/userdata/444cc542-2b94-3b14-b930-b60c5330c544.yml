@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.43.96.205
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716041773286
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716041822340
+  login: 1716041665536
+money: '0'
+last-account-name: yoman134567
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -22.560516977145454
+  y: 178.0000001
+  z: -16.809849000456325
+  yaw: 72.09230041503906
+  pitch: 90.0
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -34.716771881407034
+  y: 178.0
+  z: 1.0913318848248081
+  yaw: 112.07017517089844
+  pitch: -17.039297103881836

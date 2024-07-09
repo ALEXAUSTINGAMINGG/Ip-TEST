@@ -1,0 +1,23 @@
+on join:
+	execute console command "/spawnitems %player%"
+	execute console command "/spawnitems give %player%"
+on leave:
+	execute console command "/spawnitems %player%"
+	execute console command "/spawnitems give %player%"
+on death:
+	execute console command "/spawnitems %victim%"
+	execute console command "/spawnitems give %victim%"
+command /discord:
+	aliases: /server, /community, /dc
+	trigger:
+		send "&7Join the &bDiscord <tooltip:&bClick to open the &bDiscord><link:https://discord.gg/zdFxpeV5j9>&bhere." to player
+on command "/spawn":
+	if player is in world "duels":
+		cancel event
+		send message "&cYou Cant Teleport in Duel" to player
+on right click on player:
+	send actionbar "&7Their Ping :&a %ping of target%"
+on death:
+	if attacker is not a player:
+		if victim is a player:
+			execute console command "/spawnitems %victim%"

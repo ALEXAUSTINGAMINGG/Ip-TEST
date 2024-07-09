@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 43.226.31.10
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716049717637
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716050815138
+  login: 1716049686686
+money: '0'
+last-account-name: SkyWalkerGriseo
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -37.93210980118364
+  y: 178.0
+  z: -3.5270363556530313
+  yaw: 38.34858322143555
+  pitch: -6.307934284210205
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -23.04019710195694
+  y: 178.0
+  z: -8.70892888060676
+  yaw: 116.37931823730469
+  pitch: -28.392120361328125

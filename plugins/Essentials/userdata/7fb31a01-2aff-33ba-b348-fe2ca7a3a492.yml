@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 182.186.249.232
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712479830795
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712480049854
+  login: 1712479589791
+money: '0'
+last-account-name: Mr_cyco
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.81390034643648
+  y: 179.0
+  z: -6.958235700859605
+  yaw: 70.4117431640625
+  pitch: 4.8240556716918945
+logoutlocation:
+  world: 33a34951-efe1-4473-ab9e-cae292dfe960
+  world-name: world
+  x: 1575.9197139606852
+  y: 147.0
+  z: 2667.928125247793
+  yaw: -30.840484619140625
+  pitch: 7.368917465209961

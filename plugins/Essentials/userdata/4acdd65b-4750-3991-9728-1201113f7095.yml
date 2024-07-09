@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 122.168.56.44
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712583815771
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712583890226
+  login: 1712583706970
+money: '0'
+last-account-name: Itz_ManicHunter
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.667996965837716
+  y: 178.0
+  z: -6.120034221017946
+  yaw: 31.50714874267578
+  pitch: -10.292101860046387
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -20.32793471695251
+  y: 178.0
+  z: -8.865311402301726
+  yaw: 92.96310424804688
+  pitch: 3.0165014266967773

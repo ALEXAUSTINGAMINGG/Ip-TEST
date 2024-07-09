@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 106.202.215.238
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712478881894
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712479085222
+  login: 1712478401391
+money: '0'
+last-account-name: AnchorPlayzXD
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -39.331575512635716
+  y: 178.0
+  z: -5.386720262340205
+  yaw: 63.915348052978516
+  pitch: -7.377917766571045
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -23.324944790707516
+  y: 178.0
+  z: -9.663877954476307
+  yaw: 107.99749755859375
+  pitch: 5.058262825012207

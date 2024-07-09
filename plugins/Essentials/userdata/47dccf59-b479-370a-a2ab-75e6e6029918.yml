@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.230.22.49
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712582109621
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712582384775
+  login: 1712581566020
+money: '0'
+last-account-name: NotDev_XD
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.30519280190921
+  y: 178.0
+  z: -8.182812756700294
+  yaw: 61.46310043334961
+  pitch: -3.733499765396118
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -26.417919030737814
+  y: 178.0
+  z: -7.278873988853704
+  yaw: 92.96310424804688
+  pitch: 3.0165014266967773

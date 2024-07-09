@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 182.191.139.43
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712559514641
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712559557814
+  login: 1712559075941
+money: '0'
+last-account-name: shayanbhatti
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -42.03787128463572
+  y: 178.0
+  z: -8.300000011920929
+  yaw: 33.63127136230469
+  pitch: -14.551015853881836
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -39.7824978317003
+  y: 178.0
+  z: -9.269884513723511
+  yaw: 89.3170166015625
+  pitch: -0.2981235980987549

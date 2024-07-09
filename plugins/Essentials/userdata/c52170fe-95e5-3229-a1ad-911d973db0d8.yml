@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 45.64.226.69
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712651216575
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712653492631
+  login: 1712652852874
+money: '0'
+last-account-name: FeltyStudent17
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.274915827157656
+  y: 178.0
+  z: -7.855988662061265
+  yaw: 83.12335205078125
+  pitch: 1.8114827871322632
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -51.73407556844763
+  y: 179.0
+  z: 5.196170083355482
+  yaw: -120.79728698730469
+  pitch: 18.423768997192383

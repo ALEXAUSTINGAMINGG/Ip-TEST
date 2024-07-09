@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 152.58.191.241
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712474201196
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712475644161
+  login: 1712474065091
+money: '0'
+last-account-name: BananaStrengthOP
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -39.98243980624694
+  y: 178.0
+  z: -7.368362610305047
+  yaw: 91.14706420898438
+  pitch: -5.255143165588379
+logoutlocation:
+  world: fd2a2c6a-eda5-4f74-8350-27f0fde897c2
+  world-name: duels
+  x: 87.80389197571182
+  y: 97.0
+  z: 415.9661760451028
+  yaw: 16.201202392578125
+  pitch: 16.443012237548828

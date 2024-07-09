@@ -1,0 +1,111 @@
+command /settings:
+  trigger:
+    set metadata tag "Settings" of player to chest inventory with 3 rows named "              &8Settings"
+    set slot 10 of metadata tag "Settings" of player to a end crystal with lore "&7Click to toggle Fast Crystal &d" named "<##0079FB>&lF<##0A72FB>&lA<##146BFC>&lS<##1E64FC>&lT <##285DFD>&lC<##3256FD>&lR<##3B4EFD>&lY<##4547FE>&lS<##4F40FE>&lT<##5939FF>&lA<##6332FF>&lL"
+    set slot 11 of metadata tag "Settings" of player to a oak sign with lore "&7Click to toggle Scoreboard &d" named "<##FB0000>&lS<##FB0800>&lC<##FC1000>&lO<##FC1800>&lR<##FD2000>&lE<##FD2700>&lB<##FE2F00>&lO<##FE3700>&lA<##FF3F00>&lR<##FF4700>&lD   "
+    set slot 12 of metadata tag "Settings" of player to a clock with lore "&7Click to toggle Emojis &d" named "<##FFF800>&lE<##FFF916>&lM<##FFF92D>&lO<##FFFA43>&lJ<##FFFA5A>&lI<##FFFB70>&lS "
+    set slot 13 of metadata tag "Settings" of player to a light green candle with lore "&7Click to toggle Join & Quit Messages &d" named "<##14CF5D>&lJ<##1FD25E>&lO<##29D560>&lI<##34D961>&lN <##3EDC62>&lQ<##49DF63>&lU<##53E265>&lI<##5EE566>&lT <##68E967>&lM<##73EC68>&lE<##7DEF6A>&lS<##88F26B>&lS<##92F56C>&lA<##9DF96D>&lG<##A7FC6F>&lE<##B2FF70>&lS"
+    set slot 14 of metadata tag "Settings" of player to a Netherite sword with lore "&7Click to toggle Duel Requests &d" named "<##FCFF00>&lD<##FAFA08>&lU<##F8F410>&lE<##F6EF18>&lL <##F4EA20>&lR<##F2E528>&lE<##F0DF30>&lQ<##EEDA38>&lU<##ECD540>&lE<##EAD048>&lS<##E8CA50>&lT<##E6C558>&lS"
+    set slot 15 of metadata tag "Settings" of player to a skeleton skull with lore "&7Click to toggle Death Messages visibility  &d" named "<##CB2D3E>&lD<##CE2F3E>&lE<##D1313D>&lA<##D4343D>&lT<##D7363D>&lH <##DA383C>&lM<##DD3A3C>&lE<##E03C3C>&lS<##E33E3B>&lS<##E6413B>&lA<##E9433B>&lG<##EC453A>&lE<##EF473A>&lS"
+    set slot 16 of metadata tag "Settings" of player to a diamond sword with lore "&7Click to toggle on Kill Title  &d" named "<##1488CC>&lK<##177DC9>&lI<##1A73C6>&lL<##1D68C2>&lL <##205DBF>&lT<##2252BC>&lI<##2548B9>&lT<##283DB5>&lL<##2B32B2>&lE"
+    set slot 40 of metadata tag "Settings" of player to a barrier with lore "&7Click to Close Settings &d" named "<##CB2D3E>&lC<##D4343D>&lL<##DD3A3C>&lO<##E6413B>&lS<##EF473A>&lE"
+    open (metadata tag "Settings" of player) to player
+
+on inventory click:
+  if event-inventory is (metadata tag "Settings" of player):
+    cancel event
+    if event-slot is 10:
+      execute player command "fastcrystals"
+    if index of event-slot = 11:
+      execute console command "tab scoreboard toggle %player%"
+    if index of event-slot = 12:
+      execute player command "/toggleemojis"
+    if index of event-slot = 13:
+      execute player command "/togglejoinmessages"
+    if index of event-slot = 14:
+      execute player command "/dueltoggle"
+    if index of event-slot = 15:
+      execute player command "/toggldeathmessages"
+    if index of event-slot = 16:
+      execute player command "/togglekilltitle"
+    if index of event-slot = 40:
+      close inventory of player
+options:
+    p: &a
+
+on chat:
+    {chatemoji.%player's uuid%} is set:
+        replace all ":skull:" in message with "&f☠"
+        replace all "<3" or ":heart:" in message with "&d❤"
+        replace all ":toxic:" in message with "&a☢"
+        replace all ":fire:" in message with "&6🔥"
+        replace all ":wave:" or ":waves:" in message with "&b🌊"
+        replace all ":fingerup:" in message with "&6✌"
+        replace all ":star:" or ":stars:" in message with "&e★"
+        replace all ":check:" or ":tick:" in message with "&a✔"
+        replace all ":cross:" in message with "&4✘"
+        replace all ":face1:" in message with "&a^_^"
+        replace all ":face2:" in message with "&d｡◕‿ ◕｡"
+        replace all ":face3:" in message with "&a^◕‿◕^"
+        replace all ":face4:" in message with "&e-‿-"
+        replace all ":face5:" in message with "&c*^_^*"
+        replace all ":face6:" in message with "&6^︵^"
+
+
+command /toggleemojis:
+    trigger:
+        {chatemoji.%player's uuid%} is set:
+            send "&4Emojis disabled"
+            delete {chatemoji.%player's uuid%}
+            stop
+        send "&aEmojis enabled"
+        set {chatemoji.%player's uuid%} to true
+            
+
+on first join:
+    set {chatemoji.%player's uuid%} to true
+    
+    
+options:
+  joinEnabled: true
+  quitEnabled: true
+
+command /togglejoinmessages:
+  trigger:
+    if {joinEnabled} is true:
+      set {joinEnabled} to false
+      send "&4Join Messages Disabled."
+    else:
+      set {joinEnabled} to true
+      send "&aJoin Messages Enabled."
+
+on join:
+  if {joinEnabled} is true:
+    set join message to "&a→ %player%"
+  else:
+    set join message to ""
+    
+on quit:
+  if {joinEnabled} is true:
+    set quit message to "&4← %player%"
+  else:
+    set quit message to ""
+
+command /togglekilltitle:
+  trigger:
+    if {killtitleEnabled_%uuid of player%} is set:
+      if {killtitleEnabled_%uuid of player%} is true:
+        set {killtitleEnabled_%uuid of player%} to false
+        send "&4Kill Title Disabled."
+      else:
+        set {killtitleEnabled_%uuid of player%} to true
+        send "&aKill Title Enabled."
+    else:
+      set {killtitleEnabled_%uuid of player%} to true
+      send "&aKill Title Enabled."
+
+on death:
+  if {killtitleEnabled_%uuid of attacker%} is true:
+    send title "&aʏᴏᴜ ᴡᴏɴ" to attacker
+    send subtitle "&7%victim% Lost" to attacker
+

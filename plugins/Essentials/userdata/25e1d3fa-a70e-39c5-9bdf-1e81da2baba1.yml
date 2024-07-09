@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 115.164.183.58
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712580095421
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712580420125
+  login: 1712580334420
+money: '0'
+last-account-name: black_light_hh
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -38.17276864248204
+  y: 178.0
+  z: -2.7947372963901445
+  yaw: 46.89979553222656
+  pitch: 3.016490936279297
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -39.50595397691401
+  y: 178.0
+  z: -11.708747139872196
+  yaw: 158.83360290527344
+  pitch: -8.959949493408203

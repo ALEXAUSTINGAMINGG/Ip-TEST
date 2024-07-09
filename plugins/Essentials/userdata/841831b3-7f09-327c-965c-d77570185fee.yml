@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 175.107.225.72
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716107448387
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716107483243
+  login: 1716107406786
+money: '0'
+last-account-name: vashu_warrior
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -39.418471711190925
+  y: 179.0
+  z: -1.3029858763612616
+  yaw: 26.11452293395996
+  pitch: 16.724515914916992
+logoutlocation:
+  world: 33a34951-efe1-4473-ab9e-cae292dfe960
+  world-name: world
+  x: -125.23793075867958
+  y: 52.0
+  z: 136.72058301980047
+  yaw: 28.906492233276367
+  pitch: 20.787137985229492

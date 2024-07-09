@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.33.217.114
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712640648914
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712640725167
+  login: 1712640047413
+money: '0'
+last-account-name: captain_you
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -39.62686443952419
+  y: 178.0
+  z: -4.540441772805744
+  yaw: 82.91310119628906
+  pitch: -2.2334988117218018
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -23.898591078886803
+  y: 178.0000001
+  z: -6.448169785736928
+  yaw: 68.06309509277344
+  pitch: 61.666500091552734

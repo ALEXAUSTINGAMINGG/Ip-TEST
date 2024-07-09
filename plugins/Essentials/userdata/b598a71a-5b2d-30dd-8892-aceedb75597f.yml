@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 157.38.150.66
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716035067687
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716037648989
+  login: 1716037597386
+money: '0'
+last-account-name: EVILSenpaiSpider
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -27.395681120385863
+  y: 178.0
+  z: -8.801807193307795
+  yaw: 6.56298828125
+  pitch: 23.400075912475586
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.69999998807907
+  y: 178.0
+  z: -3.845427184310554
+  yaw: 114.41313934326172
+  pitch: 18.616498947143555

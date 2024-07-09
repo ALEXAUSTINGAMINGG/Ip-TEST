@@ -1,0 +1,60 @@
+on death:
+	if attacker is in region "nethpot":
+		execute console command "minecraft:clear %attacker%"
+		execute console command "/playerkits:kit give Neth %attacker%"
+on death:
+	if attacker is in region "diapot":
+		execute console command "minecraft:clear %attacker%"
+		execute console command "/playerkits:kit give DiaPot %attacker%"
+on death:
+	if attacker is in region "IronPot":
+		execute console command "minecraft:clear %attacker%"
+		execute console command "/playerkits:kit give IronPot %attacker%"
+on death:
+	if attacker is in region "crystalterrain":
+		execute console command "minecraft:clear %attacker%"
+		execute console command "/playerkits:kit give Crystal %attacker%"
+on death:
+	if attacker is in region "smp":
+		execute console command "minecraft:clear %attacker%"
+		execute console command "/playerkits:kit give SmpKit %attacker%"
+on death:
+	if attacker is in region "manhunt":
+		execute console command "minecraft:clear %attacker%"
+		execute console command "/playerkits:kit give Manhunt %attacker%"
+on death:
+	if attacker is in region "bow":
+		execute console command "minecraft:clear %attacker%"
+		execute console command "/playerkits:kit give BowPvP %attacker%"
+on death:
+	if attacker is in region "axe":
+		execute console command "minecraft:clear %attacker%"
+		execute console command "/playerkits:kit give Axe %attacker%"
+on death:
+	if attacker is in region "smp":
+		execute console command "minecraft:clear %attacker%"
+		execute console command "/playerkits:kit give SmpKit %attacker%"
+on death:
+	if attacker is in region "opduels":
+		execute console command "minecraft:clear %attacker%"
+		execute console command "/playerkits:kit give OpDuels %attacker%"
+on death:
+	if attacker is in region "woodpvp":
+		execute console command "minecraft:clear %attacker%"
+		execute console command "/playerkits:kit give WoodPvP %attacker%"
+on death:
+	if attacker is in region "lifestealkit":
+		execute console command "minecraft:clear %attacker%"
+		execute console command "/playerkits:kit give Lifesteal %attacker%"
+on death:
+	if attacker is in region "lifestealspawn":
+		execute console command "minecraft:clear %attacker%"
+		execute console command "/playerkits:kit give Lifesteal %attacker%"
+on death:
+	if attacker is in region "elytra":
+		execute console command "minecraft:clear %attacker%"
+		execute console command "/playerkits:kit give ElytraPvP %attacker%"
+on death:
+	if attacker is in region "uhc":
+		execute console command "minecraft:clear %attacker%"
+		execute console command "/playerkits:kit give UHC %attacker%"

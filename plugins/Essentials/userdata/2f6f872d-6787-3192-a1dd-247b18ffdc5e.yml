@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 183.83.147.186
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716102271138
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716106089090
+  login: 1716106047236
+money: '0'
+last-account-name: DeSTiNy
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -37.675942041856494
+  y: 178.0
+  z: -2.411385714157452
+  yaw: 57.900299072265625
+  pitch: -2.838245391845703
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -24.463999008720474
+  y: 178.0
+  z: -7.589195554087798
+  yaw: 80.37981414794922
+  pitch: 4.892959117889404

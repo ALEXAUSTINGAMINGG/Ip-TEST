@@ -1,0 +1,28 @@
+# DeluxeMenus 1.14.0-Release main configuration file
+#
+# A full wiki on how to use this plugin can be found at:
+# https://wiki.helpch.at/clips-plugins/deluxemenus
+
+debug: HIGHEST
+check_updates: true
+gui_menus:
+  Crystal:
+    file: Crystal.yml
+  potion:
+    file: potion.yml
+  sword:
+    file: Sword.yml
+  extra:
+    file: extra.yml
+  coinshop:
+    file: coinshop.yml
+  coinshop-ranks:
+    file: coinshop-ranks.yml
+  kitpvp:
+    file: kitpvp.yml
+  stats:
+    file: stats.yml
+  ffa:
+    file: ffa.yml
+  kiteditr:
+    file: kitedit.yml

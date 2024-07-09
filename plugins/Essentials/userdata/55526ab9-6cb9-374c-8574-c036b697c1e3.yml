@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 160.202.37.30
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712590437020
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712590510028
+  login: 1712590397670
+money: '0'
+last-account-name: Carhartt__
+logoutlocation:
+  world: fd2a2c6a-eda5-4f74-8350-27f0fde897c2
+  world-name: duels
+  x: 488.8568550675717
+  y: 103.25220334025373
+  z: 242.08137776553792
+  yaw: 70.46691131591797
+  pitch: 13.878904342651367
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.83599098099758
+  y: 179.0
+  z: -10.83893597575237
+  yaw: 143.8900146484375
+  pitch: 8.648473739624023

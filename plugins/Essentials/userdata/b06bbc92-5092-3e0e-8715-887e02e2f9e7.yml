@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.43.119.202
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712593973821
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712594007573
+  login: 1712593948420
+money: '0'
+last-account-name: Zopty
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.060794098562425
+  y: 178.0
+  z: -6.332383371878704
+  yaw: 18.31473731994629
+  pitch: -7.907642841339111
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -25.801351431875403
+  y: 178.0
+  z: -5.92541756317258
+  yaw: -145.72943115234375
+  pitch: 3.9268476963043213

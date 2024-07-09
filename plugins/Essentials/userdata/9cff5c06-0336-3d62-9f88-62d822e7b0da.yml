@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 223.238.114.42
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712647321513
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712647375069
+  login: 1712646778813
+money: '0'
+last-account-name: lagesyboy
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -39.80220015548632
+  y: 178.0
+  z: -7.922678286578844
+  yaw: 82.46310424804688
+  pitch: -1.3334989547729492
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -25.02241450333863
+  y: 178.0
+  z: -8.900517860423351
+  yaw: -83.58692169189453
+  pitch: 82.66651153564453

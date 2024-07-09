@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.173.245.119
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712639373264
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712640725622
+  login: 1712639073413
+money: '0'
+last-account-name: ArcLgenD
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.9749212205229
+  y: 178.0
+  z: -7.321439400597381
+  yaw: 89.1953353881836
+  pitch: -16.95279884338379
+logoutlocation:
+  world: fd2a2c6a-eda5-4f74-8350-27f0fde897c2
+  world-name: duels
+  x: 390.90823072700215
+  y: 103.0
+  z: 39.85027509785537
+  yaw: 76.6181640625
+  pitch: 44.27153778076172

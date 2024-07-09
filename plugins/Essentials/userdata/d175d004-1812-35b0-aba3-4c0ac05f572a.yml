@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.218.27.93
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712581263621
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712581401175
+  login: 1712579445620
+money: '0'
+last-account-name: freetimehacks_
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -38.337553945189576
+  y: 178.0
+  z: -1.938868891123544
+  yaw: 69.3165283203125
+  pitch: -12.699262619018555
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -31.438957010952652
+  y: 178.0
+  z: -3.7665551177221346
+  yaw: 152.42410278320312
+  pitch: 9.865328788757324

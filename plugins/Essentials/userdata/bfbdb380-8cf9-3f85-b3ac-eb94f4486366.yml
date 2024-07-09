@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 38.137.56.213
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716096619987
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716096830389
+  login: 1716094738436
+money: '0'
+last-account-name: Dragon_Playz90
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -38.69999998807907
+  y: 178.0
+  z: -0.7053455820811285
+  yaw: 136.6132049560547
+  pitch: -1.1835241317749023
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -24.324524660427087
+  y: 178.0
+  z: -8.277888359302043
+  yaw: 21.563079833984375
+  pitch: 62.11652755737305

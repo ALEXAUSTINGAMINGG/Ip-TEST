@@ -1,0 +1,266 @@
+(06:29:04) Matrix Enabled! Version: 7.7.2A
+(06:34:05) THEKNQ failed BadPackets check | might using freecam (a: 2759, b: 17)() | vl:2(+2) ping:0 tps:20.0 component: bp.freecam ver: 1.19.x
+(06:34:05) THEKNQ failed BadPackets check | might using freecam (a: 2760, b: 68)() | vl:4(+2) ping:0 tps:20.0 component: bp.freecam ver: 1.19.x
+(06:34:12) THEKNQ failed BadPackets check | might using freecam (a: 9710, b: 8)() | vl:6(+2) ping:0 tps:20.0 component: bp.freecam ver: 1.19.x
+(06:34:12) THEKNQ failed BadPackets check | might using freecam (a: 9709, b: 57)() | vl:8(+2) ping:0 tps:20.0 component: bp.freecam ver: 1.19.x
+(06:34:17) THEKNQ failed BadPackets check | might using freecam (a: 3080, b: 7)() | vl:1(+1) ping:2314 tps:13.02 component: bp.freecam ver: 1.19.x
+(06:34:17) THEKNQ failed BadPackets check | might using freecam (a: 3090, b: 67)() | vl:2(+1) ping:2314 tps:13.02 component: bp.freecam ver: 1.19.x
+(06:34:18) THEKNQ failed BadPackets check | might using freecam (a: 3792, b: 0)() | vl:3(+1) ping:2314 tps:13.02 component: bp.freecam ver: 1.19.x
+(06:34:18) THEKNQ failed BadPackets check | might using freecam (a: 3793, b: 51)() | vl:4(+1) ping:2314 tps:13.02 component: bp.freecam ver: 1.19.x
+(06:34:18) THEKNQ failed BadPackets check | might using freecam (a: 3767, b: 75)() | vl:5(+1) ping:2314 tps:13.02 component: bp.freecam ver: 1.19.x
+(06:34:33) THEKNQ failed KillAura check | the player exhibits a flaw in combat | type E() | vl:5(+5) ping:212 tps:20.0 component: ka.flaw.e ver: 1.19.x
+(06:34:47) THEKNQ failed KillAura check | the player exhibits a flaw in combat | type E() | vl:5(+5) ping:202 tps:20.0 component: ka.flaw.e ver: 1.19.x
+(06:35:01) THEKNQ failed KillAura check | the player exhibits a flaw in combat | type E() | vl:5(+5) ping:286 tps:20.0 component: ka.flaw.e ver: 1.19.x
+(06:35:01) THEKNQ failed KillAura check | the player exhibits a flaw in combat | type E() | vl:10(+5) ping:286 tps:20.0 component: ka.flaw.e ver: 1.19.x
+(06:35:01) Execute command: matrix npc THEKNQ 100
+(06:35:04) THEKNQ failed KillAura check | (npc) force field() | vl:15(+5) ping:286 tps:20.0 component: ka.ff ver: 1.19.x
+(06:35:04) THEKNQ failed KillAura check | (npc) force field() | vl:20(+5) ping:286 tps:20.0 component: ka.ff ver: 1.19.x
+(06:35:04) Execute command: matrix notify THEKNQ might be using combat hacks (KillAura)
+(06:35:04) THEKNQ failed KillAura check | (npc) force field() | vl:25(+5) ping:286 tps:20.0 component: ka.ff ver: 1.19.x
+(06:35:05) THEKNQ failed KillAura check | (npc) force field() | vl:30(+5) ping:258 tps:20.0 component: ka.ff ver: 1.19.x
+(06:35:05) THEKNQ failed KillAura check | (npc) force field() | vl:35(+5) ping:258 tps:20.0 component: ka.ff ver: 1.19.x
+(06:35:05) Execute command: matrix notify THEKNQ is using combat hacks (KillAura) #2
+(06:35:05) THEKNQ failed KillAura check | (npc) force field() | vl:40(+5) ping:258 tps:20.0 component: ka.ff ver: 1.19.x
+(06:35:06) THEKNQ failed KillAura check | (npc) force field() | vl:45(+5) ping:258 tps:20.0 component: ka.ff ver: 1.19.x
+(06:35:06) Execute command: matrix delay 5 matrix kick THEKNQ KillAura
+(06:35:06) THEKNQ failed KillAura check | (npc) force field() | vl:50(+5) ping:258 tps:20.0 component: ka.ff ver: 1.19.x
+(06:35:07) THEKNQ failed KillAura check | (npc) force field() | vl:55(+5) ping:258 tps:20.0 component: ka.ff ver: 1.19.x
+(06:35:07) THEKNQ failed KillAura check | (npc) force field() | vl:60(+5) ping:258 tps:20.0 component: ka.ff ver: 1.19.x
+(06:35:07) THEKNQ failed KillAura check | (npc) force field() | vl:65(+5) ping:258 tps:20.0 component: ka.ff ver: 1.19.x
+(06:35:07) THEKNQ failed KillAura check | (npc) force field() | vl:70(+5) ping:258 tps:20.0 component: ka.ff ver: 1.19.x
+(06:35:07) THEKNQ failed KillAura check | (npc) force field() | vl:75(+5) ping:258 tps:20.0 component: ka.ff ver: 1.19.x
+(06:35:07) THEKNQ failed KillAura check | (npc) force field() | vl:80(+5) ping:258 tps:20.0 component: ka.ff ver: 1.19.x
+(06:35:07) THEKNQ failed KillAura check | (npc) force field() | vl:85(+5) ping:258 tps:20.0 component: ka.ff ver: 1.19.x
+(06:35:07) THEKNQ failed KillAura check | (npc) force field() | vl:90(+5) ping:258 tps:20.0 component: ka.ff ver: 1.19.x
+(06:35:07) THEKNQ failed KillAura check | (npc) force field() | vl:95(+5) ping:258 tps:20.0 component: ka.ff ver: 1.19.x
+(06:35:07) THEKNQ failed KillAura check | (npc) force field() | vl:100(+5) ping:258 tps:20.0 component: ka.ff ver: 1.19.x
+(06:35:08) THEKNQ failed KillAura check | (npc) force field() | vl:105(+5) ping:258 tps:20.0 component: ka.ff ver: 1.19.x
+(06:35:08) THEKNQ failed KillAura check | (npc) force field() | vl:110(+5) ping:258 tps:20.0 component: ka.ff ver: 1.19.x
+(06:35:08) THEKNQ failed KillAura check | (npc) force field() | vl:115(+5) ping:258 tps:20.0 component: ka.ff ver: 1.19.x
+(06:35:08) THEKNQ failed KillAura check | (npc) force field() | vl:120(+5) ping:258 tps:20.0 component: ka.ff ver: 1.19.x
+(06:35:08) THEKNQ failed KillAura check | (npc) force field() | vl:125(+5) ping:258 tps:20.0 component: ka.ff ver: 1.19.x
+(06:35:09) THEKNQ failed KillAura check | (npc) force field() | vl:130(+5) ping:258 tps:20.0 component: ka.ff ver: 1.19.x
+(06:35:09) THEKNQ failed KillAura check | (npc) force field() | vl:135(+5) ping:258 tps:20.0 component: ka.ff ver: 1.19.x
+(06:35:09) THEKNQ failed KillAura check | (npc) force field() | vl:140(+5) ping:258 tps:20.0 component: ka.ff ver: 1.19.x
+(06:35:10) THEKNQ failed KillAura check | (npc) force field() | vl:145(+5) ping:612 tps:20.0 component: ka.ff ver: 1.19.x
+(06:35:10) THEKNQ failed KillAura check | (npc) force field() | vl:150(+5) ping:612 tps:20.0 component: ka.ff ver: 1.19.x
+(06:35:10) THEKNQ failed KillAura check | (npc) force field() | vl:155(+5) ping:612 tps:20.0 component: ka.ff ver: 1.19.x
+(06:35:10) THEKNQ failed KillAura check | (npc) force field() | vl:160(+5) ping:612 tps:19.99 component: ka.ff ver: 1.19.x
+(06:36:11) THEKNQ failed BadPackets check | might using freecam (a: 1585, b: 48)() | vl:2(+2) ping:0 tps:20.0 component: bp.freecam ver: 1.19.x
+(06:36:27) THEKNQ failed KillAura check | the player exhibits a flaw in combat | type E() | vl:5(+5) ping:186 tps:20.0 component: ka.flaw.e ver: 1.19.x
+(06:36:37) THEKNQ failed KillAura check | exhibiting an aiming pattern similar to aimbot // sync() | vl:2(+2) ping:294 tps:20.0 component: ka.abt.syn ver: 1.19.x
+(06:37:22) THEKNQ failed KillAura check | exhibiting an aiming pattern similar to aimbot // acceleration (9)() | vl:3(+3) ping:472 tps:19.99 component: ka.abt.acl ver: 1.19.x
+(06:37:24) Reloaded Matrix.
+(06:39:17) THEKNQ failed HitBox check | attack too far away(target: player, reach: 3.317, max: 3.15, positions: 9/16, tk: 12, prep: true) | vl:3(+3) ping:183 tps:20.0 component: hb.reach ver: 1.19.x
+(06:39:26) THEKNQ failed HitBox check | attack too far away(target: player, reach: 3.304, max: 3.15, positions: 3/16, tk: 14, prep: true) | vl:3(+3) ping:253 tps:20.0 component: hb.reach ver: 1.19.x
+(06:39:42) THEKNQ failed KillAura check | the player exhibits a flaw in combat | type E() | vl:5(+5) ping:195 tps:20.0 component: ka.flaw.e ver: 1.19.x
+(06:39:42) THEKNQ failed KillAura check | the player exhibits a flaw in combat | type E() | vl:10(+5) ping:195 tps:20.0 component: ka.flaw.e ver: 1.19.x
+(06:39:42) Execute command: matrix npc THEKNQ 100
+(06:39:46) THEKNQ failed HitBox check | attack too far away(target: player, reach: 3.181, max: 3.15, positions: 39/16, tk: 12, prep: false) | vl:3(+3) ping:156 tps:20.0 component: hb.reach ver: 1.19.x
+(06:39:47) THEKNQ failed HitBox check | attack too far away(target: player, reach: 3.358, max: 3.15, positions: 39/16, tk: 12, prep: false) | vl:6(+3) ping:156 tps:20.0 component: hb.reach ver: 1.19.x
+(06:39:47) THEKNQ failed KillAura check | exhibiting an aiming pattern similar to aimbot // acceleration (9)() | vl:8(+3) ping:156 tps:20.0 component: ka.abt.acl ver: 1.19.x
+(06:39:47) THEKNQ failed KillAura check | exhibiting an aiming pattern similar to aimbot // acceleration (10)() | vl:11(+3) ping:156 tps:20.0 component: ka.abt.acl ver: 1.19.x
+(06:39:47) Execute command: matrix npc THEKNQ 100
+(06:39:48) THEKNQ failed HitBox check | missed hitbox(target: player, positions: 39, all: 16, tk: 12, prep: false) | vl:3(+2) ping:156 tps:20.0 component: hb.mis ver: 1.19.x
+(06:39:49) THEKNQ failed HitBox check | missed hitbox(target: player, positions: 39, all: 16, tk: 12, prep: false) | vl:5(+2) ping:156 tps:20.0 component: hb.mis ver: 1.19.x
+(06:39:54) THEKNQ failed HitBox check | attack too far away(target: player, reach: 3.379, max: 3.15, positions: 36/16, tk: 12, prep: true) | vl:8(+3) ping:196 tps:20.0 component: hb.reach ver: 1.19.x
+(06:39:54) THEKNQ failed HitBox check | attack too far away(target: player, reach: 4.629, max: 3.15, positions: 42/16, tk: 13, prep: false) | vl:16(+8) ping:245 tps:20.0 component: hb.reach ver: 1.19.x
+(06:39:54) Execute command: matrix notify THEKNQ tried to reach entity outside max reach distance (HitBox)
+(06:39:54) Execute command: matrix npc THEKNQ 120
+(06:39:54) Execute command: matrix notify THEKNQ tried to reach entity outside max reach distance (HitBox) #2
+(06:39:56) THEKNQ failed Move check | unexpected vertical movement (motion: 0.165/-0.152, hor: 0.632, buffer: 0.951/false, ground: -,-, setback: +, vel: VA:0.16475, from: 97.177, past: -0.075, p_tags: , tags: air_bst,air_mdf)() | vl:5(+5) ping:245 tps:20.0 component: move.vert ver: 1.19.x
+(06:39:56) THEKNQ failed Move check | unexpected horizontal movement (motion: 0.632/0.25, buffer: 2.481/false, vet: 0.165, vec: 0.21, ground: -,-, spr: -, add: 0.026, past: -0.075,0.23, fr: 0.6, setback: +, vel: VA:0.16475, from: 97.177, rv: 0.165, ptags: , tags: air_bst,air_mdf,hor_fast_setback,hor_bst)() | vl:10(+5) ping:245 tps:20.0 component: move.hor ver: 1.19.x
+(06:39:56) THEKNQ failed KillAura check | critical hit without correct jumping // ground spoof() | vl:16(+5) ping:245 tps:20.0 component: ka.critical.ground ver: 1.19.x
+(06:40:03) THEKNQ failed Click check | exhibiting suspicious clicks patterns during the combat // timing // avg: 0, diff: 0.0() | vl:8(+8) ping:179 tps:20.0 component: ka.clk.tim ver: 1.19.x
+(06:40:03) THEKNQ failed Velocity check | (vertical) reduce vertical velocity: 0.36075() | vl:1(+1) ping:179 tps:20.0 component: vel.vet ver: 1.19.x
+(06:40:03) THEKNQ failed Velocity check | (vertical) reduce vertical velocity: 0.36075() | vl:2(+1) ping:179 tps:20.0 component: vel.vet ver: 1.19.x
+(06:40:03) THEKNQ failed HitBox check | attack too far away(target: player, reach: 3.792, max: 3.15, positions: 30/16, tk: 12, prep: false) | vl:17(+6) ping:179 tps:20.0 component: hb.reach ver: 1.19.x
+(06:40:03) Execute command: matrix npc THEKNQ 120
+(06:40:03) Execute command: matrix notify THEKNQ tried to reach entity outside max reach distance (HitBox) #2
+(06:40:06) THEKNQ failed Click check | reached 27/15 cps during the combat // cps (dynamic)() | vl:18(+10) ping:258 tps:20.0 component: ka.clk.cps ver: 1.19.x
+(06:40:06) Execute command: matrix notify THEKNQ tried to click abnormally (Click) #2
+(06:40:06) Execute command: matrix notify THEKNQ tried to click abnormally (Click) #1
+(06:40:10) THEKNQ failed HitBox check | attack too far away(target: player, reach: 3.362, max: 3.15, positions: 48/16, tk: 19, prep: false) | vl:20(+3) ping:506 tps:20.0 component: hb.reach ver: 1.19.x
+(06:40:12) THEKNQ failed HitBox check | attack too far away(target: player, reach: 3.477, max: 3.15, positions: 48/16, tk: 19, prep: false) | vl:23(+3) ping:506 tps:20.0 component: hb.reach ver: 1.19.x
+(06:40:57) THEKNQ failed HitBox check | attack too far away(target: player, reach: 3.208, max: 3.15, positions: 39/16, tk: 12, prep: false) | vl:11(+3) ping:154 tps:20.0 component: hb.reach ver: 1.19.x
+(06:40:57) Execute command: matrix notify THEKNQ tried to reach entity outside max reach distance (HitBox)
+(06:41:08) Starbrightfall24 failed Velocity check | (respond) ignore server velocity: 0.185,0.361,-0.355() | vl:5(+5) ping:149 tps:20.0 component: vel.expect ver: 1.20.X
+(06:41:26) THEKNQ failed Move check | ground spoof (expect: --, move: 0.000,-0.024,0.000, at: 62.705,97.000,121.376, type: air, pkt: false)() | vl:15(+5) ping:175 tps:20.0 component: move.gf ver: 1.19.x
+(06:41:28) THEKNQ failed Move check | ground spoof (expect: --, move: 0.000,-0.024,0.000, at: 62.705,97.000,121.376, type: air, pkt: false)() | vl:20(+5) ping:175 tps:20.0 component: move.gf ver: 1.19.x
+(06:41:28) THEKNQ failed KillAura check | critical hit without correct jumping // ground spoof() | vl:5(+5) ping:175 tps:20.0 component: ka.critical.ground ver: 1.19.x
+(06:41:29) THEKNQ failed Move check | ground spoof (expect: --, move: 0.000,-0.024,0.000, at: 62.705,97.000,121.376, type: air, pkt: false)() | vl:25(+5) ping:175 tps:20.0 component: move.gf ver: 1.19.x
+(06:41:29) THEKNQ failed KillAura check | critical hit without correct jumping // modify (ver: 1.19.x d: 0.0)() | vl:10(+5) ping:175 tps:20.0 component: ka.critical.modify ver: 1.19.x
+(06:41:29) Execute command: matrix npc THEKNQ 100
+(06:41:29) THEKNQ failed KillAura check | critical hit without correct jumping // ground spoof() | vl:15(+5) ping:175 tps:20.0 component: ka.critical.ground ver: 1.19.x
+(06:41:29) THEKNQ failed KillAura check | critical hit without correct jumping // modify (ver: 1.19.x d: 0.0)() | vl:20(+5) ping:175 tps:20.0 component: ka.critical.modify ver: 1.19.x
+(06:41:29) Execute command: matrix notify THEKNQ might be using combat hacks (KillAura)
+(06:41:29) THEKNQ failed KillAura check | critical hit without correct jumping // ground spoof() | vl:25(+5) ping:175 tps:20.0 component: ka.critical.ground ver: 1.19.x
+(06:41:29) THEKNQ failed Move check | ground spoof (expect: --, move: 0.051,-0.024,-0.016, at: 62.811,97.000,121.342, type: air, pkt: false)() | vl:30(+5) ping:214 tps:20.0 component: move.gf ver: 1.19.x
+(06:41:31) THEKNQ failed Move check | ground spoof (expect: --, move: 0.000,-0.024,0.000, at: 62.705,97.000,121.376, type: air, pkt: false)() | vl:35(+5) ping:214 tps:20.0 component: move.gf ver: 1.19.x
+(06:41:31) THEKNQ failed Move check | unexpected vertical movement (motion: -0.024/-0.228, hor: 0.0, buffer: 0.102/true, ground: -,+, setback: -, vel: , from: 97.024, past: -0.152, p_tags: , tags: )() | vl:40(+5) ping:214 tps:20.0 component: move.vert ver: 1.19.x
+(06:41:32) THEKNQ failed HitBox check | attack too far away(target: player, reach: 3.33, max: 3.15, positions: 3/16, tk: 13, prep: false) | vl:3(+3) ping:214 tps:20.0 component: hb.reach ver: 1.19.x
+(06:41:32) THEKNQ failed Move check | ground spoof (expect: --, move: 0.162,-0.024,-0.051, at: 66.454,97.000,120.179, type: air, pkt: false)() | vl:45(+5) ping:214 tps:20.0 component: move.gf ver: 1.19.x
+(06:41:32) THEKNQ failed Move check | unexpected vertical movement (motion: -0.024/-0.228, hor: 0.17, buffer: 0.102/true, ground: -,+, setback: -, vel: , from: 97.024, past: -0.152, p_tags: , tags: )() | vl:50(+5) ping:214 tps:20.0 component: move.vert ver: 1.19.x
+(06:41:33) THEKNQ failed Move check | ground spoof (expect: --, move: -0.145,-0.024,0.047, at: 63.736,97.000,121.046, type: air, pkt: false)() | vl:55(+5) ping:214 tps:20.0 component: move.gf ver: 1.19.x
+(06:41:33) Execute command: matrix notify THEKNQ tried to move abnormally (Move) #1
+(06:41:33) THEKNQ failed Move check | unexpected vertical movement (motion: -0.024/-0.228, hor: 0.153, buffer: 0.102/true, ground: -,+, setback: -, vel: , from: 97.024, past: -0.152, p_tags: , tags: )() | vl:60(+5) ping:214 tps:20.0 component: move.vert ver: 1.19.x
+(06:41:34) THEKNQ failed Move check | ground spoof (expect: --, move: -0.161,-0.024,0.053, at: 63.163,97.000,121.248, type: air, pkt: false)() | vl:65(+5) ping:214 tps:20.0 component: move.gf ver: 1.19.x
+(06:41:34) THEKNQ failed Move check | unexpected vertical movement (motion: -0.024/-0.228, hor: 0.169, buffer: 0.102/true, ground: -,+, setback: -, vel: , from: 97.024, past: -0.152, p_tags: , tags: )() | vl:70(+5) ping:214 tps:20.0 component: move.vert ver: 1.19.x
+(06:41:37) THEKNQ failed Move check | ground spoof (expect: --, move: -0.044,-0.024,0.068, at: 61.513,97.000,122.150, type: air, pkt: false)() | vl:75(+5) ping:296 tps:20.0 component: move.gf ver: 1.19.x
+(06:41:37) THEKNQ failed Move check | unexpected vertical movement (motion: -0.024/-0.228, hor: 0.08, buffer: 0.102/true, ground: -,+, setback: -, vel: , from: 97.024, past: -0.152, p_tags: , tags: en_coll)() | vl:80(+5) ping:296 tps:20.0 component: move.vert ver: 1.19.x
+(06:41:37) THEKNQ failed KillAura check | exhibiting an aiming pattern similar to aimbot // acceleration (9)() | vl:23(+3) ping:296 tps:20.0 component: ka.abt.acl ver: 1.19.x
+(06:41:37) THEKNQ failed KillAura check | exhibiting an aiming pattern similar to aimbot // acceleration (10)() | vl:26(+3) ping:296 tps:20.0 component: ka.abt.acl ver: 1.19.x
+(06:41:37) THEKNQ failed KillAura check | exhibiting an aiming pattern similar to aimbot // acceleration (11)() | vl:29(+3) ping:296 tps:20.0 component: ka.abt.acl ver: 1.19.x
+(06:41:37) THEKNQ failed KillAura check | critical hit without correct jumping // ground spoof() | vl:34(+5) ping:296 tps:20.0 component: ka.critical.ground ver: 1.19.x
+(06:41:37) THEKNQ failed KillAura check | critical hit without correct jumping // modify (ver: 1.19.x d: 0.0)() | vl:39(+5) ping:296 tps:20.0 component: ka.critical.modify ver: 1.19.x
+(06:41:37) Execute command: matrix notify THEKNQ is using combat hacks (KillAura) #2
+(06:41:37) THEKNQ failed KillAura check | critical hit without correct jumping // ground spoof() | vl:44(+5) ping:296 tps:20.0 component: ka.critical.ground ver: 1.19.x
+(06:41:37) THEKNQ failed KillAura check | critical hit without correct jumping // modify (ver: 1.19.x d: 0.0)() | vl:49(+5) ping:296 tps:20.0 component: ka.critical.modify ver: 1.19.x
+(06:41:37) Execute command: matrix delay 5 matrix kick THEKNQ KillAura
+(06:41:37) THEKNQ failed KillAura check | critical hit without correct jumping // ground spoof() | vl:54(+5) ping:296 tps:20.0 component: ka.critical.ground ver: 1.19.x
+(06:41:40) THEKNQ failed Move check | ground spoof (expect: --, move: 0.126,-0.024,0.039, at: 61.906,97.000,122.925, type: air, pkt: false)() | vl:85(+5) ping:199 tps:20.0 component: move.gf ver: 1.19.x
+(06:41:40) THEKNQ failed Move check | unexpected vertical movement (motion: -0.024/-0.228, hor: 0.132, buffer: 0.102/true, ground: -,+, setback: -, vel: , from: 97.024, past: -0.152, p_tags: , tags: )() | vl:90(+5) ping:199 tps:20.0 component: move.vert ver: 1.19.x
+(06:41:40) Execute command: matrix notify THEKNQ tried to move abnormally (Move) #2
+(06:41:40) THEKNQ failed KillAura check | exhibiting an aiming pattern similar to aimbot // acceleration (9)() | vl:57(+3) ping:199 tps:20.0 component: ka.abt.acl ver: 1.19.x
+(06:41:41) THEKNQ failed Move check | ground spoof (expect: --, move: 0.040,-0.024,-0.139, at: 61.649,97.000,120.430, type: air, pkt: false)() | vl:95(+5) ping:199 tps:20.0 component: move.gf ver: 1.19.x
+(06:41:41) THEKNQ failed Move check | unexpected vertical movement (motion: -0.024/-0.228, hor: 0.144, buffer: 0.102/true, ground: -,+, setback: -, vel: , from: 97.024, past: -0.152, p_tags: , tags: )() | vl:100(+5) ping:199 tps:20.0 component: move.vert ver: 1.19.x
+(06:41:42) THEKNQ failed Interact check | interact with an invisible block (block: sand, pass: red_sand, buf: 2.0)() | vl:0(+0) ping:199 tps:20.0 component: interact.vis ver: 1.19.x
+(06:41:42) THEKNQ failed Move check | ground spoof (expect: --, move: 0.035,-0.024,-0.051, at: 60.912,97.000,120.040, type: air, pkt: false)() | vl:105(+5) ping:199 tps:20.0 component: move.gf ver: 1.19.x
+(06:41:42) THEKNQ failed Move check | unexpected vertical movement (motion: -0.024/-0.228, hor: 0.061, buffer: 0.102/true, ground: -,+, setback: -, vel: , from: 97.024, past: -0.152, p_tags: , tags: )() | vl:110(+5) ping:199 tps:20.0 component: move.vert ver: 1.19.x
+(06:43:21) Starbrightfall24 failed Move check | unexpected horizontal movement (motion: 0.291/0.26, buffer: 0.242/false, vet: -0.075, vec: 0.234, ground: -,-, spr: +, add: 0.026, past: 0.003,0.257, fr: 0.6, setback: +, vel: , from: 179.252, rv: 0.0, ptags: , tags: hor_bst)() | vl:5(+5) ping:144 tps:20.0 component: move.hor ver: 1.20.X
+(06:43:42) THEKNQ failed BadPackets check | might using freecam (a: 1759, b: 19)() | vl:2(+2) ping:220 tps:20.0 component: bp.freecam ver: 1.19.x
+(06:43:42) THEKNQ failed BadPackets check | might using freecam (a: 1759, b: 69)() | vl:4(+2) ping:220 tps:20.0 component: bp.freecam ver: 1.19.x
+(06:43:42) THEKNQ failed BadPackets check | might using freecam (a: 1759, b: 11)() | vl:6(+2) ping:220 tps:20.0 component: bp.freecam ver: 1.19.x
+(06:43:42) THEKNQ failed BadPackets check | might using freecam (a: 1760, b: 62)() | vl:8(+2) ping:220 tps:20.0 component: bp.freecam ver: 1.19.x
+(06:43:49) THEKNQ failed HitBox check | missed hitbox(target: player, positions: 15, all: 16, tk: 13, prep: true) | vl:2(+2) ping:223 tps:20.0 component: hb.mis ver: 1.19.x
+(06:43:49) THEKNQ failed HitBox check | missed hitbox(target: player, positions: 3, all: 16, tk: 13, prep: false) | vl:4(+2) ping:214 tps:20.0 component: hb.mis ver: 1.19.x
+(06:44:15) Starbrightfall24 failed KillAura check | exhibiting an aiming pattern similar to aimbot // sync() | vl:2(+2) ping:152 tps:20.0 component: ka.abt.syn ver: 1.20.X
+(06:44:23) THEKNQ failed Move check | unexpected horizontal movement (motion: 0.293/0.273, buffer: 0.36/false, vet: 0.248, vec: 0.247, ground: -,-, spr: +, add: 0.026, past: 0.333,0.271, fr: 0.6, setback: +, vel: , from: 178.753, rv: 0.0, ptags: , tags: hor_bst)() | vl:5(+5) ping:240 tps:20.0 component: move.hor ver: 1.19.x
+(06:44:26) Starbrightfall24 failed KillAura check | exhibiting an aiming pattern similar to aimbot // sync() | vl:2(+2) ping:146 tps:20.0 component: ka.abt.syn ver: 1.20.X
+(06:45:10) THEKNQ failed Move check | unexpected vertical movement (motion: 0.4/0.083, hor: 0.329, buffer: 0.951/false, ground: -,-, setback: +, vel: VA:0.4, from: 158.166, past: 0.165, p_tags: en_coll, tags: en_coll,air_bst,air_mdf)() | vl:5(+5) ping:171 tps:20.0 component: move.vert ver: 1.19.x
+(06:45:11) THEKNQ failed Move check | unexpected vertical movement (motion: 0.0/0.314, hor: 0.02, buffer: 1.108/false, ground: -,-, setback: -, vel: VA:0.4, from: 157.0, past: 0.4, p_tags: en_coll,air_bst,air_mdf,force_setback, tags: )() | vl:10(+5) ping:171 tps:20.0 component: move.vert ver: 1.19.x
+(06:45:44) THEKNQ failed HitBox check | missed hitbox(target: player, positions: 39, all: 16, tk: 12, prep: false) | vl:2(+2) ping:189 tps:20.0 component: hb.mis ver: 1.19.x
+(06:46:05) Starbrightfall24 failed Move check | unexpected vertical movement (motion: 0.275/0.24, hor: 0.218, buffer: 0.286/false, ground: -,-, setback: +, vel: VA:0.36075, VA:0.36075, from: 187.861, past: 0.325, p_tags: collision, tags: air_mdf)() | vl:10(+5) ping:158 tps:20.0 component: move.vert ver: 1.20.X
+(06:46:12) THEKNQ failed HitBox check | missed hitbox(target: player, positions: 6, all: 16, tk: 12, prep: false) | vl:2(+2) ping:174 tps:19.79 component: hb.mis ver: 1.19.x
+(06:53:22) RevengeGamingYT2 failed BadPackets check | might using freecam (a: 2038, b: 34)() | vl:2(+2) ping:0 tps:19.96 component: bp.freecam ver: 1.20.X
+(06:53:22) RevengeGamingYT2 failed BadPackets check | might using freecam (a: 2187, b: 41)() | vl:4(+2) ping:0 tps:20.0 component: bp.freecam ver: 1.20.X
+(06:56:42) Matrix Enabled! Version: 7.7.2A
+(06:56:59) THEKNQ failed BadPackets check | might using freecam (a: 1517, b: 64)() | vl:2(+2) ping:0 tps:20.0 component: bp.freecam ver: 1.19.x
+(06:57:18) THEKNQ failed Move check | unexpected vertical movement (motion: 0.42/0.0, hor: 0.327, buffer: 0.21/false, ground: -,-, setback: +, vel: , from: 178.0, past: 0.0, p_tags: collision, tags: collision,air_mdf)() | vl:5(+5) ping:469 tps:20.0 component: move.vert ver: 1.19.x
+(06:57:18) THEKNQ failed Move check | unexpected horizontal movement (motion: 0.327/0.25, buffer: 0.592/false, vet: 0.42, vec: 0.116, ground: -,-, spr: +, add: 0.026, past: 0.0,0.127, fr: 0.6, setback: +, vel: , from: 178.0, rv: 0.0, ptags: collision, tags: collision,air_mdf,hor_bst)() | vl:10(+5) ping:469 tps:20.0 component: move.hor ver: 1.19.x
+(06:58:02) THEKNQ failed Move check | unexpected vertical movement (motion: 0.42/0.0, hor: 0.327, buffer: 0.21/false, ground: -,-, setback: +, vel: , from: 178.0, past: 0.0, p_tags: collision,en_coll, tags: collision,en_coll,air_mdf)() | vl:5(+5) ping:190 tps:20.0 component: move.vert ver: 1.19.x
+(06:58:03) THEKNQ failed Move check | unexpected vertical movement (motion: 0.0/-1.0, hor: 0.127, buffer: 0.5/false, ground: -,-, setback: -, vel: , from: 178.0, past: 0.0, p_tags: collision, tags: collision,noclip)() | vl:10(+5) ping:196 tps:19.99 component: move.vert ver: 1.19.x
+(06:58:03) THEKNQ failed Move check | unexpected vertical movement (motion: 0.0/-1.0, hor: 0.127, buffer: 1.0/false, ground: -,-, setback: -, vel: , from: 178.0, past: 0.0, p_tags: collision,noclip, tags: collision,noclip)() | vl:15(+5) ping:196 tps:19.99 component: move.vert ver: 1.19.x
+(06:58:19) RevengeGamingYT2 failed HitBox check | attack too far away(target: player, reach: 0.312, max: 0.0, positions: 6/16, tk: 3, prep: true) | vl:0(+0) ping:130 tps:20.0 component: hb.reach ver: 1.20.X
+(06:58:19) RevengeGamingYT2 failed HitBox check | attack too far away(target: player, reach: 0.312, max: 0.0, positions: 3/16, tk: 3, prep: true) | vl:0(+0) ping:130 tps:20.0 component: hb.reach ver: 1.20.X
+(06:58:33) RevengeGamingYT2 failed Move check | unexpected vertical movement (motion: 0.42/0.0, hor: 0.098, buffer: 0.21/false, ground: -,-, setback: +, vel: , from: 178.0, past: 0.0, p_tags: collision, tags: collision,air_mdf)() | vl:5(+5) ping:129 tps:20.0 component: move.vert ver: 1.20.X
+(06:58:47) THEKNQ failed Move check | unexpected vertical movement (motion: 0.42/0.0, hor: 0.327, buffer: 0.21/false, ground: -,-, setback: +, vel: , from: 178.0, past: 0.0, p_tags: collision, tags: collision,air_mdf)() | vl:5(+5) ping:1507 tps:20.0 component: move.vert ver: 1.19.x
+(06:58:47) THEKNQ failed Move check | unexpected horizontal movement (motion: 0.327/0.25, buffer: 0.592/false, vet: 0.42, vec: 0.023, ground: -,-, spr: +, add: 0.026, past: 0.0,0.025, fr: 0.6, setback: +, vel: , from: 178.0, rv: 0.0, ptags: collision, tags: collision,air_mdf,hor_bst)() | vl:10(+5) ping:1507 tps:20.0 component: move.hor ver: 1.19.x
+(06:58:48) THEKNQ failed Move check | unexpected vertical movement (motion: 0.0/-1.0, hor: 0.127, buffer: 0.867/false, ground: -,-, setback: -, vel: , from: 178.0, past: 0.0, p_tags: collision, tags: collision,noclip)() | vl:15(+5) ping:177 tps:20.0 component: move.vert ver: 1.19.x
+(07:02:22) Matrix Enabled! Version: 7.7.2A
+(07:04:57) Matrix Enabled! Version: 7.7.2A
+(07:09:20) THEKNQ failed HitBox check | missed hitbox(target: player, positions: 21, all: 16, tk: 6, prep: true) | vl:0(+0) ping:254 tps:20.0 component: hb.mis ver: 1.19.x
+(07:09:23) THEKNQ failed HitBox check | missed hitbox(target: player, positions: 15, all: 16, tk: 4, prep: true) | vl:0(+0) ping:192 tps:20.0 component: hb.mis ver: 1.19.x
+(07:09:23) THEKNQ failed HitBox check | missed hitbox(target: player, positions: 15, all: 16, tk: 4, prep: true) | vl:0(+0) ping:192 tps:20.0 component: hb.mis ver: 1.19.x
+(07:10:16) THEKNQ failed HitBox check | attack too far away(target: player, reach: 2.831, max: 0.0, positions: 18/16, tk: 5, prep: true) | vl:0(+0) ping:215 tps:20.0 component: hb.reach ver: 1.19.x
+(07:10:16) Starbrightfall24 failed HitBox check | attack too far away(target: player, reach: 1.466, max: 0.0, positions: 18/16, tk: 4, prep: true) | vl:0(+0) ping:179 tps:20.0 component: hb.reach ver: 1.20.X
+(07:10:16) THEKNQ failed HitBox check | attack too far away(target: player, reach: 4.068, max: 0.0, positions: 15/16, tk: 5, prep: true) | vl:0(+0) ping:215 tps:20.0 component: hb.reach ver: 1.19.x
+(07:10:18) Starbrightfall24 failed HitBox check | missed hitbox(target: player, positions: 15, all: 16, tk: 4, prep: true) | vl:0(+0) ping:179 tps:20.0 component: hb.mis ver: 1.20.X
+(07:10:18) THEKNQ failed HitBox check | attack too far away(target: player, reach: 0.4, max: 0.0, positions: 18/16, tk: 5, prep: true) | vl:0(+0) ping:220 tps:20.0 component: hb.reach ver: 1.19.x
+(07:10:19) THEKNQ failed HitBox check | attack too far away(target: player, reach: 3.949, max: 0.0, positions: 18/16, tk: 5, prep: true) | vl:0(+0) ping:220 tps:20.0 component: hb.reach ver: 1.19.x
+(07:10:22) Starbrightfall24 failed HitBox check | missed hitbox(target: player, positions: 15, all: 16, tk: 4, prep: true) | vl:0(+0) ping:179 tps:20.0 component: hb.mis ver: 1.20.X
+(07:10:22) Starbrightfall24 failed HitBox check | attack too far away(target: player, reach: 0.253, max: 0.0, positions: 18/16, tk: 4, prep: false) | vl:0(+0) ping:175 tps:20.0 component: hb.reach ver: 1.20.X
+(07:10:23) THEKNQ failed HitBox check | attack too far away(target: player, reach: 2.664, max: 0.0, positions: 15/16, tk: 5, prep: true) | vl:0(+0) ping:232 tps:20.0 component: hb.reach ver: 1.19.x
+(07:10:24) THEKNQ failed HitBox check | attack too far away(target: player, reach: 3.017, max: 0.0, positions: 9/16, tk: 5, prep: true) | vl:0(+0) ping:232 tps:20.0 component: hb.reach ver: 1.19.x
+(07:10:24) Starbrightfall24 failed HitBox check | attack too far away(target: player, reach: 2.785, max: 0.0, positions: 15/16, tk: 4, prep: true) | vl:0(+0) ping:175 tps:20.0 component: hb.reach ver: 1.20.X
+(07:10:25) Starbrightfall24 failed HitBox check | attack too far away(target: player, reach: 3.141, max: 0.0, positions: 18/16, tk: 4, prep: true) | vl:0(+0) ping:175 tps:20.0 component: hb.reach ver: 1.20.X
+(07:10:26) Starbrightfall24 failed HitBox check | missed hitbox(target: player, positions: 15, all: 16, tk: 4, prep: true) | vl:0(+0) ping:175 tps:20.0 component: hb.mis ver: 1.20.X
+(07:10:26) Starbrightfall24 failed HitBox check | attack too far away(target: player, reach: 0.502, max: 0.0, positions: 15/16, tk: 4, prep: true) | vl:0(+0) ping:175 tps:20.0 component: hb.reach ver: 1.20.X
+(07:10:26) THEKNQ failed HitBox check | attack too far away(target: player, reach: 0.334, max: 0.0, positions: 18/16, tk: 5, prep: true) | vl:0(+0) ping:232 tps:20.0 component: hb.reach ver: 1.19.x
+(07:10:27) Starbrightfall24 failed HitBox check | missed hitbox(target: player, positions: 15, all: 16, tk: 4, prep: true) | vl:0(+0) ping:177 tps:20.0 component: hb.mis ver: 1.20.X
+(07:10:29) Starbrightfall24 failed HitBox check | missed hitbox(target: player, positions: 15, all: 16, tk: 4, prep: true) | vl:0(+0) ping:177 tps:20.0 component: hb.mis ver: 1.20.X
+(07:10:30) THEKNQ failed HitBox check | missed hitbox(target: player, positions: 18, all: 16, tk: 5, prep: true) | vl:0(+0) ping:221 tps:20.0 component: hb.mis ver: 1.19.x
+(07:10:30) THEKNQ failed HitBox check | attack too far away(target: player, reach: 0.719, max: 0.0, positions: 18/16, tk: 5, prep: true) | vl:0(+0) ping:221 tps:20.0 component: hb.reach ver: 1.19.x
+(07:10:31) THEKNQ failed HitBox check | missed hitbox(target: player, positions: 18, all: 16, tk: 5, prep: true) | vl:0(+0) ping:221 tps:20.0 component: hb.mis ver: 1.19.x
+(07:10:33) THEKNQ failed HitBox check | attack too far away(target: player, reach: 2.296, max: 0.0, positions: 21/16, tk: 6, prep: true) | vl:0(+0) ping:265 tps:20.0 component: hb.reach ver: 1.19.x
+(07:10:34) Starbrightfall24 failed HitBox check | attack too far away(target: player, reach: 0.271, max: 0.0, positions: 15/16, tk: 4, prep: true) | vl:0(+0) ping:174 tps:20.0 component: hb.reach ver: 1.20.X
+(07:10:34) THEKNQ failed HitBox check | attack too far away(target: player, reach: 1.105, max: 0.0, positions: 21/16, tk: 6, prep: true) | vl:0(+0) ping:265 tps:20.0 component: hb.reach ver: 1.19.x
+(07:10:34) THEKNQ failed Move check | unexpected vertical movement (motion: 0.083/-0.302, hor: 0.202, buffer: 0.192/false, ground: -,-, setback: +, vel: VA:0.083, from: 96.797, past: -0.228, p_tags: en_coll, tags: en_coll,air_bst,air_mdf)() | vl:5(+5) ping:265 tps:20.0 component: move.vert ver: 1.19.x
+(07:10:35) THEKNQ failed HitBox check | attack too far away(target: player, reach: 0.857, max: 0.0, positions: 18/16, tk: 6, prep: true) | vl:0(+0) ping:265 tps:20.0 component: hb.reach ver: 1.19.x
+(07:10:36) Starbrightfall24 failed HitBox check | missed hitbox(target: player, positions: 15, all: 16, tk: 4, prep: true) | vl:0(+0) ping:174 tps:20.0 component: hb.mis ver: 1.20.X
+(07:10:36) Starbrightfall24 failed HitBox check | attack too far away(target: player, reach: 1.76, max: 0.0, positions: 15/16, tk: 4, prep: true) | vl:0(+0) ping:174 tps:20.0 component: hb.reach ver: 1.20.X
+(07:10:37) Starbrightfall24 failed HitBox check | missed hitbox(target: player, positions: 15, all: 16, tk: 4, prep: true) | vl:0(+0) ping:174 tps:20.0 component: hb.mis ver: 1.20.X
+(07:10:37) THEKNQ failed HitBox check | missed hitbox(target: player, positions: 21, all: 16, tk: 6, prep: true) | vl:0(+0) ping:254 tps:20.0 component: hb.mis ver: 1.19.x
+(07:10:37) Starbrightfall24 failed HitBox check | attack too far away(target: player, reach: 1.339, max: 0.0, positions: 15/16, tk: 4, prep: true) | vl:0(+0) ping:180 tps:20.0 component: hb.reach ver: 1.20.X
+(07:10:38) Starbrightfall24 failed HitBox check | missed hitbox(target: player, positions: 15, all: 16, tk: 4, prep: true) | vl:0(+0) ping:180 tps:20.0 component: hb.mis ver: 1.20.X
+(07:10:38) Starbrightfall24 failed HitBox check | attack too far away(target: player, reach: 2.362, max: 0.0, positions: 15/16, tk: 4, prep: true) | vl:0(+0) ping:180 tps:20.0 component: hb.reach ver: 1.20.X
+(07:10:39) THEKNQ failed HitBox check | attack too far away(target: player, reach: 0.434, max: 0.0, positions: 12/16, tk: 6, prep: true) | vl:0(+0) ping:254 tps:20.0 component: hb.reach ver: 1.19.x
+(07:10:39) Starbrightfall24 failed HitBox check | attack too far away(target: player, reach: 0.358, max: 0.0, positions: 15/16, tk: 4, prep: true) | vl:0(+0) ping:180 tps:20.0 component: hb.reach ver: 1.20.X
+(07:10:39) THEKNQ failed Move check | unexpected vertical movement (motion: 0.333/-0.075, hor: 0.213, buffer: 1.226/false, ground: -,-, setback: +, vel: VA:0.333125, from: 97.252, past: 0.003, p_tags: , tags: en_coll,air_bst,air_mdf)() | vl:10(+5) ping:254 tps:20.0 component: move.vert ver: 1.19.x
+(07:10:40) THEKNQ failed Move check | unexpected vertical movement (motion: 0.0/0.248, hor: 0.02, buffer: 1.35/false, ground: -,-, setback: -, vel: VA:0.333125, from: 96.0, past: 0.333, p_tags: en_coll,air_bst,air_mdf,force_setback, tags: )() | vl:15(+5) ping:254 tps:20.0 component: move.vert ver: 1.19.x
+(07:10:40) Starbrightfall24 failed HitBox check | attack too far away(target: player, reach: 1.5, max: 0.0, positions: 9/16, tk: 4, prep: true) | vl:0(+0) ping:180 tps:20.0 component: hb.reach ver: 1.20.X
+(07:10:40) THEKNQ failed HitBox check | attack too far away(target: player, reach: 0.384, max: 0.0, positions: 21/16, tk: 6, prep: true) | vl:0(+0) ping:254 tps:20.0 component: hb.reach ver: 1.19.x
+(07:10:41) Starbrightfall24 failed HitBox check | attack too far away(target: player, reach: 3.711, max: 0.0, positions: 15/16, tk: 4, prep: true) | vl:0(+0) ping:180 tps:20.0 component: hb.reach ver: 1.20.X
+(07:10:41) THEKNQ failed HitBox check | attack too far away(target: player, reach: 1.931, max: 0.0, positions: 9/16, tk: 6, prep: true) | vl:0(+0) ping:254 tps:20.0 component: hb.reach ver: 1.19.x
+(07:10:41) Starbrightfall24 failed HitBox check | attack too far away(target: player, reach: 0.471, max: 0.0, positions: 15/16, tk: 4, prep: true) | vl:0(+0) ping:180 tps:20.0 component: hb.reach ver: 1.20.X
+(07:10:41) THEKNQ failed HitBox check | attack too far away(target: player, reach: 2.016, max: 0.0, positions: 18/16, tk: 6, prep: true) | vl:0(+0) ping:254 tps:20.0 component: hb.reach ver: 1.19.x
+(07:10:42) Starbrightfall24 failed HitBox check | attack too far away(target: player, reach: 3.562, max: 0.0, positions: 15/16, tk: 4, prep: true) | vl:0(+0) ping:180 tps:20.0 component: hb.reach ver: 1.20.X
+(07:10:42) THEKNQ failed HitBox check | attack too far away(target: player, reach: 1.437, max: 0.0, positions: 15/16, tk: 5, prep: true) | vl:0(+0) ping:200 tps:20.0 component: hb.reach ver: 1.19.x
+(07:10:42) Starbrightfall24 failed HitBox check | attack too far away(target: player, reach: 0.446, max: 0.0, positions: 15/16, tk: 4, prep: true) | vl:0(+0) ping:178 tps:20.0 component: hb.reach ver: 1.20.X
+(07:10:43) THEKNQ failed HitBox check | missed hitbox(target: player, positions: 18, all: 16, tk: 5, prep: true) | vl:0(+0) ping:200 tps:20.0 component: hb.mis ver: 1.19.x
+(07:10:43) THEKNQ failed HitBox check | attack too far away(target: player, reach: 2.577, max: 0.0, positions: 18/16, tk: 5, prep: true) | vl:0(+0) ping:200 tps:20.0 component: hb.reach ver: 1.19.x
+(07:10:44) THEKNQ failed HitBox check | attack too far away(target: player, reach: 0.235, max: 0.0, positions: 18/16, tk: 5, prep: true) | vl:0(+0) ping:200 tps:20.0 component: hb.reach ver: 1.19.x
+(07:10:44) Starbrightfall24 failed HitBox check | attack too far away(target: player, reach: 0.141, max: 0.0, positions: 15/16, tk: 4, prep: true) | vl:0(+0) ping:178 tps:20.0 component: hb.reach ver: 1.20.X
+(07:10:45) THEKNQ failed Velocity check | (respond) ignore server velocity: 0.189,0.400,-0.037() | vl:5(+5) ping:200 tps:20.0 component: vel.expect ver: 1.19.x
+(07:10:45) THEKNQ failed HitBox check | attack too far away(target: player, reach: 0.881, max: 0.0, positions: 18/16, tk: 5, prep: true) | vl:0(+0) ping:200 tps:20.0 component: hb.reach ver: 1.19.x
+(07:10:48) Starbrightfall24 failed HitBox check | attack too far away(target: player, reach: 4.213, max: 0.0, positions: 15/16, tk: 4, prep: true) | vl:0(+0) ping:180 tps:20.0 component: hb.reach ver: 1.20.X
+(07:10:53) Starbrightfall24 failed HitBox check | attack too far away(target: player, reach: 1.738, max: 0.0, positions: 9/16, tk: 4, prep: true) | vl:0(+0) ping:179 tps:20.0 component: hb.reach ver: 1.20.X
+(07:10:54) Starbrightfall24 failed HitBox check | attack too far away(target: player, reach: 1.079, max: 0.0, positions: 12/16, tk: 4, prep: true) | vl:0(+0) ping:179 tps:20.0 component: hb.reach ver: 1.20.X
+(07:10:55) Starbrightfall24 failed HitBox check | attack too far away(target: player, reach: 1.074, max: 0.0, positions: 15/16, tk: 4, prep: true) | vl:0(+0) ping:179 tps:20.0 component: hb.reach ver: 1.20.X
+(07:10:55) Starbrightfall24 failed HitBox check | attack too far away(target: player, reach: 1.602, max: 0.0, positions: 15/16, tk: 4, prep: true) | vl:0(+0) ping:179 tps:20.0 component: hb.reach ver: 1.20.X
+(07:10:56) Starbrightfall24 failed HitBox check | attack too far away(target: player, reach: 2.473, max: 0.0, positions: 18/16, tk: 4, prep: true) | vl:0(+0) ping:179 tps:20.0 component: hb.reach ver: 1.20.X
+(07:10:56) Starbrightfall24 failed HitBox check | attack too far away(target: player, reach: 1.396, max: 0.0, positions: 15/16, tk: 4, prep: true) | vl:0(+0) ping:179 tps:20.0 component: hb.reach ver: 1.20.X
+(07:11:03) Starbrightfall24 failed HitBox check | attack too far away(target: player, reach: 0.159, max: 0.0, positions: 15/16, tk: 4, prep: true) | vl:0(+0) ping:179 tps:20.0 component: hb.reach ver: 1.20.X
+(07:11:04) Starbrightfall24 failed HitBox check | attack too far away(target: player, reach: 2.09, max: 0.0, positions: 15/16, tk: 4, prep: true) | vl:0(+0) ping:179 tps:20.0 component: hb.reach ver: 1.20.X
+(07:11:05) Starbrightfall24 failed HitBox check | attack too far away(target: player, reach: 0.606, max: 0.0, positions: 18/16, tk: 4, prep: true) | vl:0(+0) ping:179 tps:20.0 component: hb.reach ver: 1.20.X
+(07:11:06) Starbrightfall24 failed HitBox check | attack too far away(target: player, reach: 2.259, max: 0.0, positions: 15/16, tk: 4, prep: true) | vl:0(+0) ping:179 tps:20.0 component: hb.reach ver: 1.20.X
+(07:11:07) THEKNQ failed HitBox check | attack too far away(target: player, reach: 2.28, max: 0.0, positions: 18/16, tk: 5, prep: true) | vl:0(+0) ping:223 tps:20.0 component: hb.reach ver: 1.19.x
+(07:11:07) Starbrightfall24 failed HitBox check | attack too far away(target: player, reach: 1.464, max: 0.0, positions: 12/16, tk: 4, prep: true) | vl:0(+0) ping:181 tps:20.0 component: hb.reach ver: 1.20.X
+(07:11:08) Starbrightfall24 failed HitBox check | missed hitbox(target: player, positions: 15, all: 16, tk: 4, prep: true) | vl:0(+0) ping:181 tps:20.0 component: hb.mis ver: 1.20.X
+(07:11:08) THEKNQ failed HitBox check | attack too far away(target: player, reach: 3.673, max: 0.0, positions: 18/16, tk: 5, prep: true) | vl:0(+0) ping:212 tps:20.0 component: hb.reach ver: 1.19.x
+(07:11:09) THEKNQ failed HitBox check | missed hitbox(target: player, positions: 18, all: 16, tk: 5, prep: true) | vl:0(+0) ping:212 tps:20.0 component: hb.mis ver: 1.19.x
+(07:11:10) Starbrightfall24 failed HitBox check | attack too far away(target: player, reach: 2.443, max: 0.0, positions: 15/16, tk: 4, prep: true) | vl:0(+0) ping:181 tps:20.0 component: hb.reach ver: 1.20.X
+(07:11:11) Starbrightfall24 failed HitBox check | attack too far away(target: player, reach: 1.072, max: 0.0, positions: 15/16, tk: 4, prep: true) | vl:0(+0) ping:181 tps:20.0 component: hb.reach ver: 1.20.X
+(07:11:12) THEKNQ failed HitBox check | attack too far away(target: player, reach: 0.945, max: 0.0, positions: 18/16, tk: 5, prep: true) | vl:0(+0) ping:212 tps:20.0 component: hb.reach ver: 1.19.x
+(07:11:12) Starbrightfall24 failed HitBox check | missed hitbox(target: player, positions: 15, all: 16, tk: 4, prep: true) | vl:0(+0) ping:178 tps:20.0 component: hb.mis ver: 1.20.X
+(07:11:12) THEKNQ failed Move check | unexpected vertical movement (motion: 0.165/-0.152, hor: 0.272, buffer: 0.951/false, ground: -,-, setback: +, vel: VA:0.4, VA:0.16475, from: 97.177, past: -0.075, p_tags: , tags: air_bst,air_mdf)() | vl:20(+5) ping:266 tps:20.0 component: move.vert ver: 1.19.x
+(07:11:12) THEKNQ failed Move check | unexpected horizontal movement (motion: 0.272/0.25, buffer: 1.167/false, vet: 0.165, vec: 0.141, ground: -,-, spr: -, add: 0.026, past: -0.075,0.155, fr: 0.6, setback: +, vel: VA:0.4, VA:0.16475, from: 97.177, rv: 0.165, ptags: , tags: air_bst,air_mdf,hor_bst)() | vl:25(+5) ping:266 tps:20.0 component: move.hor ver: 1.19.x
+(07:11:13) Starbrightfall24 failed HitBox check | attack too far away(target: player, reach: 0.286, max: 0.0, positions: 15/16, tk: 4, prep: true) | vl:0(+0) ping:178 tps:20.0 component: hb.reach ver: 1.20.X
+(07:11:13) Starbrightfall24 failed HitBox check | missed hitbox(target: player, positions: 18, all: 16, tk: 4, prep: true) | vl:0(+0) ping:178 tps:20.0 component: hb.mis ver: 1.20.X
+(07:11:14) Starbrightfall24 failed HitBox check | missed hitbox(target: player, positions: 12, all: 16, tk: 4, prep: true) | vl:0(+0) ping:178 tps:20.0 component: hb.mis ver: 1.20.X
+(07:11:15) THEKNQ failed HitBox check | missed hitbox(target: player, positions: 21, all: 16, tk: 6, prep: true) | vl:0(+0) ping:266 tps:20.0 component: hb.mis ver: 1.19.x
+(07:11:19) Starbrightfall24 failed HitBox check | attack too far away(target: player, reach: 1.6, max: 0.0, positions: 15/16, tk: 4, prep: true) | vl:0(+0) ping:178 tps:20.0 component: hb.reach ver: 1.20.X
+(07:11:20) THEKNQ failed HitBox check | missed hitbox(target: player, positions: 18, all: 16, tk: 5, prep: true) | vl:0(+0) ping:212 tps:20.0 component: hb.mis ver: 1.19.x
+(07:11:20) Starbrightfall24 failed HitBox check | missed hitbox(target: player, positions: 15, all: 16, tk: 4, prep: true) | vl:0(+0) ping:178 tps:20.0 component: hb.mis ver: 1.20.X
+(07:11:21) Starbrightfall24 failed HitBox check | attack too far away(target: player, reach: 0.741, max: 0.0, positions: 15/16, tk: 4, prep: true) | vl:0(+0) ping:178 tps:20.0 component: hb.reach ver: 1.20.X
+(07:11:22) Starbrightfall24 failed HitBox check | attack too far away(target: player, reach: 2.611, max: 0.0, positions: 6/16, tk: 4, prep: true) | vl:0(+0) ping:172 tps:20.0 component: hb.reach ver: 1.20.X
+(07:11:28) Starbrightfall24 failed HitBox check | missed hitbox(target: player, positions: 15, all: 16, tk: 4, prep: true) | vl:0(+0) ping:181 tps:20.0 component: hb.mis ver: 1.20.X
+(07:11:30) Starbrightfall24 failed HitBox check | attack too far away(target: player, reach: 0.026, max: 0.0, positions: 15/16, tk: 4, prep: true) | vl:0(+0) ping:181 tps:20.0 component: hb.reach ver: 1.20.X
+(07:11:31) THEKNQ failed Move check | strafe (s: 0.256, d: 0.034)() | vl:30(+5) ping:193 tps:20.0 component: move.stf ver: 1.19.x
+(07:11:31) THEKNQ failed Move check | unexpected horizontal movement (motion: 0.264/0.259, buffer: 0.164/false, vet: -0.155, vec: 0.233, ground: -,-, spr: -, add: 0.026, past: -0.078,0.256, fr: 0.6, setback: +, vel: VA:0.16475, from: 96.346, rv: 0.165, ptags: , tags: hor_bst)() | vl:35(+5) ping:193 tps:20.0 component: move.hor ver: 1.19.x
+(07:11:31) Starbrightfall24 failed HitBox check | attack too far away(target: player, reach: 0.664, max: 0.0, positions: 12/16, tk: 4, prep: true) | vl:0(+0) ping:181 tps:20.0 component: hb.reach ver: 1.20.X
+(07:11:33) THEKNQ failed HitBox check | attack too far away(target: player, reach: 0.595, max: 0.0, positions: 18/16, tk: 5, prep: true) | vl:0(+0) ping:235 tps:20.0 component: hb.reach ver: 1.19.x
+(07:11:33) Starbrightfall24 failed HitBox check | attack too far away(target: player, reach: 0.018, max: 0.0, positions: 21/16, tk: 5, prep: true) | vl:0(+0) ping:216 tps:20.0 component: hb.reach ver: 1.20.X
+(07:11:33) Starbrightfall24 failed HitBox check | missed hitbox(target: player, positions: 18, all: 16, tk: 5, prep: true) | vl:0(+0) ping:216 tps:20.0 component: hb.mis ver: 1.20.X
+(07:11:33) THEKNQ failed HitBox check | attack too far away(target: player, reach: 1.094, max: 0.0, positions: 18/16, tk: 5, prep: true) | vl:0(+0) ping:235 tps:20.0 component: hb.reach ver: 1.19.x
+(07:11:34) Starbrightfall24 failed HitBox check | attack too far away(target: player, reach: 0.107, max: 0.0, positions: 15/16, tk: 5, prep: true) | vl:0(+0) ping:216 tps:20.0 component: hb.reach ver: 1.20.X
+(07:11:34) THEKNQ failed HitBox check | attack too far away(target: player, reach: 0.145, max: 0.0, positions: 18/16, tk: 5, prep: true) | vl:0(+0) ping:235 tps:20.0 component: hb.reach ver: 1.19.x
+(07:11:35) Starbrightfall24 failed HitBox check | missed hitbox(target: player, positions: 15, all: 16, tk: 5, prep: true) | vl:0(+0) ping:216 tps:20.0 component: hb.mis ver: 1.20.X
+(07:11:35) THEKNQ failed HitBox check | attack too far away(target: player, reach: 1.407, max: 0.0, positions: 18/16, tk: 5, prep: true) | vl:0(+0) ping:235 tps:20.0 component: hb.reach ver: 1.19.x
+(07:11:35) Starbrightfall24 failed HitBox check | attack too far away(target: player, reach: 1.448, max: 0.0, positions: 3/16, tk: 5, prep: false) | vl:0(+0) ping:216 tps:20.0 component: hb.reach ver: 1.20.X
+(07:11:36) Starbrightfall24 failed HitBox check | attack too far away(target: player, reach: 1.448, max: 0.0, positions: 3/16, tk: 5, prep: false) | vl:0(+0) ping:216 tps:20.0 component: hb.reach ver: 1.20.X
+(07:11:36) Starbrightfall24 failed HitBox check | attack too far away(target: player, reach: 1.448, max: 0.0, positions: 3/16, tk: 5, prep: false) | vl:0(+0) ping:216 tps:20.0 component: hb.reach ver: 1.20.X
+(07:11:37) Starbrightfall24 failed HitBox check | attack too far away(target: player, reach: 1.448, max: 0.0, positions: 3/16, tk: 4, prep: true) | vl:0(+0) ping:178 tps:20.0 component: hb.reach ver: 1.20.X
+(07:11:38) Starbrightfall24 failed HitBox check | attack too far away(target: player, reach: 1.858, max: 0.0, positions: 3/16, tk: 4, prep: true) | vl:0(+0) ping:178 tps:20.0 component: hb.reach ver: 1.20.X
+(07:11:38) Starbrightfall24 failed HitBox check | attack too far away(target: player, reach: 2.703, max: 0.0, positions: 3/16, tk: 4, prep: true) | vl:0(+0) ping:178 tps:20.0 component: hb.reach ver: 1.20.X
+(09:25:13) Matrix Enabled! Version: 7.7.2A

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 38.137.28.102
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712473956093
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712474061498
+  login: 1712473923791
+money: '0'
+last-account-name: InsaneDevil_
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.47720776118581
+  y: 178.0
+  z: -7.616036759039975
+  yaw: 88.01306915283203
+  pitch: -12.733499526977539
+logoutlocation:
+  world: 33a34951-efe1-4473-ab9e-cae292dfe960
+  world-name: world
+  x: 1035.3836645064764
+  y: 170.0
+  z: 2067.942461335727
+  yaw: 90.35152435302734
+  pitch: 32.386810302734375

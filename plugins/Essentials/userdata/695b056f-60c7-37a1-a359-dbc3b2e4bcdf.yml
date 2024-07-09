@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 152.59.90.110
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716110366537
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716110440789
+  login: 1716109653686
+money: '0'
+last-account-name: Jatinbhai123
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -42.42407804923858
+  y: 178.0
+  z: -8.300000011920929
+  yaw: 5.5264739990234375
+  pitch: -2.2384538650512695
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.63931455451485
+  y: 178.0
+  z: -11.296266005533925
+  yaw: 133.3970947265625
+  pitch: 25.642005920410156

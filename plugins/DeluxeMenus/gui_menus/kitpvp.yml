@@ -1,0 +1,56 @@
+#  A DeluxeMenus advanced configuration guide
+#=========================================================
+menu_title: 'KitPvP'
+open_command:
+  - kitpvp
+size: 27
+# as always, only cool people can open this menu :)
+items:
+  'FisherManKit':
+    material: FISHING_ROD
+    slot: 11
+    priority: 1
+    update: true
+    hide_attributes: true
+    display_name: '&a&lFisherManKit'
+    lore:
+      - ''
+      - '&7Click To Join KitPvP Arena'
+      - ''
+    left_click_commands:
+      - '[console] eclear %player_name% **'
+      - '[console] playerkits:kit give FisherManKit %player_name%'
+      - '[console] heal %player_name%'
+      - '[console] ewarp KitPvP %player_name%'
+  'Medas':
+    material: GOLDEN_HELMET
+    slot: 13
+    priority: 1
+    update: true
+    hide_attributes: true
+    display_name: '&6&lMEDASKIT'
+    lore:
+      - ''
+      - '&7Click To Join KitPvP Arena'
+      - ''
+    left_click_commands:
+      - '[console] eclear %player_name% **'
+      - '[console] playerkits:kit give MedasKit %player_name%'
+      - '[console] heal %player_name%'
+      - '[console] ewarp KitPvP %player_name%'
+  'Weaken':
+    material: NETHERITE_SWORD
+    slot: 15
+    priority: 1
+    update: true
+    hide_attributes: true
+    display_name: '&b&lWEAKEN KIT'
+    lore:
+      - ''
+      - '&7Click To Join KitPvP Arena'
+      - ''
+    left_click_commands:
+      - '[console] eclear %player_name% **'
+      - '[console] playerkits:kit give WeakenKit %player_name%'
+      - '[console] heal %player_name%'
+      - '[console] ewarp KitPvP %player_name%'

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 117.235.10.167
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712651494575
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712651499293
+  login: 1712651434474
+money: '0'
+last-account-name: Navkaran
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -38.108790897909536
+  y: 178.0
+  z: -1.317412096047662
+  yaw: 93.13275146484375
+  pitch: -0.12484085559844971
+logoutlocation:
+  world: 33a34951-efe1-4473-ab9e-cae292dfe960
+  world-name: world
+  x: -122.32413346588068
+  y: 52.0
+  z: 147.23937361649962
+  yaw: -117.09922790527344
+  pitch: -12.42664909362793

@@ -1,0 +1,63 @@
+command /spawn:
+
+    usage: &c/spawn
+
+    trigger:
+
+        set {_loc} to location of block at player
+
+        play sound "entity.enderman.teleport" to player
+
+        loop 5 times:
+
+            play sound "entity.enderman.teleport" to player
+
+            ActionBar(player, "&aTeleporting in &a%6-loop-value% Seconds..")
+
+            if {_loc} is not location of block at player:
+
+                play sound "item.shield.break" to player
+
+                ActionBar(player, "&4Teleportation cancelled, You moved!")
+
+                stop
+
+            wait 1 second
+
+        teleport player to {spawn}
+
+        play sound "entity.player.levelup" to player
+
+        ActionBar(player, "&aYou have been teleported to spawn.")
+
+        execute console command "/spawnitems give %player%"        
+        execute console command "/spawnitems %player%"
+        if player has permission "op":
+
+            play sound "entity.player.levelup" to player
+
+            play sound "entity.enderman.teleport" to player
+
+            play sound "entity.player.levelup" to player
+
+            teleport player to {spawn}
+
+command /setspawn:
+
+    usage: &c/setspawn
+
+    permission: op
+
+    permission message: &cYou hudo not have permission for that command
+
+    trigger:
+
+        set {spawn} to player's location
+
+        play sound "entity.player.levelup" to player
+
+        ActionBar(player, "&aYou've successfully set the spawn location.")
+
+function ActionBar(p: player, text: string):
+
+    send action bar {_text} to {_p}

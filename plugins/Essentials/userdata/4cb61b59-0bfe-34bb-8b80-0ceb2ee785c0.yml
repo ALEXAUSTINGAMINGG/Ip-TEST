@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 111.88.158.192
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712583492821
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712583560775
+  login: 1712581202820
+money: '0'
+last-account-name: DARK_WARRIOR_224
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.373006828767245
+  y: 178.0
+  z: -7.316780341185772
+  yaw: 103.60405731201172
+  pitch: 0.7245973944664001
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -20.265769394772562
+  y: 178.0
+  z: -8.323321314070471
+  yaw: 119.15632629394531
+  pitch: -1.239891529083252

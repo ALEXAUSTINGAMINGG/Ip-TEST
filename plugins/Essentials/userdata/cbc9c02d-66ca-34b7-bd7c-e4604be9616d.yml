@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 115.186.189.61
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712558637592
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712558748897
+  login: 1712558270741
+money: '0'
+last-account-name: uladhka
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.20621934029184
+  y: 178.0
+  z: -8.144657461037527
+  yaw: 69.86312103271484
+  pitch: -2.383493423461914
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -27.25592742533966
+  y: 178.0
+  z: -7.2001715467266765
+  yaw: 29.66309356689453
+  pitch: 55.06650924682617

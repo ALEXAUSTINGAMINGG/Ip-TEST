@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 106.211.56.47
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712629009614
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712629668516
+  login: 1712628997913
+money: '0'
+last-account-name: gojo169
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -38.8081600557622
+  y: 178.0
+  z: -2.452443591200069
+  yaw: 27.055639266967773
+  pitch: -10.31309700012207
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -39.073835706934624
+  y: 178.0
+  z: -10.253462530878988
+  yaw: 139.76480102539062
+  pitch: 29.231386184692383

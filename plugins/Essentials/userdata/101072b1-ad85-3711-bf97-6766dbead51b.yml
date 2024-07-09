@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 152.58.157.122
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712573013721
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712574227226
+  login: 1712573688071
+money: '0'
+last-account-name: aDoraemon
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -42.59940254474733
+  y: 178.0
+  z: -4.581620358772023
+  yaw: -96.4617919921875
+  pitch: 42.11650848388672
+logoutlocation:
+  world: fd2a2c6a-eda5-4f74-8350-27f0fde897c2
+  world-name: duels
+  x: 27.963570037602036
+  y: 92.49520087700593
+  z: 235.4634336364006
+  yaw: -69.04473876953125
+  pitch: 28.935422897338867

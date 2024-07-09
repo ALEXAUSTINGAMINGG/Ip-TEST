@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.184.172.32
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712583579671
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712583883901
+  login: 1712582860520
+money: '0'
+last-account-name: Leagec
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -39.31641039264708
+  y: 178.0
+  z: -0.013768821898988027
+  yaw: 167.11309814453125
+  pitch: -7.319631576538086
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -43.479239071136796
+  y: 179.02442408821366
+  z: 0.006118840107236845
+  yaw: 0.11287669837474823
+  pitch: 6.466458797454834

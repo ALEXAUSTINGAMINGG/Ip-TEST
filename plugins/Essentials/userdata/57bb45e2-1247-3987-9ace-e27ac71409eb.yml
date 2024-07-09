@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 27.100.13.124
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716051185787
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716051262139
+  login: 1716051123586
+money: '0'
+last-account-name: SlayerHarsh
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -39.16564779169152
+  y: 178.0
+  z: -4.709859591343606
+  yaw: 81.66849517822266
+  pitch: 2.938068389892578
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -19.5
+  y: 179.1661093609382
+  z: -7.5
+  yaw: 94.68858337402344
+  pitch: 23.17403793334961

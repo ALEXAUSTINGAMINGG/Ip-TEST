@@ -1,0 +1,172 @@
+####################################################################################################
+# +----------------------------------------------------------------------------------------------+ #
+# |                                      _         _   _   ___       _                           | #
+# |                             _ __   /_\  _ __ | |_(_) / __\ ___ | |_                          | #
+# |                            | '_ \ //_\\| '_ \| __| |/__\/// _ \| __|                         | #
+# |                            | | | /  _  \ | | | |_| / \/  \ (_) | |_                          | #
+# |                            |_| |_\_/ \_/_| |_|\__|_\_____/\___/ \__|                         | #
+# |                                                                                              | #
+# |                               Un plugin Antibot pronto all'uso                               | #
+# |                                                                                              | #
+# |                                © 2022 - Offerto da nickuc.com                                | #
+# |                                                                                              | #
+# |                                                                                              | #
+# |  Le nuove opzioni non vengono aggiunte automaticamente in questo file.                       | #
+# |  Vengono utilizzati i valori predefiniti se non viene trovata un'opzione.                    | #
+# |                                                                                              | #
+# |  Translators:                                                                                | #
+# |   - @Tokyocia                                                                                | #
+# +----------------------------------------------------------------------------------------------+ #
+####################################################################################################
+
+other:
+  title: "&c&lNANTIBOT"
+  chat-prefix: "&4&lNANTIBOT &e» &7"
+  attack-started: "&7È stato avviato un attacco bot..."
+
+  ongoing-attack:
+    - ""
+    - " &cUn attacco è stato mitigato da nAntiBot"
+    - ""
+    - "  &c■ &7Tipo di attacco: &f{0}"
+    - "  &c■ &7Inizio dell'attaccok: &f{1}"
+    - ""
+    - " &e➣ &7Usa &f'/ab notify' &7per maggiori informazioni."
+    - ""
+
+  finalized-attack:
+    - ""
+    - " &cUn attacco è stato mitigato da nAntiBot"
+    - ""
+    - "  &c■ &7Tipo di attacco: &f{0}"
+    - ""
+    - "  &c■ &7Connessioni bloccate: &f{3}"
+    - "  &c■ &7Picco di connessione: &f{4}"
+    - ""
+    - "  &c■ &7Inizio dell'attacco: &f{1}"
+    - "  &c■ &7Fine dell'attacco: &f{2}"
+    - ""
+
+command:
+  insufficient-permission: "&cSiamo spiacenti, ma non hai il permesso &8(&e{0}&8) &cper eseguire questo comando."
+  reload: "&aImpostazioni ricaricate."
+  usage: "&cUso: /{0}"
+  unknown-address: "&cSiamo spiacenti, ma questo indirizzo IP non esiste."
+
+actionbar:
+  active: "&a&l%animation% &6nAntiBot &3> %status% &3| &7entata/e %join_sec%  &7Ping/s %ping_sec%  &7CPS %cps%  &7Total &f%total%  &7Captcha: &f%captcha_check%  &7Cloud: &f%cloud_check%  &7Malloc &f≃ %mem_alloc% &3| &a⬆ &f%output% &c⬇ &f%input%"
+  inactive: "&a&l%animation% &6nAntiBot &3> %status% &3| &7entata/e %join_sec%  &7Ping/s %ping_sec%  &7Captcha: &f%captcha_check%  &7Malloc &f≃ %mem_alloc% &3| &a⬆ &f%output% &c⬇ &f%input%"
+
+captcha:
+  invalid: "&cHai inserito un codice non valido, riprova."
+
+  join:
+    title: "&a&lBENVENUTO!"
+    subtitle: "&fInserisci il codice nella chat."
+    chat: []
+
+  solved:
+    title: "&a&lOK!"
+    subtitle: "&fPer favore rientra nel server."
+
+  kick:
+    timeout:
+      - "&cHai impiegato troppo tempo per risolvere il captcha."
+      - ""
+      - "&ePer favore rientra nel server."
+
+    many-tries:
+      - "&cHai inserito troppe volte un codice captcha errato."
+      - ""
+      - "&ePer favore rientra nel server."
+
+    solved:
+      - "&aCaptcha risolto con successo!"
+      - ""
+      - "&ePer favore rientra nel server."
+
+kick:
+  awaiting-cloud:
+    - "&c&lANTIBOT"
+    - ""
+    - "&cIn attesa di connessione al servizio cloud."
+    - ""
+    - "&eAttendi qualche secondo e rientra di nuovo."
+
+  awaiting-captcha:
+    - "&c&lANTIBOT"
+    - ""
+    - "&cIn attesa di generazione del captcha."
+    - ""
+    - "&eAttendi qualche secondo e rientra di nuovo."
+
+  attack-started:
+    - "&c&lANTIBOT"
+    - ""
+    - "&cUn attacco bot è stato avviato pochi istanti fa."
+    - ""
+    - "&ePer favore rientra nel server."
+
+  invalid-nickname:
+    - "&c&lANTIBOT"
+    - ""
+    - "&cSiamo spiacenti, ma il tuo nickname non è valido."
+    - ""
+    - "&eIn caso di problemi, prova a controllare il nickname che hai inserito."
+
+  fast-join:
+    - "&c&lANTIBOT"
+    - ""
+    - "&cSei entrato troppo velocemente."
+    - ""
+    - "&eAttendi qualche secondo e rientra di nuovo."
+
+  too-many-joins:
+    - "&c&lANTIBOT"
+    - ""
+    - "&cHai effettuato l'accesso molte volte."
+    - ""
+    - "&eAttendi qualche secondo e rientra di nuovo."
+
+  address-limit:
+    - "&c&lANTIBOT"
+    - ""
+    - "&cHai superato il limite di account connessi per IP."
+
+  checking:
+    - "&c&lANTIBOT"
+    - ""
+    - "&cSei in fase di controllo, attendi."
+
+  country-block:
+    - "&c&lANTIBOT"
+    - ""
+    - "&cIl tuo paese non è consentito sul server."
+
+  online-verification:
+    - "&c&lANTIBOT"
+    - ""
+    - "&cÈ necessario confermare la tua identità."
+    - ""
+    - "&cVai su &b{0} &ce inserisci il codice &b{1}"
+    - "&cper confermare il tuo accesso."
+    - ""
+    - "&eSarai in grado di accedere immediatamente dopo averlo fatto."
+
+  temporary-ban:
+    - "&c&lANTIBOT"
+    - ""
+    - "&cSei stato temporaneamente bannato dall'antibot!"
+    - ""
+    - "&cTempo rimasto: &f{0} secondi"
+    - ""
+    - "&cMotivo:"
+    - "&e'{1}'"
+
+  temporary-ban-less:
+    - "&c&lANTIBOT"
+    - ""
+    - "&cSei stato temporaneamente bannato dall'antibot!"
+    - ""
+    - "&cMotivo:"
+    - "&e'{0}'"

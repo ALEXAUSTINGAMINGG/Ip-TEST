@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.43.153.216
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712569001071
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712569169575
+  login: 1712568922472
+money: '0'
+last-account-name: TecMcpe
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -6.479831731326983
+  y: 176.0
+  z: -9.800341484511828
+  yaw: -101.36935424804688
+  pitch: 26.807537078857422
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -39.09644231580276
+  y: 178.0
+  z: -2.47055759921434
+  yaw: 36.1181640625
+  pitch: -14.985611915588379

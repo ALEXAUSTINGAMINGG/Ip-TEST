@@ -1,0 +1,5 @@
+# messages.yml
+# Re-start the server to make this file take change!
+
+deathMessagesEnabled: "&aDeath messages are now enabled!"
+deathMessagesDisabled: "&cDeath messages are now disabled!"

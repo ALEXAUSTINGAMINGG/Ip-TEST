@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.124.251.111
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712590882720
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712653465178
+  login: 1712652698474
+money: '0'
+last-account-name: Rayan424
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -35.730958188542374
+  y: 179.0
+  z: 0.0357239906759789
+  yaw: -54.57989501953125
+  pitch: 38.06882095336914
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -11.193410754168623
+  y: 177.0
+  z: -11.214175683132511
+  yaw: -102.9139404296875
+  pitch: 36.278663635253906

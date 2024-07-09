@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.36.211.112
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716046558837
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716046682639
+  login: 1716046337686
+money: '0'
+last-account-name: Quwterii
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -39.921956491129414
+  y: 178.0
+  z: -5.542246755750306
+  yaw: 58.76275634765625
+  pitch: -0.1499910056591034
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -24.663755394494668
+  y: 178.0
+  z: -6.821094358557367
+  yaw: 45.56310272216797
+  pitch: 10.666501998901367

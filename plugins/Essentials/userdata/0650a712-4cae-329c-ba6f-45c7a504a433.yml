@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 150.107.107.40
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712552181592
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712552362345
+  login: 1712551550391
+money: '0'
+last-account-name: Dipesh_gaming
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -39.68167154845795
+  y: 178.0
+  z: -4.444344999429674
+  yaw: 95.0631103515625
+  pitch: 1.0665016174316406
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -33.534766993575346
+  y: 178.0
+  z: -6.845266288683287
+  yaw: 122.8130874633789
+  pitch: 7.366508483886719

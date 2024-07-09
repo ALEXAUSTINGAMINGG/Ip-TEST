@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.153.110.108
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716046870836
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716047050689
+  login: 1716044880036
+money: '0'
+last-account-name: aXerrox
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.57704608592945
+  y: 178.0
+  z: -8.003295708639182
+  yaw: 79.13628387451172
+  pitch: 5.0004143714904785
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -36.2996902203617
+  y: 178.0
+  z: -12.051274140354717
+  yaw: -18.8502197265625
+  pitch: 32.21895980834961

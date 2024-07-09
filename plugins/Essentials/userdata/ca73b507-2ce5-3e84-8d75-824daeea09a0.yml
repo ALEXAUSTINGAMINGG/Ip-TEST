@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 119.63.138.247
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716066123187
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716066635687
+  login: 1716066081586
+money: '0'
+last-account-name: Entity1574
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -38.69999998807907
+  y: 178.0
+  z: -1.4670603540618592
+  yaw: 94.03482055664062
+  pitch: -5.480747699737549
+logoutlocation:
+  world: 33a34951-efe1-4473-ab9e-cae292dfe960
+  world-name: world
+  x: -153.67380232140098
+  y: 52.0
+  z: 71.69999998807907
+  yaw: -56.089599609375
+  pitch: 10.887288093566895

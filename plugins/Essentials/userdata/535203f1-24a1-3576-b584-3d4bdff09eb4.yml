@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.50.158.131
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712508497775
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712508519429
+  login: 1712508452574
+money: '0'
+last-account-name: RO7BUL
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.82791720056575
+  y: 179.0
+  z: -4.11685065028329
+  yaw: 127.32257843017578
+  pitch: 28.136478424072266
+logoutlocation:
+  world: 33a34951-efe1-4473-ab9e-cae292dfe960
+  world-name: world
+  x: -1572.3289793608233
+  y: 193.0
+  z: 1640.300000011921
+  yaw: -115.06736755371094
+  pitch: 25.2119197845459

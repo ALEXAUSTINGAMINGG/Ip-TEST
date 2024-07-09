@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 175.107.205.15
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712588837171
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712589006324
+  login: 1712588777570
+money: '0'
+last-account-name: NotProfessor_
+logoutlocation:
+  world: fd2a2c6a-eda5-4f74-8350-27f0fde897c2
+  world-name: duels
+  x: 452.3431802117566
+  y: 93.0
+  z: 358.8087093521683
+  yaw: 105.56597900390625
+  pitch: 9.30003833770752
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.2739313482734
+  y: 178.0
+  z: -7.21702681201782
+  yaw: 103.91310119628906
+  pitch: 2.2665011882781982

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.235.164.115
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712577780220
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712577843724
+  login: 1712573253170
+money: '0'
+last-account-name: Samfy
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.205072011637284
+  y: 178.0
+  z: -7.700178231322214
+  yaw: 82.62005615234375
+  pitch: -10.208491325378418
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.25163293964567
+  y: 178.0
+  z: -13.072418788660823
+  yaw: 20.482349395751953
+  pitch: -5.944889068603516

@@ -1,0 +1,30 @@
+name: helper
+permissions:
+- ajleaderboards.dontupdate.*
+- deluxemenus.open
+- duels.duel
+- duels.queue
+- duels.toggle
+- duels.use
+- essentials.msg
+- essentials.mute
+- essentials.mute.exempt
+- essentials.spawn
+- essentials.spawn-on-join
+- jumppads.use
+- minecraft.command.msg
+- minecraft.command.op:
+    value: false
+- p1.use
+- permission.one
+- permission.two
+- sternalboard.toggle
+- weight.1
+- weight.41
+- weight.70
+parents:
+- default
+- famous
+prefixes:
+- '&#20ff26&lH&#2cff3b&lE&#38ff51&lL&#43ff66&lP&#4fff7c&lE&#5bff91&lR &f':
+    priority: 41

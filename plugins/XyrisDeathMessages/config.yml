@@ -1,0 +1,11 @@
+# Available Placeholders
+
+# %victim%
+# %attacker_health%
+# %attacker%
+
+
+
+death_messages:
+  custom:
+  - '&7☠ ➟ &a%victim% &7was killed by &a🗡 &a%attacker%'

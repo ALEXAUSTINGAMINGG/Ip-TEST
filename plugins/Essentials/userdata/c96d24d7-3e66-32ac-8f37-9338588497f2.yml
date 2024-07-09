@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.36.136.155
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712587529122
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712587637075
+  login: 1712585282070
+money: '0'
+last-account-name: AdBoss
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.32044515552312
+  y: 178.0
+  z: -8.292961120734354
+  yaw: 50.46633529663086
+  pitch: 14.682279586791992
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -19.063027735119807
+  y: 178.0
+  z: -7.684240524995518
+  yaw: 97.40719604492188
+  pitch: 17.876483917236328

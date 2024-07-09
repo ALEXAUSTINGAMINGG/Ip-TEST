@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 223.238.196.153
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716099231436
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716099272689
+  login: 1716099133036
+money: '0'
+last-account-name: THUNDER_G0D__
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -36.2533184674506
+  y: 179.0
+  z: 0.3272157400085192
+  yaw: 54.3411750793457
+  pitch: 3.2359442710876465
+logoutlocation:
+  world: 33a34951-efe1-4473-ab9e-cae292dfe960
+  world-name: world
+  x: -2966.247211983913
+  y: 187.0
+  z: 943.8148909249728
+  yaw: 179.45751953125
+  pitch: 50.60193634033203

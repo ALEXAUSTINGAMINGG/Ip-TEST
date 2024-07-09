@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 27.34.64.117
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712583491520
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712583665727
+  login: 1712582740520
+money: '0'
+last-account-name: princexdgod
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.19668474782545
+  y: 178.0
+  z: -8.523570242748782
+  yaw: 55.31319046020508
+  pitch: -15.28350830078125
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -19.93103887133245
+  y: 178.0
+  z: -13.41845043182095
+  yaw: -25.2369384765625
+  pitch: 14.566503524780273

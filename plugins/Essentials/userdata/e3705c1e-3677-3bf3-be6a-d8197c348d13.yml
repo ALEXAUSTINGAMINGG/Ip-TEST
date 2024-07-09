@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 42.110.138.225
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712506895026
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712507690579
+  login: 1712506794274
+money: '0'
+last-account-name: Rajlegendx
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -38.75831071833445
+  y: 178.0
+  z: -2.9392995288063903
+  yaw: 25.417816162109375
+  pitch: 0.5589041709899902
+logoutlocation:
+  world: fd2a2c6a-eda5-4f74-8350-27f0fde897c2
+  world-name: duels
+  x: -1.7952204525119606
+  y: 106.6448267333267
+  z: 267.61457282753247
+  yaw: 19.66778564453125
+  pitch: 45.719539642333984

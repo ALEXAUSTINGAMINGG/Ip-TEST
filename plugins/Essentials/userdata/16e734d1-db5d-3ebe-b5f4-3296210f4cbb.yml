@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.43.96.79
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712600939971
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712600960018
+  login: 1712600460870
+money: '0'
+last-account-name: NUNU_BHAI
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -39.494086908073
+  y: 178.0
+  z: -3.5616754403548705
+  yaw: 109.16311645507812
+  pitch: 13.966501235961914
+logoutlocation:
+  world: 33a34951-efe1-4473-ab9e-cae292dfe960
+  world-name: world
+  x: -1551.751948199625
+  y: 177.0
+  z: 1644.0130280880612
+  yaw: 177.0167999267578
+  pitch: 17.85000228881836

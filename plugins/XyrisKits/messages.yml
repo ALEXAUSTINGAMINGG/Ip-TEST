@@ -1,0 +1,89 @@
+# a3f06efb-3cf4-43e5-b6cb-01c16e2c38cb
+
+# Welcome to the messages config of Xyris Kits.
+
+# Make sure to read the instructions below to learn how to edit messages, use hex, gradients, or disable them!
+# If you have any questions, check the comments first, and then feel free to join our Discord and ask: https://xyris.fun/devs!
+
+# Happy configuring!
+
+# Made by Darkxx (Xyris Plugins) with ❤️
+
+
+# Additional messages can be added, for example:
+# - "&eUse the command &f/kiteditor save &7to save the kit."
+# - "&eUse the command &f/kiteditor leave &7to exit the kit editor."
+# - ""
+# - "&cMy new messages!"
+
+# Support for Hex & Gradient colors.
+# Hex Example:
+# - "<SOLID:FF0080>Open your inventory and &frearrange&7 the items."
+# Gradient Example:
+# - "<GRADIENT:2C08BA>Use the command /kiteditor save to save the kit.</GRADIENT:028A97>"
+
+# Use "NONE" to disable the message.
+
+editing-kit:
+  start:
+    - ""
+    - "&f&lYou're now editing a kit"
+    - ""
+    - "&7Open your inventory and &frearrange&7 the items."
+    - ""
+    - "&7Use the command &f/kiteditor save &7to save the kit."
+    - "&7Use the command &f/kiteditor reset &7to reset the kit."
+    - "&7Use the command &f/kiteditor leave &7to exit the kit editor."
+    - ""
+
+# Use "NONE" to disable the message.
+
+KitGiveSender: "&aSuccessfully gave kit <GRADIENT:00ff1e>%kit%</GRADIENT:00ff62> &ato <GRADIENT:00ff1e>%player%</GRADIENT:00ff62>"
+KitGiveReceiver: "&aYou have been given <GRADIENT:00ff1e>%kit%</GRADIENT:00ff62> &akit by <GRADIENT:00ff1e>%sender%</GRADIENT:00ff62>"
+
+# Message for /kits.claim cooldown!
+
+CooldownRemainingMessage: "&cYou still have a cooldown for this kit, Remaining time %time%"
+
+# Messages for ActionBar during kit editing
+# You need to restart the server to apply the changes (only for KitEditActionBarMessages)
+KitEditActionBarMessages:
+  - "&aXyris Kits"
+  - "<GRADIENT:00ff1e>My gradient message!</GRADIENT:00ff62>"
+  - "<SOLID:FF0080>My message!"
+# Add more messages as needed...
+
+
+# You can use "NONE" to disable a title/subtitle/message
+# Example:
+# KitSaveTitle: "<GRADIENT:04ff00>Kit Saved</GRADIENT:00ff5e>"
+# KitSaveSubtitle: "NONE"
+# KitSaveMessage: "NONE"
+
+# This will only send the title, it will not send the message and subtitle to the player!
+
+KitSaveTitle: "<GRADIENT:04ff00>Kit Saved</GRADIENT:00ff5e>"
+KitSaveSubtitle: "&fXyris Kits"
+KitSaveMessage: "&aYour custom kit layout has been saved!"
+
+KitEditorLeaveTitle: "<GRADIENT:ff0000>Kit Editor Left</GRADIENT:ff5100>"
+KitEditorLeaveSubtitle: "&fXyris Kits"
+KitEditorLeaveMessage: "&cYou left kit editor!"
+
+ResetKitTitle: "<GRADIENT:FB9D00>Kit Reseted</GRADIENT:FD6A23>"
+ResetKitSubtitle: "&fXyris Kits"
+ResetKitMessage: "&aYour kit has been replaced with the default kit!"
+
+KitNotFoundTitle: "<SOLID:FF1414>Whoopsie!"
+KitNotFoundSubtitle: "&fDefault Kit Not Found"
+KitNotFoundMessage: "&cKit not found!"
+
+
+NotEditingModeTitle: "<SOLID:FF1414>Whoopsie!"
+NotEditingModeSubtitle: "&fYou're not in kit editing mode"
+NotEditingModeMessage: "&cYou are not in kit editor!"
+
+EnderPearlDeniedTitle: "<SOLID:FF1414>Whoopsie!"
+EnderPearlDeniedSubtitle: "&fYou cannot use an ender pearl here"
+
+# Oh, you're here. Have you finished configuring? Simply save the file and execute the command /kits.reload in-game. This will update all the messages.

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 182.191.37.181
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712610301214
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712610488615
+  login: 1712610291263
+money: '0'
+last-account-name: GODSPIDER12
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -38.65859943870092
+  y: 178.0
+  z: -4.57999808390979
+  yaw: 88.01310729980469
+  pitch: -3.283500909805298
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -37.055052181099015
+  y: 178.0
+  z: -5.664704926652771
+  yaw: 75.26310729980469
+  pitch: 8.266502380371094

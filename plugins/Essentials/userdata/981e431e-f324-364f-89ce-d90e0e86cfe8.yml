@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 27.34.67.92
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712565245470
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712586800926
+  login: 1712586682520
+money: '0'
+last-account-name: ANGRY_INSANE
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.69999998807907
+  y: 178.0
+  z: -10.930325134145649
+  yaw: 73.30233764648438
+  pitch: -4.356301784515381
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -39.60602082573441
+  y: 178.0
+  z: -6.563504674342359
+  yaw: 15.8245849609375
+  pitch: 7.496108055114746

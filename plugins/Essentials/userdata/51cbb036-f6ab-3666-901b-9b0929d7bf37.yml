@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.169.64.17
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712587308721
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712587697425
+  login: 1712586384870
+money: '0'
+last-account-name: NOVAAA
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -38.697349672451175
+  y: 178.0
+  z: -1.8504886713200084
+  yaw: 70.06029510498047
+  pitch: 15.988011360168457
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.52093297506715
+  y: 178.0
+  z: -9.79802625029217
+  yaw: 125.5945816040039
+  pitch: 2.307124376296997

@@ -1,0 +1,152 @@
+#  A DeluxeMenus advanced configuration guide
+#=========================================================
+menu_title: 'Extras'
+open_command:
+  - extras
+size: 27
+# as always, only cool people can open this menu :)
+items:
+  'UHC':
+    material: LAVA_BUCKET
+    slot: 9
+    priority: 1
+    update: true
+    hide_attributes: true
+    display_name: '&6&lBuildUhc'
+    lore:
+      - ''
+      - '&7Click To Join BuildUhc Arena'
+      - ''
+    left_click_commands:
+      - '[console] eclear %player_name% **'
+      - '[console] playerkits:kit give UHC %player_name%'
+      - '[console] heal %player_name%'
+      - '[console] ewarp UHC %player_name%'
+  'bedboom':
+    material: LIGHT_BLUE_BED
+    slot: 10
+    priority: 1
+    update: true
+    hide_attributes: true
+    display_name: '&b&lBedBoom'
+    lore:
+      - ''
+      - '&7Click To Join BedBoom Arena'
+      - ''
+    left_click_commands:
+      - '[console] eclear %player_name% **'
+      - '[console] playerkits:kit give bedpvp %player_name%'
+      - '[console] heal %player_name%'
+      - '[console] ewarp BedBoom %player_name%'
+  'smp':
+    material: SHIELD
+    slot: 11
+    priority: 1
+    update: true
+    hide_attributes: true
+    display_name: '&c&lSMP KIT'
+    lore:
+      - ''
+      - '&7Click To Join SmpKit Arena'
+      - ''
+    left_click_commands:
+      - '[console] eclear %player_name% **'
+      - '[console] playerkits:kit give SmpKit %player_name%'
+      - '[console] heal %player_name%'
+      - '[console] ewarp SmpKit %player_name%'
+  'bowpvp':
+    material: BOW
+    slot: 12
+    priority: 1
+    update: true
+    hide_attributes: true
+    display_name: '&5&lBOW PVP'
+    lore:
+      - ''
+      - '&7Click To Join BowPvP Arena'
+      - ''
+    left_click_commands:
+      - '[console] eclear %player_name% **'
+      - '[console] playerkits:kit give BowPvP %player_name%'
+      - '[console] heal %player_name%'
+      - '[console] ewarp BowPvP %player_name%'
+  'axe':
+    material: DIAMOND_AXE
+    slot: 13
+    priority: 1
+    update: true
+    hide_attributes: true
+    display_name: '&9&lAXE PVP'
+    lore:
+      - ''
+      - '&7Click To Join SmpKit Arena'
+      - ''
+    left_click_commands:
+      - '[console] eclear %player_name% **'
+      - '[console] playerkits:kit give Axe %player_name%'
+      - '[console] heal %player_name%'
+      - '[console] ewarp Axe %player_name%'
+  'op':
+    material: GOLDEN_APPLE
+    slot: 14
+    priority: 1
+    update: true
+    hide_attributes: true
+    display_name: '&6&lOP DUELS'
+    lore:
+      - ''
+      - '&7Click To Join OpDuels Arena'
+      - ''
+    left_click_commands:
+      - '[console] eclear %player_name% **'
+      - '[console] playerkits:kit give OpDuels %player_name%'
+      - '[console] heal %player_name%'
+      - '[console] ewarp OpDuels %player_name%'
+  'cart':
+    material: TNT_MINECART
+    slot: 15
+    priority: 1
+    update: true
+    hide_attributes: true
+    display_name: '&c&lCART PVP'
+    lore:
+      - ''
+      - '&7Click To Join CartPvP Arena'
+      - ''
+    left_click_commands:
+      - '[console] eclear %player_name% **'
+      - '[console] playerkits:kit give Cart %player_name%'
+      - '[console] heal %player_name%'
+      - '[console] ewarp CartPvP %player_name%'
+  'elytra':
+    material: ELYTRA
+    slot: 16
+    priority: 1
+    update: true
+    hide_attributes: true
+    display_name: '&b&lElytra PvP'
+    lore:
+      - ''
+      - '&7Click To Join Elytra PvP Arena'
+      - ''
+    left_click_commands:
+      - '[console] eclear %player_name% **'
+      - '[console] playerkits:kit give ElytraPvP %player_name%'
+      - '[console] heal %player_name%'
+      - '[console] ewarp ElytraPvP %player_name%'
+  'manhunt':
+    material: COBWEB
+    slot: 17
+    priority: 1
+    update: true
+    hide_attributes: true
+    display_name: '&c&lManhunt'
+    lore:
+      - ''
+      - '&7Click To Join Manhunt Arena'
+      - ''
+    left_click_commands:
+      - '[console] eclear %player_name% **'
+      - '[console] playerkits:kit give Manhunt %player_name%'
+      - '[console] heal %player_name%'
+      - '[console] ewarp Manhunt %player_name%'

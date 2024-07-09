@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 39.43.45.47
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712606956014
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712607069772
+  login: 1712606868213
+money: '0'
+last-account-name: FASIALI32
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.53447688769478
+  y: 178.0
+  z: -3.8891391047868065
+  yaw: 110.75746154785156
+  pitch: -24.043540954589844
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -28.802728736677363
+  y: 179.17675927506423
+  z: 2.3910410384146012
+  yaw: 43.3182487487793
+  pitch: 0.10235261917114258

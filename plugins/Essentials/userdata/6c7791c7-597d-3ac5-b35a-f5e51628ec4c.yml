@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.205.44.248
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716038026986
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716041108387
+  login: 1716041062786
+money: '0'
+last-account-name: PRANAY15BOY
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -42.90372040691668
+  y: 179.0
+  z: -7.761722188902805
+  yaw: 56.96306610107422
+  pitch: 39.31652069091797
+logoutlocation:
+  world: fd2a2c6a-eda5-4f74-8350-27f0fde897c2
+  world-name: duels
+  x: 0.0
+  y: 71.0
+  z: 0.0
+  yaw: 0.0
+  pitch: 0.0

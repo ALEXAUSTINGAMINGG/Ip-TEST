@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 110.44.121.34
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712479937144
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712480045551
+  login: 1712479258841
+money: '0'
+last-account-name: yesSpiderpie
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.093154043484375
+  y: 178.0
+  z: -7.704290175065539
+  yaw: 82.6405258178711
+  pitch: -4.553398132324219
+logoutlocation:
+  world: 33a34951-efe1-4473-ab9e-cae292dfe960
+  world-name: world
+  x: -199.73980620076176
+  y: 189.1212968405392
+  z: 457.047190639989
+  yaw: -164.90234375
+  pitch: 23.017833709716797

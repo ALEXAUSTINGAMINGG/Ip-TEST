@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 218.252.31.184
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712547630042
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712547857446
+  login: 1712547352741
+money: '0'
+last-account-name: Bhlite
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.69999998807907
+  y: 178.0
+  z: -7.243820821209604
+  yaw: 120.59251403808594
+  pitch: 5.89884090423584
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -30.693912427804456
+  y: 178.0
+  z: -8.638178539510287
+  yaw: -86.82347106933594
+  pitch: 14.185606002807617

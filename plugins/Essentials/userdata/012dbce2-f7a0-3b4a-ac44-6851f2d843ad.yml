@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.175.103.129
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716101046987
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716101134389
+  login: 1716100343436
+money: '0'
+last-account-name: Straaaight
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -39.81376459405629
+  y: 178.0
+  z: -5.197836326345881
+  yaw: 54.978816986083984
+  pitch: -8.63205337524414
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -47.08009798252499
+  y: 105.4300027140684
+  z: -62.88445855581007
+  yaw: 75.74323272705078
+  pitch: -81.77003479003906

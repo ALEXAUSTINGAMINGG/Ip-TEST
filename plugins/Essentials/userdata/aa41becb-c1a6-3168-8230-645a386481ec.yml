@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 39.55.187.64
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716107021437
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716107045688
+  login: 1716104627536
+money: '0'
+last-account-name: MashhoodGaming
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -37.622067545285866
+  y: 178.0
+  z: -2.5104410203728964
+  yaw: 66.43528747558594
+  pitch: -9.407907485961914
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -28.195006232601582
+  y: 178.0
+  z: -7.590319941025836
+  yaw: 94.64203643798828
+  pitch: 5.031274795532227

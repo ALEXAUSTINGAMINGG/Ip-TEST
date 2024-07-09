@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 14.102.102.209
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712570781471
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712570806228
+  login: 1712570724120
+money: '0'
+last-account-name: DesiPlayzYT
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -39.537209145513266
+  y: 178.0
+  z: -3.922148277910916
+  yaw: 106.01301574707031
+  pitch: -4.333502292633057
+logoutlocation:
+  world: 33a34951-efe1-4473-ab9e-cae292dfe960
+  world-name: world
+  x: -1557.300000011921
+  y: 186.0
+  z: 1632.746656047849
+  yaw: 90.61668395996094
+  pitch: 35.699928283691406

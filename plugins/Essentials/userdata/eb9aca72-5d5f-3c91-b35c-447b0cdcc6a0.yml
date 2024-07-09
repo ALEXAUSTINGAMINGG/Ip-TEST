@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 154.198.77.83
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712564932570
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712565025674
+  login: 1712563821370
+money: '0'
+last-account-name: mirzamahad23
+lastlocation:
+  world: fd2a2c6a-eda5-4f74-8350-27f0fde897c2
+  world-name: duels
+  x: 157.30000001192093
+  y: 103.0
+  z: 143.69999998807907
+  yaw: -143.6836700439453
+  pitch: 4.2356462478637695
+logoutlocation:
+  world: 33a34951-efe1-4473-ab9e-cae292dfe960
+  world-name: world
+  x: -2954.1573358583883
+  y: 185.0
+  z: 881.7870487401965
+  yaw: -22.49730110168457
+  pitch: 14.842336654663086

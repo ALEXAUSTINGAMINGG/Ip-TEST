@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.43.114.244
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716037387087
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716037468438
+  login: 1716037028086
+money: '0'
+last-account-name: EzzZHTX
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.778548069473146
+  y: 178.0
+  z: -2.420089802992448
+  yaw: -69.7113037109375
+  pitch: -17.179946899414062
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -34.40854645923369
+  y: 178.0
+  z: -9.472856969003818
+  yaw: -41.74432373046875
+  pitch: 16.666162490844727

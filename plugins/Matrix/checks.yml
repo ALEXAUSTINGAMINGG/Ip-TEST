@@ -1,0 +1,371 @@
+killaura:
+  enable: true
+  modules:
+    flaw:
+      type_a:
+        enable: true
+        vl: 3
+      type_b:
+        enable: true
+        vl: 10
+      type_c:
+        enable: true
+        vl: 10
+      type_d:
+        enable: true
+        vl: 10
+      type_e:
+        enable: true
+        vl: 5
+    rotation:
+      type_a:
+        enable: true
+        vl: 2
+      type_b:
+        enable: true
+        vl: 2
+    aimbot:
+      vl_weight: 7
+      cancel_hit: true
+      check_aimbot_sync: true
+      check_aimbot_shake: true
+      check_aimbot_snap: true
+      check_aimbot_sensitivity: true
+      check_aimbot_acceleration: true
+      check_aimbot_bad_rotation: true
+    npc:
+      enable: true
+      vl_weight: 5
+      async: true
+      real_entity_id: true
+      only_command_trigger: true
+      visible: true
+      force_random_name: false
+      check_ticks:
+        base: 100
+        attack_add: 20
+        hit_bot_add: 50
+      movement:
+        distance_base: 3.2
+        distance_random_size: 0.75
+        distance_attack_base: 3.0
+        move_up_after_attack: false
+        max_speed: 0.5
+    critical:
+      enable: true
+      vl_weight: 5
+      cancel_attack: true  # Ensure attacks are canceled if detected as critical hits.
+    strafe:
+      enable: true
+      vl_weight: 3
+      cancel_move: true
+    combine:
+      aimbot_with_reach:
+        time: 5000
+        condition:
+          - 'ka.abt.magic'
+          - 'hb.reach'
+          - 'hb.reach'
+        action: 5  # Adjust based on your server's needs.
+  decay:
+    interval: 15
+    amount: 5
+  commands:
+    10: 'matrix npc %player% 100'
+    20: 'matrix notify %player% might be using combat hacks (KillAura)'
+    35: 'matrix notify %player% is using combat hacks (KillAura) #2'
+    45: 'matrix delay 5 matrix kick %player% KillAura'
+click:
+  enable: true
+
+  max_cps: 15
+
+  check_cps: true
+  check_swing: true
+  check_timing: true
+
+  dynamic_cps_vl_weight: true
+
+  buffer_size: 20
+
+  decay:
+    interval: 15
+    amount: 5
+
+  commands:
+    10: 'matrix notify %player% tried to click abnormally (Click) #1'
+    18: 'matrix notify %player% tried to click abnormally (Click) #2'
+    30: 'matrix kick %player% Click Abnormally'
+
+move:
+  enable: true
+
+  check_noslow: true
+
+  check_nofall: true
+
+  cancel_vl: 35
+
+  apply_damage: true
+
+  allow_bpe_bridge: false
+
+  check_flying_players: false
+
+  check_inventory_move: true
+
+  allow_setback_to_void: true
+
+  decay:
+    interval: 10
+    amount: 45
+
+  commands:
+    55: 'matrix notify %player% tried to move abnormally (Move) #1'
+    90: 'matrix notify %player% tried to move abnormally (Move) #2'
+    220: 'matrix kick %player% Move Abnormally'
+
+badpackets:
+  enable: true
+
+  check_air_place: true
+
+  decay:
+    interval: 15
+    amount: 25
+
+  commands:
+    100: 'matrix notify %player% is sending unusual packets to server (BadPackets) #1'
+    150: 'matrix notify %player% is sending unusual packets to server (BadPackets) #2'
+    240: 'matrix kick %player% Sending Unusual Packets'
+
+delay:
+  enable: true
+
+  cancel_action: true
+
+  check_healing: 1
+  check_using_items: 1
+  check_using_bow: 1
+  check_auto_splash: 2
+  check_inventory_action: 1
+  check_auto_totem: 1
+  check_fast_throw: 1
+
+  decay:
+    interval: 15
+    amount: 2
+
+  commands:
+    3: 'matrix notify %player% is tring to speed up actions (Delay) #1'
+    5: 'matrix notify %player% is tring to speed up actions (Delay) #2'
+    10: 'matrix kick %player% Speeding Up Operations'
+
+block:
+  enable: true
+
+  cancel_vl: 5
+
+  modules:
+    fastbreak:
+      enable: true
+      vl_weight: 4
+    fastplace:
+      enable: true
+      vl_weight: 1
+      max_place_per_second: 9
+    noswing:
+      enable: true
+      vl_weight: 1
+    abort:
+      enable: true
+      vl_weight: 0
+
+  decay:
+    interval: 15
+    amount: 8
+
+  commands:
+    10: 'matrix notify %player% tried to place/break a block too quickly (FastPlace/FastBreak)'
+    20: 'matrix kick %player% FastPlace/FastBreak Hacks'
+
+scaffold:
+  enable: true
+
+  cancel_vl: 15
+
+  modules:
+    place:
+      enable: true
+      vl_weight: 7
+      check_jump: true
+
+    delay:
+      enable: true
+      vl_weight: 5
+      cancel_place: true
+      min_delay: 6
+      min_delay_diagonal: 3
+
+    right_cps:
+      enable: true
+      vl_weight: 5
+      max_cps: 29
+
+    tower:
+      enable: true
+      vl_weight: 2
+
+  decay:
+    interval: 15
+    amount: 6
+
+  commands:
+    10: 'matrix notify %player% tried to bridge blocks quickly (Scaffold)'
+    15: 'matrix notify %player% tried to bridge blocks quickly (Scaffold) #2'
+    24: 'matrix kick %player% Scaffold/Tower'
+
+jesus:
+  enable: true
+
+  cancel_vl: 15
+
+  ignore_swim_pose: false
+
+  decay:
+    interval: 10
+    amount: 10
+
+  commands:
+    20: 'matrix notify %player% tried to move illegally in liquid (Jesus)'
+    40: 'matrix notify %player% tried to move illegally in liquid (Jesus) #2'
+    50: 'matrix kick %player% Jesus/WaterSpeed/WaterFly Hacks'
+
+velocity:
+  enable: true
+
+  wait_time: 20
+
+  ignore_lag: true
+
+  modules:
+    respond: 5
+    analyser: 3
+    vertical: 1
+
+  decay:
+    interval: 15
+    amount: 3
+
+  commands:
+    10: 'matrix notify %player% tried to ignore server velocity (Velocity)'
+    15: 'matrix notify %player% tried to ignore server velocity (Velocity) #2'
+    20: 'matrix kick %player% Velocity/Anti-Knockback'
+
+chat:
+  enable: true
+
+  min_time: 3
+
+  cancel_vl: 3
+
+  decay:
+    interval: 30
+    amount: 5
+
+  commands:
+    4: 'matrix notify %player% is spamming the chat (ChatSpam)'
+    10: 'matrix kick %player% Stop spamming the chat!'
+
+interact:
+  enable: true
+
+  mode: "v1"
+
+  strict: false
+
+  check_interact_block: true
+  check_attack: true
+
+  decay:
+    interval: 10
+    amount: 5
+
+  commands:
+    10: 'matrix notify %player% tried to illegally interact with Entity/Block (Interact)'
+    15: 'matrix kick %player% Illegally Interacting with Block/Entity'
+
+phase:
+  enable: true
+
+  freeze_time: 400
+
+  cancel_vl: 5
+
+  exclude_types: []
+
+  decay:
+    interval: 15
+    amount: 10
+
+  commands:
+    7: 'matrix notify %player% is phase into block (Phase)'
+    13: 'matrix notify %player% is phase into block (Phase) #2'
+
+autobot:
+  enable: true
+
+  decay:
+    interval: 15
+    amount: 2
+
+  commands:
+    5: 'matrix notify %player% suspected use of automatic robots (AutoBot)'
+    10: 'matrix notify %player% suspected use of automatic robots (AutoBot) #2'
+    15: 'matrix kick %player% Auto-Bot'
+
+elytra:
+  enable: true
+
+  force_setback: true
+
+  setback_vl: 5
+
+  unequip_vl: 20
+
+  decay:
+    interval: 15
+    amount: 7
+
+  commands:
+    10: 'matrix notify %player% suspected using elytra flight (Elytra)'
+    20: 'matrix notify %player% suspected using elytra flight (Elytra) #2'
+    40: 'matrix kick %player% Elytra Flight'
+
+vehicle:
+  enable: true
+
+  deny_entity_types_as_vehicle:
+    - 'LLAMA'
+
+  speed:
+    enable: true
+
+    setback_vl: 2
+
+  flight:
+    enable: true
+
+    setback_vl: 4
+
+    leave_vehicle: 10
+
+  decay:
+    interval: 15
+    amount: 5
+
+  commands:
+    5: 'matrix notify %player% suspected using vehicle cheat (Vehicle)'
+    10: 'matrix notify %player% suspected using vehicle cheat (Vehicle) #2'
+    17: 'matrix kick %player% Suspicious vehicle movement'
+

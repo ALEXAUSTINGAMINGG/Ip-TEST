@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 115.187.47.47
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712561858170
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712561884374
+  login: 1712561085320
+money: '0'
+last-account-name: pbatgaming
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.087064114736826
+  y: 178.0
+  z: -10.262075394197735
+  yaw: 98.17789459228516
+  pitch: -4.492819309234619
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.87934091964167
+  y: 178.0
+  z: -8.420190331624827
+  yaw: 60.52699279785156
+  pitch: 4.37236213684082

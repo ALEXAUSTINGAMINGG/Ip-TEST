@@ -1,0 +1,247 @@
+command /crystal:
+	trigger:
+		execute player command "dm open Crystal"
+command /cpvp:
+	trigger:
+		execute player command "dm open Crystal"
+command /sword:
+	trigger:
+		execute player command "dm open sword"
+command /extras:
+	trigger:
+		execute player command "dm open extra"
+on command "/kiteditor":
+	send message "&c&lNOTE THIS KIT EDITOR IS ONLY FOR DUELS"
+on command "/scoreboardtoggle":
+	execute console command "/tab scoreboard toggle %player%"
+on death:
+	execute console command "/points give %attacker% 5"
+	execute console command "/points take %victim% 3"
+	send message "&c3&6 Coins Were Taken From You" to victim
+	send message "&a5&6 Coins Were Given To You" to attacker
+command /coinshop:
+	trigger:
+		execute player command "/dm open coinshop"
+on command "/k1":
+    if player is in region "terrainspawn" or "crystalterrain" or "ccacrystal" or "flatspawn" or "crystalflat":
+    else:
+        cancel event
+        send "<##ff0000>You Can Only Use In Crystal Gamemode!"
+on command "/k":
+    if player is in region "terrainspawn" or "crystalterrain" or "ccacrystal" or "flatspawn" or "crystalflat":
+    else:
+        cancel event
+        send "<##ff0000>You Can Only Use In Crystal Gamemode!"
+on command "/kit":
+    if player is in region "terrainspawn" or "crystalterrain" or "ccacrystal" or "flatspawn" or "crystalflat":
+    else:
+        cancel event
+        send "<##ff0000>You Can Only Use In Crystal Gamemode!"
+on command "/kit1":
+    if player is in region "terrainspawn" or "crystalterrain" or "ccacrystal" or "flatspawn" or "crystalflat":
+    else:
+        cancel event
+        send "<##ff0000>You Can Only Use In Crystal Gamemode!"
+on command "/personalkits:k":
+    if player is in region "terrainspawn" or "crystalterrain" or "ccacrystal" or "flatspawn" or "crystalflat":
+    else:
+        cancel event
+        send "<##ff0000>You Can Only Use In Crystal Gamemode!"
+on command "/personalkits:k2":
+    if player is in region "terrainspawn" or "crystalterrain" or "ccacrystal" or "flatspawn" or "crystalflat":
+    else:
+        cancel event
+        send "<##ff0000>You Can Only Use In Crystal Gamemode!"
+on command "/personalkits:k3":
+    if player is in region "terrainspawn" or "crystalterrain" or "ccacrystal" or "flatspawn" or "crystalflat":
+    else:
+        cancel event
+        send "<##ff0000>You Can Only Use In Crystal Gamemode!"
+on command "/kit1":
+    if player is in region "terrainspawn" or "crystalterrain" or "ccacrystal" or "flatspawn" or "crystalflat":
+    else:
+        cancel event
+        send "<##ff0000>You Can Only Use In Crystal Gamemode!"
+on command "/kit2":
+    if player is in region "terrainspawn" or "crystalterrain" or "ccacrystal" or "flatspawn" or "crystalflat":
+    else:
+        cancel event
+        send "<##ff0000>You Can Only Use In Crystal Gamemode!"
+on command "/kit3":
+    if player is in region "terrainspawn" or "crystalterrain" or "ccacrystal" or "flatspawn" or "crystalflat":
+    else:
+        cancel event
+        send "<##ff0000>You Can Only Use In Crystal Gamemode!"
+on command "/k2":
+    if player is in region "terrainspawn" or "crystalterrain" or "ccacrystal" or "flatspawn" or "crystalflat":
+    else:
+        cancel event
+        send "<##ff0000>You Can Only Use In Crystal Gamemode!"
+on command "/k3":
+    if player is in region "terrainspawn" or "crystalterrain" or "ccacrystal" or "flatspawn" or "crystalflat":
+    else:
+        cancel event
+        send "<##ff0000>You Can Only Use In Crystal Gamemode!"
+command /leaderboards:
+	trigger:
+		execute player command "dm open stats"
+command /kitpvp:
+	trigger:
+		execute player command "dm open kitpvp"
+on step on prismarine brick slab:
+	execute console command "/kill %player%"
+on command "/k4":
+    if player is in region "terrainspawn" or "crystalterrain" or "ccacrystal" or "flatspawn" or "crystalflat":
+    else:
+        cancel event
+        send "<##ff0000>You Can Only Use In Crystal Gamemode!"
+on command "/k5":
+    if player is in region "terrainspawn" or "crystalterrain" or "ccacrystal" or "flatspawn" or "crystalflat":
+    else:
+        cancel event
+        send "<##ff0000>You Can Only Use In Crystal Gamemode!"
+on command "/k6":
+    if player is in region "terrainspawn" or "crystalterrain" or "ccacrystal" or "flatspawn" or "crystalflat":
+    else:
+        cancel event
+        send "<##ff0000>You Can Only Use In Crystal Gamemode!"
+on command "/k7":
+    if player is in region "terrainspawn" or "crystalterrain" or "ccacrystal" or "flatspawn" or "crystalflat":
+    else:
+        cancel event
+        send "<##ff0000>You Can Only Use In Crystal Gamemode!"
+on command "/monkeykits:k":
+    if player is in region "terrainspawn" or "crystalterrain" or "ccacrystal" or "flatspawn" or "crystalflat":
+    else:
+        cancel event
+        send "<##ff0000>You Can Only Use In Crystal Gamemode!"
+on command "/monkeykits:k1":
+    if player is in region "terrainspawn" or "crystalterrain" or "ccacrystal" or "flatspawn" or "crystalflat":
+    else:
+        cancel event
+        send "<##ff0000>You Can Only Use In Crystal Gamemode!"
+on command "/monkeykits:k2":
+    if player is in region "terrainspawn" or "crystalterrain" or "ccacrystal" or "flatspawn" or "crystalflat":
+    else:
+        cancel event
+        send "<##ff0000>You Can Only Use In Crystal Gamemode!"
+on command "/monkeykits:k3":
+    if player is in region "terrainspawn" or "crystalterrain" or "ccacrystal" or "flatspawn" or "crystalflat":
+    else:
+        cancel event
+        send "<##ff0000>You Can Only Use In Crystal Gamemode!"
+on command "/monkeykits:k4":
+    if player is in region "terrainspawn" or "crystalterrain" or "ccacrystal" or "flatspawn" or "crystalflat":
+    else:
+        cancel event
+        send "<##ff0000>You Can Only Use In Crystal Gamemode!"
+on command "/monkeykits:k5":
+    if player is in region "terrainspawn" or "crystalterrain" or "ccacrystal" or "flatspawn" or "crystalflat":
+    else:
+        cancel event
+        send "<##ff0000>You Can Only Use In Crystal Gamemode!"
+on command "/monkeykits:k6":
+    if player is in region "terrainspawn" or "crystalterrain" or "ccacrystal" or "flatspawn" or "crystalflat":
+    else:
+        cancel event
+        send "<##ff0000>You Can Only Use In Crystal Gamemode!"
+on command "/monkeykits:k7":
+    if player is in region "terrainspawn" or "crystalterrain" or "ccacrystal" or "flatspawn" or "crystalflat":
+    else:
+        cancel event
+        send "<##ff0000>You Can Only Use In Crystal Gamemode!"
+on command "/monkeykits:k":
+    if player is in region "terrainspawn" or "crystalterrain" or "ccacrystal" or "flatspawn" or "crystalflat":
+    else:
+        cancel event
+        send "<##ff0000>You Can Only Use In Crystal Gamemode!"
+on command "/botduel":
+	cancel event
+	send message "&cYou Cant Use That Command"
+command /title <text> :
+	aliases: /attention, /announce
+	permission: title.announce
+	usage: /title <string>, /attention <string>, /announce <string>
+	trigger:
+		send title "&cAttention" to all players
+		send subtitle " %arg-1% "
+on command "/party bots":
+	cancel event
+	send message "&cUnknown Command" to player
+on command "/party join":
+	if arg-1 is set:
+		if player is in region "spawn":
+	else:
+		cancel event
+		send message "&cYou Can Use This Command Only At Spawn" to player
+on command "/queue":
+	if player is in region "spawn":
+	else:
+		cancel event
+		send message "&cYou Can Use This Command Only At Spawn" to player
+on command "/caacceptcrystal":
+	if player is in world "duels":
+		cancel event 
+		send message "&cCant Execute command while in duel" to player
+on command "/caaccepttank":
+	if player is in world "duels":
+		cancel event 
+		send message "&cCant Execute command while in duel" to player
+on command "/caacceptneth":
+	if player is in world "duels":
+		cancel event 
+		send message "&cCant Execute command while in duel" to player
+on command "/party create":
+	if player is in region "spawn":
+	else:
+		cancel event
+		send message "&cYou Can Use This Command Only At Spawn" to player
+on command "/crystal":
+	if player is in world "duels":
+		cancel event
+		send message "&cCant use here" to player
+on command "/kitpvp":
+	if player is in world "duels":
+		cancel event
+		send message "&cCant use here" to player
+on command "/extras":
+	if player is in world "duels":
+		cancel event
+		send message "&cCant use here" to player
+on command "/potion":
+	if player is in world "duels":
+		cancel event
+		send message "&cCant use here" to player
+on command "/sword":
+	if player is in world "duels":
+		cancel event
+		send message "&cCant use here" to player
+on command "/playerkits:kit give Crystal":
+	if arg-3 is in world "duels":
+		cancel event
+on command "/warp":
+	if arg-2 is set:
+		if player is in world "duels":
+			cancel event
+on command "/eclear":
+	if arg-2 is set:
+		if player is in world "duels":
+			cancel event
+on command "/clear":
+	if arg-2 is set:
+		if player is in world "duels":
+			cancel event
+on command "/warp":
+	if command executed by conosle:
+		if arg-2 is set:
+			if player is in world "duels":
+				cancel event
+on command "/sword":
+	if player is in world "duels":
+		cancel event
+		send message "&cCant use here" to player
+on command "/monkeykits:k5":
+    if player is in region "spawn":
+    else:
+        cancel event
+        send "<##ff0000>Cant use here"

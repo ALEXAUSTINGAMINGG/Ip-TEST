@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.18.10.43
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712624998113
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712625357565
+  login: 1712624606163
+money: '0'
+last-account-name: Captain_Astro
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -36.8566008194288
+  y: 178.0
+  z: -1.6251838148271023
+  yaw: -5.965114593505859
+  pitch: -7.719308376312256
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -23.671313255105556
+  y: 178.0000001
+  z: -5.868029415639849
+  yaw: 42.93798828125
+  pitch: 2.214505195617676

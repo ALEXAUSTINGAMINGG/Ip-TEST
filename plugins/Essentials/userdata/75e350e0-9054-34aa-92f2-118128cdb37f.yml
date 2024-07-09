@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 157.34.255.121
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712591451321
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712591502524
+  login: 1712591410220
+money: '0'
+last-account-name: Faxon_OP
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -38.352595970404515
+  y: 178.0
+  z: -1.947955642713222
+  yaw: 62.821807861328125
+  pitch: -12.669268608093262
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -19.519573835793214
+  y: 178.0
+  z: -7.501012398460563
+  yaw: 92.96310424804688
+  pitch: 3.0165014266967773

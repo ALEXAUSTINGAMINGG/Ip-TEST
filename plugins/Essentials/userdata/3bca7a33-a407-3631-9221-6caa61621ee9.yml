@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.36.144.122
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716029382387
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716029433090
+  login: 1716028897936
+money: '0'
+last-account-name: NotPeterspy_
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -24.472702125267965
+  y: 178.0
+  z: -7.3864722451961216
+  yaw: 85.25807189941406
+  pitch: 9.180510520935059
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -39.68712159831918
+  y: 178.0
+  z: -4.008271627365803
+  yaw: 106.18034362792969
+  pitch: 2.6016108989715576

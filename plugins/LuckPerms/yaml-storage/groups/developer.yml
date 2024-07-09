@@ -1,0 +1,27 @@
+name: developer
+permissions:
+- ajleaderboards.dontupdate.*
+- deluxemenus.open
+- duels.duel
+- duels.queue
+- duels.toggle
+- duels.use
+- essentials.msg
+- essentials.spawn
+- essentials.spawn-on-join
+- jumppads.use
+- minecraft.command.msg
+- minecraft.command.op:
+    value: false
+- p1.use
+- permission.one
+- permission.two
+- sternalboard.toggle
+- weight.1
+- weight.62
+- weight.70
+parents:
+- default
+prefixes:
+- '&#b1f4fb&lD&#bbd6dc&lE&#c4b7bc&lV&#ce999d&lE&#d77a7e&lL&#e15c5e&lO&#ea3d3f&lP&#f41f1f&lE&#fd0000&lR &f':
+    priority: 62

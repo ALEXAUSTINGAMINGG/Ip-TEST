@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 27.34.66.188
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712645753714
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712648663419
+  login: 1712645600963
+money: '0'
+last-account-name: xFreakyYT
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -25.13659281340447
+  y: 178.0
+  z: -5.994979860371101
+  yaw: 92.96310424804688
+  pitch: 3.0165014266967773
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.85294517991848
+  y: 178.0
+  z: -7.927836114810429
+  yaw: 72.74418640136719
+  pitch: -6.525733470916748

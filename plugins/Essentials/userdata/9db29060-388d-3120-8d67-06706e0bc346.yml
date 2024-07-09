@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 143.44.165.42
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712554760343
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712555148595
+  login: 1712553180891
+money: '0'
+last-account-name: TheUnited
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.50434707269962
+  y: 178.0
+  z: -5.912444685903042
+  yaw: -1.3868366479873657
+  pitch: -21.28349494934082
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -31.51726421286607
+  y: 179.0
+  z: -20.088818872304262
+  yaw: 5.813063621520996
+  pitch: 15.916446685791016

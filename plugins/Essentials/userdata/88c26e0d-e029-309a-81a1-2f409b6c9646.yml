@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.240.79.145
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716099587586
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716099936289
+  login: 1716099917186
+money: '0'
+last-account-name: MrBuddy9607
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -35.13502154303432
+  y: 178.0
+  z: -0.868426449071676
+  yaw: 45.121978759765625
+  pitch: -12.689250946044922
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -19.401134324460678
+  y: 178.0
+  z: -7.62934641553537
+  yaw: 92.96310424804688
+  pitch: 3.0165014266967773

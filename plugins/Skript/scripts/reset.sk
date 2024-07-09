@@ -1,0 +1,10 @@
+on every 10 minutes:
+	execute console command "/arenas reset bedpvp extreme"
+	execute console command "/arenas reset crystalflat extreme"
+	execute console command "/arenas reset manhunt extreme"
+	execute console command "/arenas reset crystalterrain extreme"
+	execute console command "/arenas reset lifesteal extreme"
+on every 15 minutes:
+	execute console command "/arenas reset cartpvp extreme"
+	execute console command "/arenas reset uhc extreme"
+	execute console command "/arenas reset cacrystal extreme"

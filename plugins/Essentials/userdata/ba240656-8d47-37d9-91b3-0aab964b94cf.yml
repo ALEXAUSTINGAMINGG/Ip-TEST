@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 152.59.198.83
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716030675337
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716030856390
+  login: 1716030741786
+money: '0'
+last-account-name: _ShAdoW_ErA__
+logoutlocation:
+  world: fd2a2c6a-eda5-4f74-8350-27f0fde897c2
+  world-name: duels
+  x: 53.5
+  y: 97.43633295759611
+  z: 61.5
+  yaw: 131.41400146484375
+  pitch: -28.94381332397461
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -37.92295457435463
+  y: 178.0
+  z: -1.7608444649640216
+  yaw: 43.21295166015625
+  pitch: 7.284979820251465

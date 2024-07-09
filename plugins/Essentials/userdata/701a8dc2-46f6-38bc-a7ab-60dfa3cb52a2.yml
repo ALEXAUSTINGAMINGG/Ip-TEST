@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 157.42.219.164
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712653250475
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712653558278
+  login: 1712652844274
+money: '0'
+last-account-name: Ansh
+logoutlocation:
+  world: fd2a2c6a-eda5-4f74-8350-27f0fde897c2
+  world-name: duels
+  x: 5.398653729603622
+  y: 102.0
+  z: 209.1448990044466
+  yaw: 110.78404998779297
+  pitch: 15.095513343811035
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -39.28693945879373
+  y: 178.0
+  z: -11.454935318731502
+  yaw: 58.3131103515625
+  pitch: 12.016502380371094

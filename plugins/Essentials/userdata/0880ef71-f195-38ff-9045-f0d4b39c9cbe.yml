@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 182.178.147.183
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712603025814
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712603329067
+  login: 1712602953413
+money: '0'
+last-account-name: AcePvper
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.347158666964106
+  y: 178.0
+  z: -9.61226665362976
+  yaw: 175.28076171875
+  pitch: 6.746260643005371
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: 22.803208414541086
+  y: 174.02442408821366
+  z: -23.536736432435813
+  yaw: -16.3702392578125
+  pitch: 35.39789962768555

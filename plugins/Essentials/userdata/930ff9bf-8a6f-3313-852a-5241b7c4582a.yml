@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.144.42.170
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712598803471
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712598836224
+  login: 1712598695720
+money: '0'
+last-account-name: Luffy_joyboy
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.71138574748624
+  y: 178.0
+  z: -7.504474582642673
+  yaw: 94.6131362915039
+  pitch: -12.283495903015137
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -20.1725377830176
+  y: 178.0
+  z: -7.873404034797326
+  yaw: 54.113094329833984
+  pitch: 16.966503143310547

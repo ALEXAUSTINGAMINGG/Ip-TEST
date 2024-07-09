@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 157.39.67.98
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716045647037
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716045883839
+  login: 1716044448736
+money: '0'
+last-account-name: Warrior_is_OG
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.0906040953844
+  y: 178.0
+  z: -6.123183104454296
+  yaw: 16.190914154052734
+  pitch: -8.712616920471191
+logoutlocation:
+  world: fd2a2c6a-eda5-4f74-8350-27f0fde897c2
+  world-name: duels
+  x: -14.251989245767195
+  y: 95.0
+  z: 64.67472564599069
+  yaw: 116.80718994140625
+  pitch: 19.56035614013672

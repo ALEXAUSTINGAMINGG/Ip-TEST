@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.178.78.192
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712582981271
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712583021975
+  login: 1712582819170
+money: '0'
+last-account-name: KhuzaimaPlayss
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -37.83331379022849
+  y: 178.0
+  z: -1.1554318182392807
+  yaw: 65.15554809570312
+  pitch: -15.856812477111816
+logoutlocation:
+  world: 33a34951-efe1-4473-ab9e-cae292dfe960
+  world-name: world
+  x: -148.69999998807907
+  y: 52.0
+  z: 114.52548353389265
+  yaw: -26.3216552734375
+  pitch: 4.56715726852417

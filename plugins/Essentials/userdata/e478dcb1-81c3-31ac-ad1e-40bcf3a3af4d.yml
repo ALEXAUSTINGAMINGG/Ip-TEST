@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 157.35.6.104
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716028950887
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716029283991
+  login: 1716028284786
+money: '0'
+last-account-name: EVILGOKU115
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -39.42488772723877
+  y: 178.0
+  z: -5.227299812705211
+  yaw: 73.57984924316406
+  pitch: -4.982924461364746
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -23.63388350872183
+  y: 178.0
+  z: -7.238967194249865
+  yaw: 86.50203704833984
+  pitch: 0.09363526105880737

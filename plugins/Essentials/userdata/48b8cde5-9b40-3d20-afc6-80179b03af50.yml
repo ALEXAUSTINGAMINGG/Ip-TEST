@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.161.69.252
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712643035764
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712643424084
+  login: 1712642184663
+money: '0'
+last-account-name: ItzMohidXD123
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.00637335897659
+  y: 178.0
+  z: -8.125482717973894
+  yaw: 69.3089599609375
+  pitch: -11.754308700561523
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.34338923379458
+  y: 178.0
+  z: -7.47775536378457
+  yaw: 89.81307220458984
+  pitch: -0.733504056930542

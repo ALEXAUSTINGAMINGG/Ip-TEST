@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 202.78.232.243
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716109516788
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716112777290
+  login: 1716112452236
+money: '0'
+last-account-name: Nokutiho
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.02220386765712
+  y: 178.0
+  z: -7.189839222621806
+  yaw: 108.47994995117188
+  pitch: -9.712162971496582
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -32.85584329850959
+  y: 179.0
+  z: -19.988117759335143
+  yaw: -117.70852661132812
+  pitch: 13.172745704650879

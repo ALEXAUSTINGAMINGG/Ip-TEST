@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.244.212.135
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712513600075
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712514069697
+  login: 1712512504274
+money: '0'
+last-account-name: Unknown_69
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -37.483579337615204
+  y: 178.0
+  z: -0.9987963928600221
+  yaw: 107.06309509277344
+  pitch: -8.983495712280273
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: 29.668750586680847
+  y: 173.0
+  z: -7.402745527069557
+  yaw: 123.82351684570312
+  pitch: -13.650006294250488

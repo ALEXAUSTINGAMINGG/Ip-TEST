@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 121.91.61.70
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712570555972
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712570703125
+  login: 1712570479270
+money: '0'
+last-account-name: B_vxTer
+logoutlocation:
+  world: 33a34951-efe1-4473-ab9e-cae292dfe960
+  world-name: world
+  x: -142.84625593680386
+  y: 52.0
+  z: 154.5754378782584
+  yaw: -106.54993438720703
+  pitch: 11.7825927734375
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -37.79206935491979
+  y: 178.0
+  z: -1.5636234060790695
+  yaw: 81.18289184570312
+  pitch: -10.348930358886719

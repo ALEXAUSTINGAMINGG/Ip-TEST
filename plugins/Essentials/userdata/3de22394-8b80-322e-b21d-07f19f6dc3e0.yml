@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 106.200.103.209
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712645461514
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712646093169
+  login: 1712643653013
+money: '0'
+last-account-name: SGJayGamerz
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -37.74389167304032
+  y: 178.0
+  z: -7.1513914280368125
+  yaw: 88.61307525634766
+  pitch: -0.5834988951683044
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -39.11881942037145
+  y: 178.0
+  z: -3.526732945699754
+  yaw: 12.11297607421875
+  pitch: 4.349985599517822

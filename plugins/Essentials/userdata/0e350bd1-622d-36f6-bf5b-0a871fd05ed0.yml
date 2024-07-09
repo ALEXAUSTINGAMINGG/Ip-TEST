@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 27.56.159.200
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712391274170
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712390945573
+  login: 1712391238718
+money: '0'
+last-account-name: RachitRajytganer
+logoutlocation:
+  world: fd2a2c6a-eda5-4f74-8350-27f0fde897c2
+  world-name: duels
+  x: 117.45329319048217
+  y: 97.0
+  z: 347.6739235756097
+  yaw: -92.19477081298828
+  pitch: 33.54026412963867
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.69814510671734
+  y: 178.0
+  z: -7.077541742713807
+  yaw: 98.25057220458984
+  pitch: -12.485380172729492

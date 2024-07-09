@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 110.235.216.226
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712594541571
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712594587874
+  login: 1712593937770
+money: '0'
+last-account-name: Vividplays
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -38.7778806334576
+  y: 178.0
+  z: -3.7415681170030632
+  yaw: -39.304813385009766
+  pitch: 13.064754486083984
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.36358386312068
+  y: 178.0
+  z: -6.4771730444018205
+  yaw: 128.84991455078125
+  pitch: -8.877362251281738

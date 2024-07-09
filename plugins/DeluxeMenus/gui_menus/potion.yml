@@ -1,0 +1,56 @@
+#  A DeluxeMenus advanced configuration guide
+#=========================================================
+menu_title: 'Potion'
+open_command:
+  - potion
+size: 27
+# as always, only cool people can open this menu :)
+items:
+  'NethPot':
+    material: NETHERITE_SWORD
+    slot: 11
+    priority: 1
+    update: true
+    hide_attributes: true
+    display_name: '&c&lNETHPOT'
+    lore:
+      - ''
+      - '&7Click To Join Nethpot Arena'
+      - ''
+    left_click_commands:
+      - '[console] eclear %player_name% **'
+      - '[console] playerkits:kit give Neth %player_name%'
+      - '[console] heal %player_name%'
+      - '[console] ewarp Nethpot %player_name%'
+  'DiaPot':
+    material: DIAMOND_SWORD
+    slot: 15
+    priority: 1
+    update: true
+    hide_attributes: true
+    display_name: '&b&lDIAPOT'
+    lore:
+      - ''
+      - '&7Click To Join Diapot Arena'
+      - ''
+    left_click_commands:
+      - '[console] eclear %player_name% **'
+      - '[console] playerkits:kit give DiaPot %player_name%'
+      - '[console] heal %player_name%'
+      - '[console] ewarp Diapot %player_name%'
+  'IronPot':
+    material: IRON_SWORD
+    slot: 13
+    priority: 1
+    update: true
+    hide_attributes: true
+    display_name: '&f&lIRONPOT'
+    lore:
+      - ''
+      - '&7Click To Join IronPot Arena'
+      - ''
+    left_click_commands:
+      - '[console] eclear %player_name% **'
+      - '[console] playerkits:kit give IronPot %player_name%'
+      - '[console] heal %player_name%'
+      - '[console] ewarp IronPot %player_name%'

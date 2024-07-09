@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 60.50.197.85
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712642066614
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712642175368
+  login: 1712641991613
+money: '0'
+last-account-name: nutties_nuts
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -38.04162175610754
+  y: 178.0
+  z: -12.880771655297922
+  yaw: -161.2868194580078
+  pitch: -5.9835004806518555
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -39.551742782281615
+  y: 178.0
+  z: -3.8180728765323173
+  yaw: -1.236586332321167
+  pitch: -19.633487701416016

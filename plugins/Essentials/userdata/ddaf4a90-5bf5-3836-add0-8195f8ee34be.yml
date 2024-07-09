@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 14.1.106.97
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712577631471
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712577818546
+  login: 1712576776770
+money: '0'
+last-account-name: RAINBOWSTAR_OP_2
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.29567745477208
+  y: 178.0
+  z: -8.107964104338194
+  yaw: 84.57330322265625
+  pitch: -10.616923332214355
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -30.856219558065984
+  y: 179.2491092609382
+  z: -8.00491445775882
+  yaw: 92.3513412475586
+  pitch: 4.3274078369140625

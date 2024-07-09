@@ -1,0 +1,68 @@
+#Domains, that will end with this ending, will be checked
+#For example:
+#  eu.mineplex.com - Will be checked because "com" is in this option
+#  hypixel.net - Will Not be checked because "net" is Not in this option
+Domain endings:
+- 'com'
+- 'org'
+- 'net'
+- 'us'
+- 'me'
+- 'uk'
+- 'gs'
+- 'to'
+- 'co'
+- 'nl'
+- 'de'
+- 'fi'
+- 'tk'
+- 'ws'
+- 'io'
+- 'gs'
+- 'pro'
+- 'nu'
+- 'lt'
+
+#Commands, that will be launched, when a player AD.
+#Commands needs to be without "/"
+#You would want to include a clear command here to clear the chat
+Punish:
+- 'kick $player Don''t AD!'
+
+#IP, that will not be detected or punished
+#Please enter your server IP, so that players wouldn't be punished for that
+#Also keep in mind, that if you enter only the middle part
+#Example: from eu.mineplex.com only "mineplex"
+#Plugin will detect the IP better and won't punish for it
+Safe ip address:
+- 'mineplex'
+
+#Commands, that will be checked
+#Write commands without "/"
+#If the command is "msg", plugin will detect all variations of that command
+#For example: /minecraft:msg, /essentials:msg
+Check commands:
+- 'msg'
+- 'tell'
+- 'w'
+- 'bc'
+- 'r'
+- 'reply'
+- 'm'
+- 't' 
+
+#Delay actions so that it could be checked by the system
+#Delay can be long, so this option by default is off
+#to not interfear with player experience.
+#When an action is delayed, it will be not displayed
+#to others till the system will finish its check
+Delay:
+  Chat: false
+  Sign: false
+  Book: false
+  Command: false
+
+#The message that will be sent
+#when player action will be delayed
+#and system will detect for potential AD
+Custon delayed message: "&cYour action has been delayed and will be checked for potential AD"

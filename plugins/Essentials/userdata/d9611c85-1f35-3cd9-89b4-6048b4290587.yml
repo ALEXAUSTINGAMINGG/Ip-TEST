@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 27.34.76.192
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716040993587
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716042131406
+  login: 1716039312486
+money: '0'
+last-account-name: _GODOFPRO_
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.33873714838722
+  y: 178.0
+  z: -5.300000011920929
+  yaw: -6.8414740562438965
+  pitch: 31.1197566986084
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -33.23601402940165
+  y: 178.0
+  z: -8.903639541416366
+  yaw: 149.9287109375
+  pitch: -53.79769515991211

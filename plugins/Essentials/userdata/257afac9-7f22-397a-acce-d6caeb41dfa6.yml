@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.211.60.75
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712595092770
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712595480923
+  login: 1712595395870
+money: '0'
+last-account-name: Spider5634
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -42.06477152718508
+  y: 179.0
+  z: -7.090006979174285
+  yaw: 126.57317352294922
+  pitch: 90.0
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.11396838372268
+  y: 178.0
+  z: -7.984125021498271
+  yaw: 88.30426788330078
+  pitch: 6.0114665031433105

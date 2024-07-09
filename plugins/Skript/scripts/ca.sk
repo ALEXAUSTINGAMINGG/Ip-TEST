@@ -1,0 +1,144 @@
+command /canetherite [<player>]:
+    executable by: players
+    trigger: 
+        if player has permission "premium.arena":
+            if arg-1 is not set:
+                teleport player to {caspawn::neth}
+                execute console command "/heal %player%"
+                execute console command "minecraft:clear  %player%"
+                execute console command "kits give neth %player%"
+                send "&6&lCA &8➟ &fYou have been teleported."
+            else:
+                set {carequest::neth::%uuid of arg-1%} to true
+                set {_} to unix timestamp of now
+                set {carequest::neth::%uuid of arg-1%::time} to {_}
+                send "&6&lCA &8➟ &fYou sent Canetherite request to &6%arg-1%"
+                send "&6&lCA &8➟ &6%player%&f invited you to Canetherite!" to arg-1
+                send formatted "<cmd:/caacceptneth>&8[&a&lACCEPT&8]    <cmd:/cadenyneth>&8&8[<##ff0000>&lDENY&8]" to arg-1
+                wait 1 minute
+                {carequest::neth::%uuid of arg-1%::time} is {_}
+                delete {carequest::neth::%uuid of arg-1%}
+        else:
+            send formatted "<##ff0000>You dont have permission!"
+command /caacceptneth:
+    trigger:
+        if {carequest::neth::%uuid of player%} is true:
+            teleport player to {caspawn::neth}
+            execute console command "heal %player%"
+            execute console command "minecraft:clear  %player%"
+            execute console command "kits give neth %player%"
+            delete {carequest::neth::%uuid of player%}
+            send "&6&lCA &8➟ &fYou accepted the request."
+        else:
+            send "&6&lCA &8➟ &fYou don't have a &6CA request!"
+command /cadenyneth:
+    trigger:
+        if {carequest::neth::%uuid of player%} is true:
+            delete {carequest::neth::%uuid of player%}
+            send "&6&lCA &8➟ &fYou denied the request!"
+        else:
+            send "&6&lCA &8➟ &fYou don't have a &6CA request!"
+command /setcanetherite:
+    permission: op
+    trigger:
+        set {caspawn::neth} to location of player
+        send "&6&lCA &8➟ &fSucessfully setted canetherite location!"
+
+
+
+
+
+command /catank [<player>]:
+    executable by: players
+    trigger: 
+        if player has permission "premium.arena":
+            if arg-1 is not set:
+                teleport player to {caspawn::tank}
+                execute console command "/heal %player%"
+                execute console command "minecraft:clear  %player%"
+                execute console command "kits give Beast %player%"
+                send "&6&lCA &8➟ &fYou have been teleported."
+            else:
+                set {carequest::tank::%uuid of arg-1%} to true
+                set {_} to unix timestamp of now
+                set {carequest::tank::%uuid of arg-1%::time} to {_}
+                send "&6&lCA &8➟ &fYou sent Canetherite request to &6%arg-1%"
+                send "&6&lCA &8➟ &6%player%&f invited you to CaTank!" to arg-1
+                send formatted "<cmd:/caaccepttank>&8[&a&lACCEPT&8]    <cmd:/cadenytank>&8&8[<##ff0000>&lDENY&8]" to arg-1
+                wait 1 minute
+                {carequest::tank::%uuid of arg-1%::time} is {_}
+                delete {carequest::tank::%uuid of arg-1%}
+        else:
+            send formatted "<##ff0000>You dont have permission!"
+command /caaccepttank:
+    trigger:
+        if {carequest::tank::%uuid of player%} is true:
+            teleport player to {caspawn::tank}
+            execute console command "heal %player%"
+            execute console command "minecraft:clear  %player%"
+            execute console command "kits give Beast %player%"
+            delete {carequest::tank::%uuid of player%}
+            send "&6&lCA &8➟ &fYou accepted the request."
+        else:
+            send "&6&lCA &8➟ &fYou don't have a &6CA request!"
+command /cadenytank:
+    trigger:
+        if {carequest::tank::%uuid of player%} is true:
+            delete {carequest::tank::%uuid of player%}
+            send "&6&lCA &8➟ &fYou denied the request!"
+        else:
+            send "&6&lCA &8➟ &fYou don't have a &6CA request!"
+command /setcatank:
+    permission: op
+    trigger:
+        set {caspawn::tank} to location of player
+        send "&6&lCA &8➟ &fSucessfully setted canetherite location!"
+
+
+
+
+command /cacrystal [<player>]:
+    executable by: players
+    trigger: 
+        if player has permission "premium.arena":
+            if arg-1 is not set:
+                teleport player to {caspawn::cry}
+                execute console command "/heal %player%"
+                execute console command "minecraft:clear  %player%"
+                execute console command "kits give Crystal %player%"
+                send "&6&lCA &8➟ &fYou have been teleported."
+            else:
+                set {carequest::cry::%uuid of arg-1%} to true
+                set {_} to unix timestamp of now
+                set {carequest::cry::%uuid of arg-1%::time} to {_}
+                send "&6&lCA &8➟ &fYou sent Canetherite request to &6%arg-1%"
+                send "&6&lCA &8➟ &6%player%&f invited you to Canetherite!" to arg-1
+                send formatted "<cmd:/caacceptcrystal>&8[&a&lACCEPT&8]    <cmd:/cadenycrystal>&8&8[<##ff0000>&lDENY&8]" to arg-1
+                wait 1 minute
+                {carequest::cry::%uuid of arg-1%::time} is {_}
+                delete {carequest::cry::%uuid of arg-1%}
+        else:
+            send formatted "<##ff0000>You dont have permission!"
+command /caacceptcrystal:
+    trigger:
+        if {carequest::cry::%uuid of player%} is true:
+            teleport player to {caspawn::cry}
+            execute console command "heal %player%"
+            execute console command "minecraft:clear  %player%"
+            execute console command "kits give Crystal %player%"
+            delete {carequest::cry::%uuid of player%}
+            send "&6&lCA &8➟ &fYou accepted the request."
+        else:
+            send "&6&lCA &8➟ &fYou don't have a &6CA request!"
+command /cadenycrystal:
+    trigger:
+        if {carequest::cry::%uuid of player%} is true:
+            delete {carequest::cry::%uuid of player%}
+            send "&6&lCA &8➟ &fYou denied the request!"
+        else:
+            send "&6&lCA &8➟ &fYou don't have a &6CA request!"
+command /setcacrystal:
+    permission: op
+    trigger:
+        set {caspawn::cry} to location of player
+        send "&6&lCA &8➟ &fSucessfully setted canetherite location!"

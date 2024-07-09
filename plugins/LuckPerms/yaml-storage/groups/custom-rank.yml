@@ -1,0 +1,31 @@
+name: custom-rank
+permissions:
+- essentials.fly:
+    value: true
+    context:
+      world: world
+- ajleaderboards.dontupdate.*
+- deluxemenus.open
+- displayname.XION
+- duels.duel
+- duels.queue
+- duels.toggle
+- duels.use
+- essentials.msg
+- essentials.spawn
+- essentials.spawn-on-join
+- jumppads.use
+- minecraft.command.msg
+- p1.use
+- permission.one
+- permission.two
+- sternalboard.toggle
+- weight.1
+- weight.38
+- weight.70
+parents:
+- deadliest
+- default
+prefixes:
+- '&#ff3939&lX&#d03859&lI&#a23878&lO&#733798&lN &f':
+    priority: 38

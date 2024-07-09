@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 210.89.59.162
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716105114539
+  login: 1716104941186
+money: '0'
+last-account-name: Cha0sXD
+logoutlocation:
+  world: fd2a2c6a-eda5-4f74-8350-27f0fde897c2
+  world-name: duels
+  x: 95.01007398733991
+  y: 100.52795172260502
+  z: 379.4243197374171
+  yaw: 134.75784301757812
+  pitch: 21.583744049072266

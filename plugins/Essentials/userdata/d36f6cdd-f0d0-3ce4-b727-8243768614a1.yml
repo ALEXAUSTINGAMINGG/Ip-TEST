@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.16.29.169
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712651908582
+  login: 1712651440726
+money: '0'
+last-account-name: ERIC_Playz_YT
+logoutlocation:
+  world: fd2a2c6a-eda5-4f74-8350-27f0fde897c2
+  world-name: duels
+  x: 58.30220480127722
+  y: 97.28339547694789
+  z: 360.6711622389859
+  yaw: -131.82823181152344
+  pitch: -0.44917216897010803

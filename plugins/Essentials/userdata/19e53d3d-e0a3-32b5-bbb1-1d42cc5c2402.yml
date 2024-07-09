@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 106.77.30.100
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712571616421
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712572278076
+  login: 1712571222770
+money: '0'
+last-account-name: Ojas_playz
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -24.62688174672633
+  y: 178.0
+  z: -10.343951570530361
+  yaw: 96.38557434082031
+  pitch: 0.7626849412918091
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -37.505144015717654
+  y: 178.0
+  z: -3.2184113245453623
+  yaw: 48.137046813964844
+  pitch: -2.8267221450805664

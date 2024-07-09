@@ -1,0 +1,165 @@
+username: bmwPi7RGlC
+scoreboard-disabled: false
+duel-requests-disabled: false
+hide-other-players: false
+language: english
+stats:
+  brackets: 0
+  kills: 0
+  deaths: 0
+  lms: 0
+  party_vs_party_wins: 0
+  global_elo: 1000
+  sumo_wins: 0
+  juggernaut: 0
+limits-updated: 1710318803692
+rankeds-left: 20
+unrankeds-left: 0
+premium-matches: 0
+cooldowns: []
+custom-kit:
+  ==: BattleKit
+  types: ANY
+  pearl-cooldown: 0
+  best-of: 1
+  no-bestof-rollback: false
+  icon:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEGACY_DIAMOND_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"CUSTOM
+        KIT"}],"text":""}'
+  no-damage: false
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEGACY_AIR
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEGACY_AIR
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEGACY_AIR
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEGACY_AIR
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEGACY_AIR
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEGACY_AIR
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEGACY_AIR
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEGACY_AIR
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEGACY_AIR
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEGACY_AIR
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEGACY_AIR
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEGACY_AIR
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEGACY_AIR
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEGACY_AIR
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEGACY_AIR
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEGACY_AIR
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEGACY_AIR
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEGACY_AIR
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEGACY_AIR
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEGACY_AIR
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEGACY_AIR
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEGACY_AIR
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEGACY_AIR
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEGACY_AIR
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEGACY_AIR
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEGACY_AIR
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEGACY_AIR
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEGACY_AIR
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEGACY_AIR
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEGACY_AIR
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEGACY_AIR
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEGACY_AIR
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEGACY_AIR
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEGACY_AIR
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEGACY_AIR
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEGACY_AIR
+  no-death-countdown: false
+  chestplate:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEGACY_LEATHER_CHESTPLATE
+  helmet:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEGACY_LEATHER_HELMET
+  name: §aCUSTOM KIT
+  boots:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEGACY_LEATHER_BOOTS
+  boxing: false
+  block-disappear: 0
+  leggings:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEGACY_LEATHER_LEGGINGS
+kits: []

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 152.57.96.247
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712507396382
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712507512080
+  login: 1712506833024
+money: '0'
+last-account-name: crazyplays
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.43771417390382
+  y: 179.0
+  z: -4.0793020189651195
+  yaw: -159.90724182128906
+  pitch: -3.7483620643615723
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -45.87785710320518
+  y: 178.0
+  z: -3.288704176092701
+  yaw: 95.6947021484375
+  pitch: 40.345951080322266

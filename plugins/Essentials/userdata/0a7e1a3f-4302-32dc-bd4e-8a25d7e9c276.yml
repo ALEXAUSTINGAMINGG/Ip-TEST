@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.37.145.227
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712477380602
+  login: 1712477364041
+money: '0'
+last-account-name: FluxyBoiiiiiiiii
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -24.43483553063924
+  y: 177.0
+  z: 11.33523724625669
+  yaw: 126.56309509277344
+  pitch: 1.366498589515686

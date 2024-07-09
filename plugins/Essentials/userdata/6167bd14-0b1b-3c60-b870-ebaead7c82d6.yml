@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 182.50.66.146
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712575124371
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712575185725
+  login: 1712575009720
+money: '0'
+last-account-name: Createropx
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.898898890157625
+  y: 178.0
+  z: -7.804798076020335
+  yaw: 76.90754699707031
+  pitch: -13.27868938446045
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -31.246695821083723
+  y: 178.0
+  z: -9.847498532016386
+  yaw: 39.524436950683594
+  pitch: 15.717164993286133

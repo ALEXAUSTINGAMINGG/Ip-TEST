@@ -1,0 +1,75 @@
+open_command: 'coinshop'
+register_command: false
+size: 45
+menu_title: 'Coin Shop'
+
+
+items:
+
+  'filler':
+    material: GRAY_STAINED_GLASS_PANE
+    display_name: "&f"
+    data: 1
+    slots: [0-44]
+
+
+
+  'main':
+    material: SUNFLOWER
+    data: 1
+    slot: 10
+    display_name: "&#ffeb14&lCOINSHOP INFORMATION"
+    lore:
+      - "&8COINSHOP INFORMATION"
+      - ""
+      - "&fYou have &#ffeb14%playerpoints_points_formatted% &fcoins"
+      - ""
+      - "&#ffeb14What are coins?"
+      - "&fCoins are a virtual currency used to"
+      - "&fbuy  ranks."
+      - ""
+      - "&#ffeb14How can I obtain Coins?"
+      - "&fYou can buy coins from our discord or"
+      - "&fkill player to obtain"
+
+  'store':
+    material: MAP
+    data: 1
+    slot: 16
+    display_name: "&9&lDISCORD LINK"
+    lore:
+      - "&8Coinshop Information"
+      - ""
+      - "&fWant to buy coins?"
+      - "&fCheck out the discord!"
+      - ""
+      - "&9&l➥ CLICK FOR DISCORD"
+
+    click_commands:
+      - '[message]  '
+      - '[message]  '
+      - '[message]  '
+      - '[message]  '
+      - '[message] &#8BF8FF➥ &9&lDISCORD'
+      - '[message]  '
+      - '[message]  '
+      - '[close]'
+      
+  'ranks':
+    material: BOOK
+    data: 1
+    slot: 31
+    display_name: "&#FF5E5E&lRANKS"
+    enchantments:
+      - DURABILITY;1
+    hide_enchantments: true
+    lore:
+      - "&8Coinshop Category"
+      - ""
+      - "&fRanks are the best way to"
+      - "&fget perks on the server!"
+      - ""
+      - "&c&l➥ CLICK TO BROWSE"
+
+    click_commands:
+      - '[openmenu] coinshop-ranks'

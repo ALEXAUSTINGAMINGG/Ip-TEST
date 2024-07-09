@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 223.190.82.181
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712570639371
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712571592124
+  login: 1712570595870
+money: '0'
+last-account-name: nightmare12370
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.368718632601706
+  y: 178.0
+  z: -8.280151176382638
+  yaw: 68.61544799804688
+  pitch: -9.68761920928955
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -27.11433906782363
+  y: 178.0
+  z: -8.43561148240651
+  yaw: 103.81043243408203
+  pitch: 17.577342987060547

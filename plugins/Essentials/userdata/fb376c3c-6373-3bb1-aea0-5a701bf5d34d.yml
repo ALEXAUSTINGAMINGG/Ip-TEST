@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.47.135.140
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712644554864
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712645174618
+  login: 1712643679013
+money: '0'
+last-account-name: NotRealSmart
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -38.115765310066124
+  y: 178.0
+  z: -2.880414586234115
+  yaw: 43.85986328125
+  pitch: 4.828690052032471
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -20.41252989310302
+  y: 178.0
+  z: -4.802788771708489
+  yaw: 160.85984802246094
+  pitch: 28.27402114868164

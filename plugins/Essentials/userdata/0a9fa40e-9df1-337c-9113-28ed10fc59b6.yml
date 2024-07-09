@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.171.200.186
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716111715687
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716111427678
+  login: 1716111614086
+money: '0'
+last-account-name: TSC_Tanmay
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.01215775696459
+  y: 178.0
+  z: -6.642152333502678
+  yaw: 118.23294067382812
+  pitch: -13.579389572143555
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -22.89994554206409
+  y: 178.0
+  z: -8.77082901612829
+  yaw: 82.59637451171875
+  pitch: 1.0881527662277222

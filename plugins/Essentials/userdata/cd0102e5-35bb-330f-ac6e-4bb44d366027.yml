@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.71.53.36
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712627996463
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712628010015
+  login: 1712627928613
+money: '0'
+last-account-name: Dark__Playz
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -39.39126939202846
+  y: 178.0
+  z: -9.90998260063439
+  yaw: 110.78068542480469
+  pitch: -8.657098770141602
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -21.888020976931752
+  y: 178.0
+  z: -7.606465282243943
+  yaw: -42.819305419921875
+  pitch: 8.546102523803711

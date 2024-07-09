@@ -1,0 +1,357 @@
+username: spiderbhaiop
+scoreboard-disabled: false
+duel-requests-disabled: false
+hide-other-players: false
+stats:
+  brackets: 0
+  kills: 27
+  deaths: 59
+  lms: 0
+  party_vs_party_wins: 0
+  global_elo: 1000
+  sumo_wins: 0
+  juggernaut: 0
+limits-updated: 1712596226185
+rankeds-left: 20
+unrankeds-left: 0
+premium-matches: 0
+cooldowns: []
+custom-kit:
+  ==: BattleKit
+  types: ANY
+  pearl-cooldown: 0
+  best-of: 1
+  no-bestof-rollback: false
+  icon:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: DIAMOND_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"CUSTOM
+        KIT"}],"text":""}'
+      ItemFlags:
+      - HIDE_ENCHANTS
+      - HIDE_ATTRIBUTES
+      - HIDE_UNBREAKABLE
+      - HIDE_DESTROYS
+      - HIDE_PLACED_ON
+      - HIDE_POTION_EFFECTS
+      - HIDE_DYE
+      - HIDE_ARMOR_TRIM
+  no-damage: false
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: AIR
+    amount: 0
+  no-death-countdown: false
+  chestplate:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEATHER_CHESTPLATE
+  helmet:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEATHER_HELMET
+  name: §aCUSTOM KIT
+  boots:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEATHER_BOOTS
+  boxing: false
+  block-disappear: 0
+  leggings:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LEATHER_LEGGINGS
+kits:
+- ==: BattleKit
+  pearl-cooldown: 0
+  best-of: 1
+  no-bestof-rollback: false
+  no-damage: false
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: DIAMOND_SWORD
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: DIAMOND_AXE
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: COBBLESTONE
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: CROSSBOW
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: SLIME_BLOCK
+    amount: 6
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: COBWEB
+    amount: 2
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: LAVA_BUCKET
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: WATER_BUCKET
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: COOKED_BEEF
+    amount: 20
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: DIAMOND_PICKAXE
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: BOW
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: OAK_BOAT
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: APPLE
+    amount: 2
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: DIAMOND
+    amount: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: FISHING_ROD
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: ANCIENT_DEBRIS
+    amount: 2
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: OAK_PLANKS
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: COBBLESTONE_SLAB
+    amount: 5
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: IRON_INGOT
+    amount: 4
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: GOLD_INGOT
+    amount: 2
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: FLINT_AND_STEEL
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: SPONGE
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: POINTED_DRIPSTONE
+    amount: 2
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: SCAFFOLDING
+    amount: 22
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: OBSIDIAN
+    amount: 2
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: ARROW
+    amount: 14
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: TNT
+    amount: 3
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: DIAMOND_BOOTS
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: IRON_LEGGINGS
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: DIAMOND_CHESTPLATE
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: IRON_HELMET
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: SHIELD
+  no-death-countdown: false
+  chestplate:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: DIAMOND_CHESTPLATE
+  helmet:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: IRON_HELMET
+  name: manhunt
+  boots:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: DIAMOND_BOOTS
+  boxing: false
+  block-disappear: 0
+  leggings:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3337
+    type: IRON_LEGGINGS
+language: english

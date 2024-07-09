@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.203.72.201
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712559368642
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712559557816
+  login: 1712559346891
+money: '0'
+last-account-name: smeerajtr
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.48074027236976
+  y: 178.0
+  z: -5.0081963761738555
+  yaw: 59.65544128417969
+  pitch: -16.053829193115234
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -36.670381579780724
+  y: 178.0
+  z: -10.800635114665464
+  yaw: 165.97906494140625
+  pitch: -33.164886474609375

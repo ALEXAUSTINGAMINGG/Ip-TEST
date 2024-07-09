@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 223.178.211.94
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712510279276
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712510357029
+  login: 1712508605874
+money: '0'
+last-account-name: psycho_monster
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -37.92239798054631
+  y: 178.0
+  z: -2.009651291454661
+  yaw: 72.1131362915039
+  pitch: -0.7334989309310913
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -27.88422126947243
+  y: 178.0
+  z: -6.96898995140377
+  yaw: 87.56312561035156
+  pitch: 15.01650333404541

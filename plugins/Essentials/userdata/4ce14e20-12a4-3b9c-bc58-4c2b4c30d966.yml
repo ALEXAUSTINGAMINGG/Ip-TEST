@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.37.66.134
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712586969871
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712587030125
+  login: 1712586118670
+money: '0'
+last-account-name: ALL_ARE_DEAD
+lastlocation:
+  world: 33a34951-efe1-4473-ab9e-cae292dfe960
+  world-name: world
+  x: 2162.2109086487317
+  y: 189.0
+  z: 3496.610905324327
+  yaw: 81.30056762695312
+  pitch: 29.395376205444336
+logoutlocation:
+  world: 33a34951-efe1-4473-ab9e-cae292dfe960
+  world-name: world
+  x: 84.5
+  y: 95.0
+  z: 4055.5
+  yaw: -140.17141723632812
+  pitch: 4.380507946014404

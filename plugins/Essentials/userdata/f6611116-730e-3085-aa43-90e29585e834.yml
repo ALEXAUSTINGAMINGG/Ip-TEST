@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 182.177.33.104
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712602334216
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712602686667
+  login: 1712602293713
+money: '0'
+last-account-name: BlockyMuhamad
+logoutlocation:
+  world: 33a34951-efe1-4473-ab9e-cae292dfe960
+  world-name: world
+  x: -1539.699999988079
+  y: 177.0
+  z: 1631.699999988079
+  yaw: -131.5282440185547
+  pitch: 85.46784210205078
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.5643383572154
+  y: 179.0
+  z: -4.553281720294106
+  yaw: 79.77196502685547
+  pitch: 8.843341827392578

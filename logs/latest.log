@@ -1,0 +1,820 @@
+[06:47:05] [ServerMain/ERROR]: [DirectoryProviderSource] Error loading plugin: Directory 'plugins/PAPI-Expansion-KDRatio_McA95Sc.jar' failed to load!
+java.lang.RuntimeException: Directory 'plugins/PAPI-Expansion-KDRatio_McA95Sc.jar' failed to load!
+	at io.papermc.paper.plugin.provider.source.FileProviderSource.registerProviders(FileProviderSource.java:59) ~[pufferfish-1.19.4.jar:git-Pufferfish-73]
+	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.lambda$registerProviders$1(DirectoryProviderSource.java:34) ~[pufferfish-1.19.4.jar:git-Pufferfish-73]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:184) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[?:?]
+	at java.util.Iterator.forEachRemaining(Iterator.java:133) ~[?:?]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1939) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:151) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:174) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.registerProviders(DirectoryProviderSource.java:32) ~[pufferfish-1.19.4.jar:git-Pufferfish-73]
+	at io.papermc.paper.plugin.provider.source.DirectoryProviderSource.registerProviders(DirectoryProviderSource.java:14) ~[pufferfish-1.19.4.jar:git-Pufferfish-73]
+	at io.papermc.paper.plugin.util.EntrypointUtil.registerProvidersFromSource(EntrypointUtil.java:14) ~[pufferfish-1.19.4.jar:git-Pufferfish-73]
+	at io.papermc.paper.plugin.PluginInitializerManager.load(PluginInitializerManager.java:100) ~[pufferfish-1.19.4.jar:git-Pufferfish-73]
+	at net.minecraft.server.Main.main(Main.java:126) ~[pufferfish-1.19.4.jar:git-Pufferfish-73]
+	at org.bukkit.craftbukkit.Main.main(Main.java:309) ~[pufferfish-1.19.4.jar:git-Pufferfish-73]
+	at io.papermc.paperclip.Paperclip.lambda$main$0(Paperclip.java:42) ~[app:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: org.bukkit.plugin.InvalidPluginException: java.lang.IllegalArgumentException: plugins/PAPI-Expansion-KDRatio_McA95Sc.jar does not contain a paper-plugin.yml or plugin.yml! Could not determine plugin type, cannot load a plugin from it!
+	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:95) ~[pufferfish-1.19.4.jar:git-Pufferfish-73]
+	at io.papermc.paper.plugin.provider.source.FileProviderSource.registerProviders(FileProviderSource.java:49) ~[pufferfish-1.19.4.jar:git-Pufferfish-73]
+	... 20 more
+Caused by: java.lang.IllegalArgumentException: plugins/PAPI-Expansion-KDRatio_McA95Sc.jar does not contain a paper-plugin.yml or plugin.yml! Could not determine plugin type, cannot load a plugin from it!
+	at io.papermc.paper.plugin.provider.source.FileProviderSource.getPluginName(FileProviderSource.java:104) ~[pufferfish-1.19.4.jar:git-Pufferfish-73]
+	at io.papermc.paper.plugin.provider.source.FileProviderSource.checkUpdate(FileProviderSource.java:76) ~[pufferfish-1.19.4.jar:git-Pufferfish-73]
+	at io.papermc.paper.plugin.provider.source.FileProviderSource.registerProviders(FileProviderSource.java:49) ~[pufferfish-1.19.4.jar:git-Pufferfish-73]
+	... 20 more
+[06:47:09] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[06:47:11] [ServerMain/INFO]: Loaded 7 recipes
+[06:47:11] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[06:47:11] [Server thread/INFO]: Loading properties
+[06:47:11] [Server thread/INFO]: This server is running Pufferfish version git-Pufferfish-73 (MC: 1.19.4) (Implementing API version 1.19.4-R0.1-SNAPSHOT) (Git: cadfa71 on HEAD)
+[06:47:11] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[06:47:11] [Server thread/INFO]: Using 4 threads for Netty based IO
+[06:47:12] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[06:47:12] [Server thread/WARN]: [Pufferfish] Will not enable SIMD! These optimizations are only safely supported on Java 17, Java 18, and Java 19.
+[06:47:12] [Server thread/INFO]: Default game type: SURVIVAL
+[06:47:12] [Server thread/INFO]: Generating keypair
+[06:47:12] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25579
+[06:47:12] [Server thread/INFO]: Using epoll channel type
+[06:47:12] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[06:47:12] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[06:47:12] [Server thread/ERROR]: [ModernPluginLoadingStrategy] Ambiguous plugin name 'Garbage_Collector' for files 'plugins/Garbage Collector (1).jar' and 'plugins/Garbage Collector.jar' in 'plugins'
+[06:47:14] [Server thread/WARN]: [org.bukkit.craftbukkit.v1_19_R3.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[06:47:17] [Server thread/WARN]: Legacy plugin StrikePractice v3.8.1-SNAPSHOT does not specify an api-version.
+[06:47:17] [Server thread/WARN]: Legacy plugin HealOnKill v1.2 does not specify an api-version.
+[06:47:18] [Server thread/WARN]: Legacy plugin AntiAD v4.6.4 does not specify an api-version.
+[06:47:18] [Server thread/WARN]: Legacy plugin StrikeExtraPlaceholders v2.0 does not specify an api-version.
+[06:47:18] [Server thread/WARN]: Legacy plugin Garbage_Collector v1.0.1 does not specify an api-version.
+[06:47:19] [Server thread/WARN]: Legacy plugin vAntiPearlGlitch vBETA does not specify an api-version.
+[06:47:20] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v4.9.3
+[06:47:20] [Server thread/INFO]: [ViaVersion] ViaVersion 4.9.3 is now loaded. Registering protocol transformers and injecting...
+[06:47:21] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[06:47:21] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[06:47:21] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[06:47:21] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[06:47:21] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.121
+[06:47:21] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[06:47:21] [Server thread/INFO]: [FastAsyncWorldEdit] Loading server plugin FastAsyncWorldEdit v2.9.3-SNAPSHOT-723;fa6e924
+[06:47:22] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@5139552f]
+[06:47:22] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.1.0
+[06:47:23] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.7+216b061
+[06:47:23] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.3
+[06:47:23] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v4.9.2
+[06:47:23] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.2-SNAPSHOT (b96-7f38765)
+[06:47:23] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[06:47:23] [Server thread/INFO]: [floodgate] Took 396ms to boot Floodgate
+[06:47:23] [Server thread/INFO]: [Multiverse-Core] Loading server plugin Multiverse-Core v4.3.2-SNAPSHOT-b870
+[06:47:24] [Server thread/INFO]: [Citizens] Loading server plugin Citizens v2.0.33-SNAPSHOT (build 3319)
+[06:47:24] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.0.15
+[06:47:24] [Server thread/INFO]: [StrikePractice] Loading server plugin StrikePractice v3.8.1-SNAPSHOT
+[06:47:24] [Server thread/INFO]: [Skript] Loading server plugin Skript v2.8.3
+[06:47:24] [Server thread/INFO]: [ServerListPlus] Loading server plugin ServerListPlus v3.5.0
+[06:47:24] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.20.0
+[06:47:24] [Server thread/INFO]: [AntiCrasher] Loading server plugin AntiCrasher v1.4.0
+[06:47:24] [Server thread/INFO]: [HealOnKill] Loading server plugin HealOnKill v1.2
+[06:47:24] [Server thread/INFO]: [AntiAD] Loading server plugin AntiAD v4.6.4
+[06:47:24] [Server thread/INFO]: [ZeroLagPlugin] Loading server plugin ZeroLagPlugin v1.0
+[06:47:24] [Server thread/INFO]: [ajLeaderboards] Loading server plugin ajLeaderboards v2.8.0
+[06:47:24] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for gson
+[06:47:24] [Server thread/INFO]: [ajLeaderboards] Checksum matched for gson
+[06:47:24] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for jar-relocator
+[06:47:24] [Server thread/INFO]: [ajLeaderboards] Checksum matched for jar-relocator
+[06:47:24] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for asm
+[06:47:24] [Server thread/INFO]: [ajLeaderboards] Checksum matched for asm
+[06:47:24] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for asm-commons
+[06:47:24] [Server thread/INFO]: [ajLeaderboards] Checksum matched for asm-commons
+[06:47:24] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for gson
+[06:47:24] [Server thread/INFO]: [ajLeaderboards] Checksum matched for gson
+[06:47:24] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for HikariCP
+[06:47:24] [Server thread/INFO]: [ajLeaderboards] Checksum matched for HikariCP
+[06:47:24] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for slf4j-api
+[06:47:24] [Server thread/INFO]: [ajLeaderboards] Checksum matched for slf4j-api
+[06:47:24] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for h2
+[06:47:24] [Server thread/INFO]: [ajLeaderboards] Checksum matched for h2
+[06:47:24] [Server thread/INFO]: [StrikeExtraPlaceholders] Loading server plugin StrikeExtraPlaceholders v2.0
+[06:47:24] [Server thread/INFO]: [LPC] Loading server plugin LPC v3.6.0
+[06:47:24] [Server thread/INFO]: [CommandWhitelist] Loading server plugin CommandWhitelist v2.8.2
+[06:47:24] [Server thread/INFO]: [DecentHolograms] Loading server plugin DecentHolograms v2.8.1
+[06:47:24] [Server thread/INFO]: [DeluxeMenus] Loading server plugin DeluxeMenus v1.14.0-Release
+[06:47:24] [Server thread/INFO]: [DeluxeMenus] NMS hook has been setup successfully!
+[06:47:24] [Server thread/INFO]: [Garbage_Collector] Loading server plugin Garbage_Collector v1.0.1
+[06:47:24] [Server thread/INFO]: [skript-gui] Loading server plugin skript-gui v1.3
+[06:47:24] [Server thread/INFO]: [playit-gg] Loading server plugin playit-gg v0.1.4
+[06:47:24] [Server thread/INFO]: [Maintenance] Loading server plugin Maintenance v4.2.0
+[06:47:24] [Server thread/INFO]: [LPX] Loading server plugin LPX v3.3.5
+[06:47:24] [Server thread/INFO]: [TAB] Loading server plugin TAB v4.1.2
+[06:47:24] [Server thread/INFO]: [FasterCrystals] Loading server plugin FasterCrystals v1.3.0
+[06:47:24] [Server thread/INFO]: [CommandAPI] Loaded platform NMS_1_19_4_R3 > NMS_Common > CommandAPIBukkit
+[06:47:24] [Server thread/INFO]: [CommandAPI] Hooked into Spigot successfully for Chat/ChatComponents
+[06:47:24] [Server thread/INFO]: [CommandAPI] Hooked into Adventure for AdventureChat/AdventureChatComponents
+[06:47:24] [Server thread/INFO]: [CommandAPI] Hooked into Paper for paper-specific API implementations
+[06:47:24] [Server thread/INFO]: [DriveBackupV2] Loading server plugin DriveBackupV2 v1.6.3
+[06:47:24] [Server thread/INFO]: [PlayerKits] Loading server plugin PlayerKits v2.26.1
+[06:47:24] [Server thread/INFO]: [PlatinumArenas] Loading server plugin PlatinumArenas v0.7.4
+[06:47:24] [Server thread/INFO]: [vAntiPearlGlitch] Loading server plugin vAntiPearlGlitch vBETA
+[06:47:24] [Server thread/INFO]: [AntiPearlGlitch] Loading server plugin AntiPearlGlitch v2.1
+[06:47:24] [Server thread/INFO]: [OpeNLogin] Loading server plugin OpeNLogin v1.6.6
+[06:47:24] [Server thread/INFO]: [XyrisDeathMessages] Loading server plugin XyrisDeathMessages vv1.1
+[06:47:24] [Server thread/INFO]: [SkBee] Loading server plugin SkBee v3.5.0
+[06:47:24] [Server thread/INFO]: [GrimAC] Loading server plugin GrimAC v2.3.61
+[06:47:24] [Server thread/INFO]: [GrimAC] Loading PacketEvents...
+[06:47:24] [Server thread/INFO]: [Clans] Loading server plugin Clans v0.4.5
+[06:47:24] [Server thread/INFO]: [PlayerPoints] Loading server plugin PlayerPoints v3.2.6
+[06:47:24] [Server thread/INFO]: [MonkeyKits] Loading server plugin MonkeyKits v1.0
+[06:47:24] [Server thread/INFO]: [PlugManX] Loading server plugin PlugManX v2.3.7
+[06:47:24] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[06:47:24] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.121
+[06:47:25] [Server thread/ERROR]: [LuckPerms] [STDERR] SLF4J: No SLF4J providers were found.
+[06:47:25] [Server thread/WARN]: Nag author(s): '[Luck]' of 'LuckPerms v5.4.121' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[06:47:25] [Server thread/ERROR]: [LuckPerms] [STDERR] SLF4J: Defaulting to no-operation (NOP) logger implementation
+[06:47:25] [Server thread/ERROR]: [LuckPerms] [STDERR] SLF4J: See http://www.slf4j.org/codes.html#noProviders for further details.
+[06:47:25] [Server thread/INFO]:         __    
+[06:47:25] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.121
+[06:47:25] [Server thread/INFO]:   |___ |      Running on Bukkit - Pufferfish
+[06:47:25] [Server thread/INFO]: 
+[06:47:25] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[06:47:26] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[06:47:26] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[06:47:26] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[06:47:27] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1923ms)
+[06:47:27] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[06:47:27] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[06:47:27] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[06:47:27] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[06:47:27] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[06:47:27] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v2.9.3-SNAPSHOT-723;fa6e924
+[06:47:28] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] LZ4 Compression Binding loaded successfully
+[06:47:28] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] ZSTD Compression Binding loaded successfully
+[06:47:28] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[06:47:28] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[06:47:28] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_19_R3.PaperweightFaweAdapter as the Bukkit adapter
+[06:47:29] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.1.0
+[06:47:29] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.0.15
+[06:47:30] [ForkJoinPool.commonPool-worker-1/WARN]: [com.fastasyncworldedit.core.util.UpdateNotification] An update for FastAsyncWorldEdit is available. You are 123 build(s) out of date.
+You are running build 723, the latest version is build 846.
+Update at https://www.spigotmc.org/resources/13932/
+[06:47:30] [Server thread/ERROR]: An unexpected error occurred while starting the plugin. Please check the console for more details.
+java.lang.NoSuchMethodError: 'com.viaversion.viaversion.api.protocol.version.ProtocolVersion com.viaversion.viaversion.api.protocol.version.ServerProtocolVersion.lowestSupportedProtocolVersion()'
+	at net.skinsrestorer.bukkit.refresher.ViaWorkaround.shouldApplyWorkaround(ViaWorkaround.java:35) ~[SkinsRestorer.jar:?]
+	at net.skinsrestorer.bukkit.SRBukkitInit.selectSpigotRefresher(SRBukkitInit.java:128) ~[SkinsRestorer.jar:?]
+	at net.skinsrestorer.bukkit.SRBukkitInit.detectRefresh(SRBukkitInit.java:112) ~[SkinsRestorer.jar:?]
+	at net.skinsrestorer.bukkit.SRBukkitInit.initSkinApplier(SRBukkitInit.java:80) ~[SkinsRestorer.jar:?]
+	at net.skinsrestorer.shared.plugin.SRPlugin.startup(SRPlugin.java:394) ~[SkinsRestorer.jar:?]
+	at net.skinsrestorer.shared.plugin.SRBootstrapper.startPlugin(SRBootstrapper.java:61) ~[SkinsRestorer.jar:?]
+	at net.skinsrestorer.bukkit.SRBukkitBootstrap.onEnable(SRBukkitBootstrap.java:45) ~[SkinsRestorer.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:281) ~[pufferfish-api-1.19.4-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:189) ~[pufferfish-1.19.4.jar:git-Pufferfish-73]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:104) ~[pufferfish-1.19.4.jar:git-Pufferfish-73]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:507) ~[pufferfish-api-1.19.4-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_19_R3.CraftServer.enablePlugin(CraftServer.java:556) ~[pufferfish-1.19.4.jar:git-Pufferfish-73]
+	at org.bukkit.craftbukkit.v1_19_R3.CraftServer.enablePlugins(CraftServer.java:467) ~[pufferfish-1.19.4.jar:git-Pufferfish-73]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:276) ~[pufferfish-1.19.4.jar:git-Pufferfish-73]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1106) ~[pufferfish-1.19.4.jar:git-Pufferfish-73]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:322) ~[pufferfish-1.19.4.jar:git-Pufferfish-73]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[06:47:30] [Server thread/WARN]: Updater was not initialized, a error occurred while starting the plugin. Forcing updater to initialize.
+[06:47:30] [Server thread/INFO]: [AntiPearlGlitch] Enabling AntiPearlGlitch v2.1
+[06:47:31] [Server thread/INFO]: [PlayerPoints] Enabling PlayerPoints v3.2.6
+[06:47:31] [Server thread/INFO]: [PlayerPoints] Initializing using RoseGarden v1.2.5
+[06:47:31] [Server thread/INFO]: [PlayerPoints] Data handler connected using SQLite.
+[06:47:31] [Server thread/INFO]: [PlugManX] Enabling PlugManX v2.3.7
+[06:47:32] [Server thread/WARN]: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[06:47:32] [Server thread/WARN]: It seems like you're running on paper.
+[06:47:32] [Server thread/WARN]: PlugManX cannot interact with paper-plugins, yet.
+[06:47:32] [Server thread/WARN]: Also, if you encounter any issues, please join my discord: https://discord.gg/GxEFhVY6ff
+[06:47:32] [Server thread/WARN]: Or create an issue on GitHub: https://github.com/TheBlackEntity/PlugMan
+[06:47:32] [Server thread/WARN]: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[06:47:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06:47:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[06:47:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06:47:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[06:47:32] [Server thread/INFO]: Preparing level "world"
+[06:47:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[06:47:32] [Server thread/INFO]: Time elapsed: 68 ms
+[06:47:32] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[06:47:32] [Server thread/INFO]: Time elapsed: 22 ms
+[06:47:32] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.9.3
+[06:47:33] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.19.4 (762)
+[06:47:33] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.7+216b061
+[06:47:33] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[06:47:33] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[06:47:33] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[06:47:33] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[06:47:33] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[06:47:33] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[06:47:33] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[06:47:33] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[06:47:33] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[06:47:33] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[06:47:33] [Server thread/INFO]: [WorldGuard] Loading region data...
+[06:47:33] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.3
+[06:47:34] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[06:47:34] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.9.2
+[06:47:34] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.2-SNAPSHOT (b96-7f38765)
+[06:47:35] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.2-SNAPSHOT-b870
+[06:47:35] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.2-SNAPSHOT-b870" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[06:47:35] [Server thread/INFO]: [Multiverse-Core] §aWe are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[06:47:35] [Server thread/INFO]: Could not set generator for world 'spawn': Plugin 'Voidgen' does not exist
+[06:47:35] [Server thread/INFO]: Preparing start region for dimension minecraft:spawn
+[06:47:35] [Server thread/INFO]: Time elapsed: 128 ms
+[06:47:35] [Server thread/INFO]: [WorldGuard] (spawn) TNT ignition is PERMITTED.
+[06:47:35] [Server thread/INFO]: [WorldGuard] (spawn) Lighters are PERMITTED.
+[06:47:35] [Server thread/INFO]: [WorldGuard] (spawn) Lava fire is PERMITTED.
+[06:47:35] [Server thread/INFO]: [WorldGuard] (spawn) Fire spread is UNRESTRICTED.
+[06:47:35] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'spawn'
+[06:47:35] [Server thread/INFO]: Could not set generator for world 'spawn': Plugin 'Voidgen' does not exist
+[06:47:35] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: world_nether
+[06:47:35] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[06:47:35] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: Arenas_1
+[06:47:35] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[06:47:35] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: Arenas_2
+[06:47:35] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[06:47:36] [Server thread/INFO]: Preparing start region for dimension minecraft:duels
+[06:47:36] [Server thread/INFO]: Time elapsed: 369 ms
+[06:47:36] [Server thread/INFO]: [WorldGuard] (duels) TNT ignition is PERMITTED.
+[06:47:36] [Server thread/INFO]: [WorldGuard] (duels) Lighters are PERMITTED.
+[06:47:36] [Server thread/INFO]: [WorldGuard] (duels) Lava fire is PERMITTED.
+[06:47:36] [Server thread/INFO]: [WorldGuard] (duels) Fire spread is UNRESTRICTED.
+[06:47:36] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'duels'
+[06:47:36] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: world_1
+[06:47:36] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[06:47:36] [Server thread/INFO]: Could not set generator for world 'world_2': Plugin 'VoidGen' does not exist
+[06:47:36] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: world_2
+[06:47:36] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[06:47:36] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: Arenas
+[06:47:36] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[06:47:36] [Server thread/INFO]: [Multiverse-Core] 4 - World(s) loaded.
+[06:47:36] [Server thread/WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
+[06:47:36] [Server thread/INFO]: [Multiverse-Core] Version 4.3.2-SNAPSHOT-b870 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[06:47:36] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.33-SNAPSHOT (build 3319)
+[06:47:36] [Server thread/INFO]: [Citizens] Loading external libraries
+[06:47:37] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: citizensplaceholder [1.0.0]
+[06:47:37] [Server thread/INFO]: [Citizens] Loaded economy handling via Vault.
+[06:47:37] [Server thread/INFO]: [StrikePractice] Enabling StrikePractice v3.8.1-SNAPSHOT*
+[06:47:37] [Server thread/INFO]: ---------------------------------
+[06:47:37] [Server thread/INFO]: Copied default config with comments to plugins/StrikePractice/default_config_with_comments_do_not_edit.yml
+[06:47:37] [Server thread/INFO]: ---------------------------------
+[06:47:37] [Server thread/WARN]: ga.strikepractice.nms.NMS_1_19_R3
+[06:47:37] [Server thread/WARN]: StrikePractice >> No version specific support found (1_19_R3)! Using compatibility mode. Please report all version related issues.
+[06:47:37] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: strikepractice [3.8.1-SNAPSHOT]
+[06:47:37] [Server thread/INFO]: Player practice commands registered: night, day, sun, report, ping, practicecommands
+[06:47:37] [Server thread/WARN]: If you get an error like 'No key layers in MapLike...', set 'empty-arenas-world: false' (especially on 1.17+)
+[06:47:37] [Server thread/INFO]: Using newer empty world generator!
+[06:47:37] [Server thread/WARN]: Download BadlionClientTimerAPI to support cooldowns for BAC. https://github.com/BadlionNetwork/BadlionClientTimerAPI/releases
+[06:47:37] [Server thread/WARN]: Failed to enable module for lunar client cooldowns. 
+[06:47:38] [Server thread/INFO]: [StrikePractice] Preloading recorded matches in async thread...
+[06:47:38] [ForkJoinPool.commonPool-worker-1/INFO]: Deleted 0 matches (older than 7.0 days)
+[06:47:38] [ForkJoinPool.commonPool-worker-1/INFO]: Preloaded 0 matches in 0 seconds.
+[06:47:38] [Server thread/WARN]: [PlaceholderAPI] Failed to load expansion strikepractice. Identifier is already in use.
+[06:47:40] [Server thread/WARN]: Failed to add automatic-events.brackets-kit in event kit selector
+[06:47:40] [Server thread/WARN]: Failed to add automatic-events.lms-kit in event kit selector
+[06:47:40] [Server thread/INFO]: Enabled (experimental) report replays. Disable with disable-report-replay: true
+[06:47:40] [Server thread/WARN]: Arenas-stacking is not enabled. Build arenas in main arenas world are used.
+[06:47:40] [Server thread/INFO]: StrikePractice >> Performance mode enabled!
+[06:47:40] [Server thread/INFO]: [StrikePractice] StrikePractice was enabled in 2623 ms.
+[06:47:40] [Server thread/INFO]: [Skript] Enabling Skript v2.8.3
+[06:47:41] [ForkJoinPool.commonPool-worker-2/INFO]: [Skript] A new version of Skript is available: 2.8.7 (you're currently running 2.8.3)
+[06:47:41] [ForkJoinPool.commonPool-worker-2/INFO]: Download it at: <aqua><u><link:https://github.com/SkriptLang/Skript/releases/download/2.8.7/Skript-2.8.7.jar>https://github.com/SkriptLang/Skript/releases/download/2.8.7/Skript-2.8.7.jar
+[06:47:43] [Server thread/INFO]: [Skript] Loaded 150710 aliases in 2905ms
+[06:47:44] [Server thread/INFO]: [Skript]  ~ created by & © Peter Güttinger aka Njol ~
+[06:47:44] [Server thread/INFO]: [ServerListPlus] Enabling ServerListPlus v3.5.0
+[06:47:44] [Server thread/INFO]: [ServerListPlus] [Core] Reloading configuration...
+[06:47:44] [Server thread/WARN]: [ServerListPlus] [Core] Unable to parse a part of the configuration. Make sure the YAML syntax is valid!
+net.minecrell.serverlistplus.core.lib.snakeyaml.scanner.ScannerException: while scanning an anchor
+ in 'reader', line 35, column 2:
+     &c&c&l&k|&6&l&k|&e&l&k|&a&l&k|&b ... 
+     ^
+unexpected character found &(38)
+ in 'reader', line 35, column 4:
+     &c&c&l&k|&6&l&k|&e&l&k|&a&l&k|&b&l ... 
+       ^
+
+	at net.minecrell.serverlistplus.core.lib.snakeyaml.scanner.ScannerImpl.scanAnchor(ScannerImpl.java:1505) ~[ServerListPlus-3.5.0-Universal (1).jar:?]
+	at net.minecrell.serverlistplus.core.lib.snakeyaml.scanner.ScannerImpl.fetchAnchor(ScannerImpl.java:968) ~[ServerListPlus-3.5.0-Universal (1).jar:?]
+	at net.minecrell.serverlistplus.core.lib.snakeyaml.scanner.ScannerImpl.fetchMoreTokens(ScannerImpl.java:401) ~[ServerListPlus-3.5.0-Universal (1).jar:?]
+	at net.minecrell.serverlistplus.core.lib.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:238) ~[ServerListPlus-3.5.0-Universal (1).jar:?]
+	at net.minecrell.serverlistplus.core.lib.snakeyaml.parser.ParserImpl$ParseIndentlessSequenceEntryKey.produce(ParserImpl.java:588) ~[ServerListPlus-3.5.0-Universal (1).jar:?]
+	at net.minecrell.serverlistplus.core.lib.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:162) ~[ServerListPlus-3.5.0-Universal (1).jar:?]
+	at net.minecrell.serverlistplus.core.lib.snakeyaml.comments.CommentEventsCollector$1.peek(CommentEventsCollector.java:57) ~[ServerListPlus-3.5.0-Universal (1).jar:?]
+	at net.minecrell.serverlistplus.core.lib.snakeyaml.comments.CommentEventsCollector$1.peek(CommentEventsCollector.java:43) ~[ServerListPlus-3.5.0-Universal (1).jar:?]
+	at net.minecrell.serverlistplus.core.lib.snakeyaml.comments.CommentEventsCollector.collectEvents(CommentEventsCollector.java:136) ~[ServerListPlus-3.5.0-Universal (1).jar:?]
+	at net.minecrell.serverlistplus.core.lib.snakeyaml.comments.CommentEventsCollector.collectEvents(CommentEventsCollector.java:116) ~[ServerListPlus-3.5.0-Universal (1).jar:?]
+	at net.minecrell.serverlistplus.core.lib.snakeyaml.composer.Composer.composeScalarNode(Composer.java:241) ~[ServerListPlus-3.5.0-Universal (1).jar:?]
+	at net.minecrell.serverlistplus.core.lib.snakeyaml.composer.Composer.composeNode(Composer.java:205) ~[ServerListPlus-3.5.0-Universal (1).jar:?]
+	at net.minecrell.serverlistplus.core.lib.snakeyaml.composer.Composer.composeSequenceNode(Composer.java:277) ~[ServerListPlus-3.5.0-Universal (1).jar:?]
+	at net.minecrell.serverlistplus.core.lib.snakeyaml.composer.Composer.composeNode(Composer.java:207) ~[ServerListPlus-3.5.0-Universal (1).jar:?]
+	at net.minecrell.serverlistplus.core.lib.snakeyaml.composer.Composer.composeValueNode(Composer.java:369) ~[ServerListPlus-3.5.0-Universal (1).jar:?]
+	at net.minecrell.serverlistplus.core.lib.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:348) ~[ServerListPlus-3.5.0-Universal (1).jar:?]
+	at net.minecrell.serverlistplus.core.lib.snakeyaml.composer.Composer.composeMappingNode(Composer.java:323) ~[ServerListPlus-3.5.0-Universal (1).jar:?]
+	at net.minecrell.serverlistplus.core.lib.snakeyaml.composer.Composer.composeNode(Composer.java:209) ~[ServerListPlus-3.5.0-Universal (1).jar:?]
+	at net.minecrell.serverlistplus.core.lib.snakeyaml.composer.Composer.composeValueNode(Composer.java:369) ~[ServerListPlus-3.5.0-Universal (1).jar:?]
+	at net.minecrell.serverlistplus.core.lib.snakeyaml.composer.Composer.composeMappingChildren(Composer.java:348) ~[ServerListPlus-3.5.0-Universal (1).jar:?]
+	at net.minecrell.serverlistplus.core.lib.snakeyaml.composer.Composer.composeMappingNode(Composer.java:323) ~[ServerListPlus-3.5.0-Universal (1).jar:?]
+	at net.minecrell.serverlistplus.core.lib.snakeyaml.composer.Composer.composeNode(Composer.java:209) ~[ServerListPlus-3.5.0-Universal (1).jar:?]
+	at net.minecrell.serverlistplus.core.lib.snakeyaml.composer.Composer.getNode(Composer.java:131) ~[ServerListPlus-3.5.0-Universal (1).jar:?]
+	at net.minecrell.serverlistplus.core.lib.snakeyaml.constructor.BaseConstructor.getData(BaseConstructor.java:162) ~[ServerListPlus-3.5.0-Universal (1).jar:?]
+	at net.minecrell.serverlistplus.core.lib.snakeyaml.Yaml$1.next(Yaml.java:515) ~[ServerListPlus-3.5.0-Universal (1).jar:?]
+	at net.minecrell.serverlistplus.core.ConfigurationManager.reload(ConfigurationManager.java:91) ~[ServerListPlus-3.5.0-Universal (1).jar:?]
+	at net.minecrell.serverlistplus.core.ServerListPlusCore.reload(ServerListPlusCore.java:197) ~[ServerListPlus-3.5.0-Universal (1).jar:?]
+	at net.minecrell.serverlistplus.core.ServerListPlusCore.<init>(ServerListPlusCore.java:146) ~[ServerListPlus-3.5.0-Universal (1).jar:?]
+	at net.minecrell.serverlistplus.core.ServerListPlusCore.<init>(ServerListPlusCore.java:92) ~[ServerListPlus-3.5.0-Universal (1).jar:?]
+	at net.minecrell.serverlistplus.bukkit.BukkitPlugin.onEnable(BukkitPlugin.java:164) ~[ServerListPlus-3.5.0-Universal (1).jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:281) ~[pufferfish-api-1.19.4-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:189) ~[pufferfish-1.19.4.jar:git-Pufferfish-73]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:104) ~[pufferfish-1.19.4.jar:git-Pufferfish-73]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:507) ~[pufferfish-api-1.19.4-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_19_R3.CraftServer.enablePlugin(CraftServer.java:556) ~[pufferfish-1.19.4.jar:git-Pufferfish-73]
+	at org.bukkit.craftbukkit.v1_19_R3.CraftServer.enablePlugins(CraftServer.java:467) ~[pufferfish-1.19.4.jar:git-Pufferfish-73]
+	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:640) ~[pufferfish-1.19.4.jar:git-Pufferfish-73]
+	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:439) ~[pufferfish-1.19.4.jar:git-Pufferfish-73]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:310) ~[pufferfish-1.19.4.jar:git-Pufferfish-73]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1106) ~[pufferfish-1.19.4.jar:git-Pufferfish-73]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:322) ~[pufferfish-1.19.4.jar:git-Pufferfish-73]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[06:47:44] [Server thread/ERROR]: [ServerListPlus] [Core] An internal error occurred while reloading the configuration!
+java.lang.ClassCastException: class net.minecrell.serverlistplus.core.lib.snakeyaml.events.MappingEndEvent cannot be cast to class net.minecrell.serverlistplus.core.lib.snakeyaml.events.NodeEvent (net.minecrell.serverlistplus.core.lib.snakeyaml.events.MappingEndEvent and net.minecrell.serverlistplus.core.lib.snakeyaml.events.NodeEvent are in unnamed module of loader 'ServerListPlus-3.5.0-Universal (1).jar' @25a22e36)
+	at net.minecrell.serverlistplus.core.lib.snakeyaml.composer.Composer.composeNode(Composer.java:200) ~[ServerListPlus-3.5.0-Universal (1).jar:?]
+	at net.minecrell.serverlistplus.core.lib.snakeyaml.composer.Composer.getNode(Composer.java:131) ~[ServerListPlus-3.5.0-Universal (1).jar:?]
+	at net.minecrell.serverlistplus.core.lib.snakeyaml.constructor.BaseConstructor.getData(BaseConstructor.java:162) ~[ServerListPlus-3.5.0-Universal (1).jar:?]
+	at net.minecrell.serverlistplus.core.lib.snakeyaml.Yaml$1.next(Yaml.java:515) ~[ServerListPlus-3.5.0-Universal (1).jar:?]
+	at net.minecrell.serverlistplus.core.ConfigurationManager.reload(ConfigurationManager.java:91) ~[ServerListPlus-3.5.0-Universal (1).jar:?]
+	at net.minecrell.serverlistplus.core.ServerListPlusCore.reload(ServerListPlusCore.java:197) ~[ServerListPlus-3.5.0-Universal (1).jar:?]
+	at net.minecrell.serverlistplus.core.ServerListPlusCore.<init>(ServerListPlusCore.java:146) ~[ServerListPlus-3.5.0-Universal (1).jar:?]
+	at net.minecrell.serverlistplus.core.ServerListPlusCore.<init>(ServerListPlusCore.java:92) ~[ServerListPlus-3.5.0-Universal (1).jar:?]
+	at net.minecrell.serverlistplus.bukkit.BukkitPlugin.onEnable(BukkitPlugin.java:164) ~[ServerListPlus-3.5.0-Universal (1).jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:281) ~[pufferfish-api-1.19.4-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:189) ~[pufferfish-1.19.4.jar:git-Pufferfish-73]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:104) ~[pufferfish-1.19.4.jar:git-Pufferfish-73]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:507) ~[pufferfish-api-1.19.4-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_19_R3.CraftServer.enablePlugin(CraftServer.java:556) ~[pufferfish-1.19.4.jar:git-Pufferfish-73]
+	at org.bukkit.craftbukkit.v1_19_R3.CraftServer.enablePlugins(CraftServer.java:467) ~[pufferfish-1.19.4.jar:git-Pufferfish-73]
+	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:640) ~[pufferfish-1.19.4.jar:git-Pufferfish-73]
+	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:439) ~[pufferfish-1.19.4.jar:git-Pufferfish-73]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:310) ~[pufferfish-1.19.4.jar:git-Pufferfish-73]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1106) ~[pufferfish-1.19.4.jar:git-Pufferfish-73]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:322) ~[pufferfish-1.19.4.jar:git-Pufferfish-73]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[06:47:44] [Server thread/INFO]: [ServerListPlus] Please fix the error before restarting the server!
+[06:47:44] [Server thread/INFO]: [ServerListPlus] Disabling ServerListPlus v3.5.0
+[06:47:44] [Server thread/INFO]: [Essentials] Enabling Essentials v2.20.0
+[06:47:44] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[06:47:44] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[06:47:44] [Server thread/INFO]: [Essentials] Loaded 38132 items from items.json.
+[06:47:44] [Server thread/INFO]: [Essentials] Using locale en
+[06:47:45] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[06:47:45] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[06:47:45] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[06:47:45] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[06:47:45] [Server thread/INFO]: [AntiCrasher] Enabling AntiCrasher v1.4.0
+[06:47:45] [Server thread/INFO]: [HealOnKill] Enabling HealOnKill v1.2*
+[06:47:45] [packetevents-update-check-thread/INFO]: [packetevents] Checking for an update, please wait...
+[06:47:45] [packetevents-update-check-thread/INFO]: [packetevents] There is an update available for packetevents! Your build: (2.2.0) | Latest released build: (2.4.0)
+[06:47:45] [Server thread/INFO]: [AntiAD] Enabling AntiAD v4.6.4*
+[06:47:45] [Server thread/INFO]: [ AntiAD ] Enabling AntiAD plugin
+[06:47:45] [Server thread/INFO]: [ AntiAD ] Checking configuration...
+[06:47:45] [Server thread/INFO]: [ AntiAD ] Checking for moderation plugin...
+[06:47:45] [Server thread/INFO]: [ AntiAD ] Starting events:
+[06:47:45] [Server thread/INFO]: [ AntiAD ] 	Starting Player Chat detection...
+[06:47:45] [Server thread/INFO]: [ AntiAD ] 	Starting Sign Text detection...
+[06:47:45] [Server thread/INFO]: [ AntiAD ] 	Starting Book Text detection...
+[06:47:45] [Server thread/INFO]: [ AntiAD ] 	Starting Commands detection...
+[06:47:45] [Server thread/INFO]: [ AntiAD ] Starting cron:
+[06:47:45] [Server thread/INFO]: [ AntiAD ] 	Starting Async AD and Smart check...
+[06:47:45] [Server thread/INFO]: [ AntiAD ] 	Starting Punishing check...
+[06:47:45] [Server thread/INFO]: [ZeroLagPlugin] Enabling ZeroLagPlugin v1.0
+[06:47:46] [Server thread/INFO]: Zero Lag Plugin Enabled
+[06:47:46] [Server thread/INFO]: [ajLeaderboards] Enabling ajLeaderboards v2.8.0
+[06:47:46] [Server thread/INFO]: [ajLeaderboards] Using H2 flatfile for board cache. (h2)
+[06:47:46] [Server thread/INFO]: [ajLeaderboards] Loaded 3 boards
+[06:47:46] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: ajlb [2.8.0]
+[06:47:46] [Server thread/INFO]: [ajLeaderboards] PAPI placeholders successfully registered!
+[06:47:46] [Server thread/INFO]: [ajLeaderboards] ajLeaderboards v2.8.0 by ajgeiss0702 enabled!
+[06:47:46] [Server thread/INFO]: [StrikeExtraPlaceholders] Enabling StrikeExtraPlaceholders v2.0*
+[06:47:47] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: SEP [2.0]
+[06:47:47] [Server thread/INFO]: [LPC] Enabling LPC v3.6.0
+[06:47:47] [Server thread/INFO]: [CommandWhitelist] Enabling CommandWhitelist v2.8.2
+[06:47:47] [Server thread/INFO]: [DecentHolograms] Enabling DecentHolograms v2.8.1
+[06:47:48] [Server thread/INFO]: [DecentHolograms] Using ProtocolLib for packet listening.
+[06:47:48] [Server thread/INFO]: [DeluxeMenus] Enabling DeluxeMenus v1.14.0-Release
+[06:47:48] [Server thread/INFO]: [DeluxeMenus] Successfully hooked into PlaceholderAPI!
+[06:47:48] [Server thread/ERROR]: [DeluxeMenus] open_command specified for menu: kiteditr already exists for another menu!
+Skipping menu: kiteditr
+[06:47:48] [Server thread/INFO]: [DeluxeMenus] 9 GUI menus loaded!
+[06:47:48] [Server thread/INFO]: [DeluxeMenus] You are running the latest version of DeluxeMenus!
+[06:47:48] [Server thread/INFO]: [DeluxeMenus] Successfully hooked into Vault!
+[06:47:48] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: deluxemenus [1.14.0-Release]
+[06:47:48] [Server thread/INFO]: [Garbage_Collector] Enabling Garbage_Collector v1.0.1*
+[06:47:49] [Server thread/INFO]: [skript-gui] Enabling skript-gui v1.3
+[06:47:49] [Server thread/INFO]: [Skript]     Missing version in default.lang
+[06:47:49] [Server thread/INFO]: [playit-gg] Enabling playit-gg v0.1.4
+[06:47:49] [Thread-85/INFO]: [gg.playit.minecraft.PlayitKeysSetup] secret key found, checking
+[06:47:49] [Thread-85/INFO]: [gg.playit.minecraft.PlayitKeysSetup] check secret
+[06:47:49] [Server thread/INFO]: [Maintenance] Enabling Maintenance v4.2.0
+[06:47:50] [Server thread/INFO]: [LPX] Enabling LPX v3.3.5
+[06:47:50] [Thread-85/INFO]: [gg.playit.minecraft.PlayitKeysSetup] found minecraft java tunnel: files-your.joinmc.link
+[06:47:50] [Thread-85/INFO]: [gg.playit.minecraft.PlayitManager] keys and tunnel setup
+[06:47:50] [Thread-85/WARN]: [gg.playit.control.ChannelSetup] Got IO error working with :control.playit.gg/2602:fbaf:840:0:0:0:0:1, error : java.net.SocketException: Network is unreachable
+[06:47:50] [Thread-85/INFO]: [gg.playit.control.ChannelSetup] request queued, waiting 1 second before resend
+[06:47:50] [Server thread/INFO]: [LPX] License successfully verified!
+[06:47:50] [Server thread/INFO]: [TAB] Enabling TAB v4.1.2
+[06:47:51] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: tab [4.1.2]
+[06:47:51] [Server thread/INFO]: [TAB] Enabled in 109ms
+[06:47:51] [Server thread/INFO]: [FasterCrystals] Enabling FasterCrystals v1.3.0
+[06:47:51] [Server thread/INFO]: [CommandAPI] Hooked into Paper ServerResourcesReloadedEvent
+[06:47:51] [packetevents-update-check-thread/INFO]: [packetevents] Checking for an update, please wait...
+[06:47:51] [Server thread/INFO]: [DriveBackupV2] Enabling DriveBackupV2 v1.6.3
+[06:47:51] [packetevents-update-check-thread/INFO]: [packetevents] There is an update available for packetevents! Your build: (2.1.0) | Latest released build: (2.4.0)
+[06:47:51] [Thread-85/INFO]: [gg.playit.control.ChannelSetup] request queued, waiting 1 second before resend
+[06:47:52] [Server thread/INFO]: [DriveBackupV2] Config loaded!
+[06:47:52] [Server thread/INFO]: [DriveBackupV2] Scheduling a backup to run every 60 minutes
+[06:47:52] [Server thread/INFO]: [DriveBackupV2] Metrics started
+[06:47:52] [Server thread/INFO]: [PlayerKits] Enabling PlayerKits v2.26.1
+[06:47:52] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: playerkits [2.26.1]
+[06:47:52] [Server thread/INFO]: [PlayerKits] Has been enabled! Version: 2.26.1
+[06:47:52] [Server thread/INFO]: [PlayerKits] Thanks for using my plugin!  ~Ajneb97
+[06:47:52] [Server thread/INFO]: There is a new version available. (2.27.1)
+[06:47:52] [Server thread/INFO]: You can download it at: https://www.spigotmc.org/resources/75185/
+[06:47:52] [Server thread/INFO]: [PlatinumArenas] Enabling PlatinumArenas v0.7.4
+[06:47:53] [Server thread/INFO]: [PlatinumArenas] PlatinumArenas Enabled!
+[06:47:53] [Server thread/INFO]: [PlatinumArenas] Loading arenas... this will be done async.
+[06:47:53] [Server thread/INFO]: [vAntiPearlGlitch] Enabling vAntiPearlGlitch vBETA*
+[06:47:53] [Server thread/INFO]: --------------------------------------------------------------
+[06:47:53] [Server thread/INFO]: vAntiPearlGlitch: Loaded!
+[06:47:53] [Server thread/INFO]: --------------------------------------------------------------
+[06:47:53] [Server thread/INFO]: [OpeNLogin] Enabling OpeNLogin v1.6.6
+[06:47:53] [Server thread/INFO]: [OpeNLogin]    ___                __  __             _ 
+[06:47:53] [Server thread/INFO]: [OpeNLogin]   /___\_ __   ___  /\ \ \/ /  ___   __ _(_)_ __
+[06:47:53] [Server thread/INFO]: [OpeNLogin]  //  // '_ \ / _ \/  \/ / /  / _ \ / _` | | '_ \
+[06:47:53] [Server thread/INFO]: [OpeNLogin] / \_//| |_) |  __/ /\  / /__| (_) | (_| | | | | |
+[06:47:53] [Server thread/INFO]: [OpeNLogin] \___/ | .__/ \___\_\ \/\____/\___/ \__, |_|_| |_|
+[06:47:53] [Server thread/INFO]: [OpeNLogin]       |_|                          |___/         
+[06:47:53] [Server thread/INFO]: [OpeNLogin] By: www.nickuc.com / github.com/nickuc/OpeNLogin - V 1.6.6
+[06:47:53] [Server thread/INFO]: [OpeNLogin] 
+[06:47:53] [Server thread/INFO]: [XyrisDeathMessages] Enabling XyrisDeathMessages vv1.1
+[06:47:53] [Server thread/INFO]: [SkBee] Enabling SkBee v3.5.0
+[06:47:54] [Server thread/INFO]: [SkBee] Loading NBTApi...
+[06:47:54] [Server thread/INFO]: [SkBee] [NBTAPI] Found Minecraft: v1_19_R3! Trying to find NMS support
+[06:47:54] [Server thread/INFO]: [SkBee] [NBTAPI] NMS support 'MC1_19_R3' loaded!
+[06:47:54] [Server thread/INFO]: [SkBee] Successfully loaded NBTApi!
+[06:47:54] [Server thread/INFO]: [SkBee] NBT Elements successfully loaded
+[06:47:54] [Server thread/INFO]: [SkBee] Text Component Elements successfully loaded
+[06:47:54] [Server thread/INFO]: [SkBee] Advancement Elements successfully loaded
+[06:47:54] [Server thread/INFO]: [SkBee] BossBar Elements successfully loaded
+[06:47:54] [Server thread/INFO]: [SkBee] Bound Elements successfully loaded
+[06:47:54] [Server thread/INFO]: [SkBee] Damage Source elements disabled (Requires Minecraft 1.20.4+)
+[06:47:54] [Server thread/INFO]: [SkBee] Display Entity elements successfully loaded
+[06:47:54] [Server thread/INFO]: [SkBee] Fishing elements successfully loaded
+[06:47:54] [Server thread/INFO]: [SkBee] Game Event Elements successfully loaded
+[06:47:54] [Server thread/INFO]: [SkBee] Particle Elements successfully loaded
+[06:47:54] [Server thread/INFO]: [SkBee] RayTrace elements successfully loaded
+[06:47:54] [Server thread/INFO]: [SkBee] Recipe Elements successfully loaded
+[06:47:54] [Server thread/INFO]: [SkBee] Scoreboard Elements successfully loaded
+[06:47:54] [Server thread/INFO]: [SkBee] Scoreboard Objective Elements successfully loaded
+[06:47:54] [Server thread/INFO]: [SkBee] Statistic Elements successfully loaded
+[06:47:54] [Server thread/INFO]: [SkBee] Structure Elements successfully loaded
+[06:47:54] [Server thread/INFO]: [SkBee] Minecraft Tag elements successfully loaded
+[06:47:54] [Server thread/INFO]: [SkBee] Team Elements successfully loaded
+[06:47:54] [Server thread/INFO]: [SkBee] Tick Manager elements disabled (Requires Minecraft 1.20.4+)
+[06:47:54] [Server thread/INFO]: [SkBee] Villager Elements successfully loaded
+[06:47:54] [Server thread/INFO]: [SkBee] Virtual Furnace Elements disabled via config
+[06:47:54] [Server thread/INFO]: [SkBee] World Border Elements successfully loaded
+[06:47:54] [Server thread/INFO]: [SkBee] World Creator Elements successfully loaded
+[06:47:54] [Server thread/INFO]: [SkBee] Chunk Generator Elements disabled via config
+[06:47:54] [Server thread/INFO]: [SkBee] Loaded (375) elements:
+[06:47:54] [Server thread/INFO]: [SkBee]  - 55 events
+[06:47:54] [Server thread/INFO]: [SkBee]  - 55 effects
+[06:47:54] [Server thread/INFO]: [SkBee]  - 235 expressions
+[06:47:54] [Server thread/INFO]: [SkBee]  - 21 conditions
+[06:47:54] [Server thread/INFO]: [SkBee]  - 9 sections
+[06:47:54] [Server thread/INFO]: [SkBee] Checking for update...
+[06:47:54] [Server thread/INFO]: [SkBee] Plugin is not up to date!
+[06:47:54] [Server thread/INFO]: [SkBee]  - Current version: v3.5.0
+[06:47:54] [Server thread/INFO]: [SkBee]  - Available update: v3.5.6
+[06:47:54] [Server thread/INFO]: [SkBee]  - Download available at: https://github.com/ShaneBeee/SkBee/releases
+[06:47:54] [Server thread/INFO]: [SkBee] Successfully enabled v3.5.0 in 0.60 seconds
+[06:47:54] [Server thread/INFO]: [GrimAC] Enabling GrimAC v2.3.61
+[06:47:55] [Server thread/INFO]: [GrimAC] Registering singular bukkit event... (PistonEvent)
+[06:47:55] [Server thread/INFO]: [GrimAC] Registering packets...
+[06:47:55] [Server thread/INFO]: [GrimAC] Registering tick schedulers...
+[06:47:55] [Server thread/INFO]: [GrimAC] [ACF] Enabled Asynchronous Tab Completion Support!
+[06:47:55] [Server thread/INFO]: [Clans] Enabling Clans v0.4.5
+[06:47:55] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: clans [0.4.5]
+[06:47:55] [Server thread/INFO]: [MonkeyKits] Enabling MonkeyKits v1.0
+[06:47:58] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[06:47:58] [Server thread/INFO]: Starting GS4 status listener
+[06:47:58] [Server thread/INFO]: Thread Query Listener started
+[06:47:58] [Query Listener #1/INFO]: Query running on 0.0.0.0:25579
+[06:47:58] [Server thread/INFO]: Running delayed init tasks
+[06:47:58] [Server thread/INFO]: [com.fastasyncworldedit.bukkit.regions.WorldGuardFeature] Plugin 'WorldGuard' found. Using it now.
+[06:47:58] [Server thread/INFO]: [com.fastasyncworldedit.bukkit.FaweBukkit] Attempting to use plugin 'WorldGuard'
+[06:47:58] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: playerpoints [3.2.6]
+[06:47:58] [Craft Scheduler Thread - 4 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[06:47:58] [Craft Scheduler Thread - 4 - AntiAD/INFO]: [ AntiAD ] Determinating the optimal read/connect timeouts
+[06:47:58] [Craft Scheduler Thread - 9 - Essentials/INFO]: [Essentials] Fetching version information...
+[06:47:58] [Craft Scheduler Thread - 11 - Garbage_Collector/INFO]: [Garbage_Collector] [STDOUT] [Garbage Collector] Running garbage collection.
+[06:47:58] [Craft Scheduler Thread - 11 - Garbage_Collector/WARN]: Nag author(s): '[]' of 'Garbage_Collector v1.0.1' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[06:47:59] [Craft Scheduler Thread - 15 - DriveBackupV2/INFO]: [DriveBackupV2] Checking for updates...
+[06:47:59] [Craft Scheduler Thread - 6 - PlayerPoints/INFO]: [RoseGarden] An update for PlayerPoints (v3.2.7) is available! You are running v3.2.6.
+[06:47:59] [ForkJoinPool.commonPool-worker-1/INFO]: [PlatinumArenas] Loaded arena "cartpvp" from file cartpvp.datc
+[06:47:59] [ForkJoinPool.commonPool-worker-2/INFO]: [PlatinumArenas] Loaded arena "uhc" from file uhc.datc
+[06:47:59] [ForkJoinPool.commonPool-worker-2/INFO]: [PlatinumArenas] Loaded arena "bedpvp" from file bedpvp.datc
+[06:47:59] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[06:47:59] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[06:47:59] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[06:47:59] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+[06:47:59] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |    [31;1mError Mode[32;1m    |[0;39m
+[06:47:59] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[06:47:59] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[06:47:59] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.0.15[0;39m
+[06:47:59] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1mfcfa8b9[0;39m
+[06:47:59] [ForkJoinPool.commonPool-worker-1/INFO]: [PlatinumArenas] Loaded arena "crystalterrain" from file crystalterrain.datc
+[06:47:59] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+[06:47:59] [Craft Scheduler Thread - 5 - SkinsRestorer/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[06:47:59] [Craft Scheduler Thread - 10 - PlatinumArenas/INFO]: [PlatinumArenas] Loaded arena "crystalflat" from file crystalflat.datc
+[06:47:59] [ForkJoinPool.commonPool-worker-1/INFO]: [PlatinumArenas] Loaded arena "cacrystal" from file cacrystal.datc
+[06:47:59] [ForkJoinPool.commonPool-worker-3/INFO]: [PlatinumArenas] Loaded arena "manhunt" from file manhunt.datc
+[06:47:59] [ForkJoinPool.commonPool-worker-2/INFO]: [PlatinumArenas] Loaded arena "lifesteal" from file lifesteal.datc
+[06:47:59] [Craft Scheduler Thread - 10 - PlatinumArenas/INFO]: [PlatinumArenas] Loaded 8 arenas in 62ms!
+[06:47:59] [Craft Scheduler Thread - 13 - DecentHolograms/INFO]: 
+A newer version of DecentHolograms is available. Download it from: https://www.spigotmc.org/resources/96927/
+[06:47:59] [Craft Scheduler Thread - 16 - Vault/INFO]: [Vault] Checking for Updates ... 
+[06:47:59] [Server thread/INFO]: [Skript] Loading variables...
+[06:47:59] [Server thread/INFO]: [Skript] Loaded 30 variables in 0.0 seconds
+[06:47:59] [Server thread/INFO]: [Skript] Line 26: (cmd.sk)
+[06:47:59] [Server thread/INFO]:     Empty configuration section! You might want to indent one or more of the subsequent lines to make them belong to this section or remove the colon at the end of the line if you don't want this line to start a section.
+[06:47:59] [Server thread/INFO]:     Line: if player is in region "terrainspawn" or "crystalterrain" or "ccacrystal" or "flatspawn" or "crystalflat":
+[06:47:59] [Server thread/INFO]:  
+[06:47:59] [Server thread/INFO]: [Skript] Line 31: (cmd.sk)
+[06:47:59] [Server thread/INFO]:     Empty configuration section! You might want to indent one or more of the subsequent lines to make them belong to this section or remove the colon at the end of the line if you don't want this line to start a section.
+[06:47:59] [Server thread/INFO]:     Line: if player is in region "terrainspawn" or "crystalterrain" or "ccacrystal" or "flatspawn" or "crystalflat":
+[06:47:59] [Server thread/INFO]:  
+[06:47:59] [Server thread/INFO]: [Skript] Line 36: (cmd.sk)
+[06:47:59] [Server thread/INFO]:     Empty configuration section! You might want to indent one or more of the subsequent lines to make them belong to this section or remove the colon at the end of the line if you don't want this line to start a section.
+[06:47:59] [Server thread/INFO]:     Line: if player is in region "terrainspawn" or "crystalterrain" or "ccacrystal" or "flatspawn" or "crystalflat":
+[06:47:59] [Server thread/INFO]:  
+[06:47:59] [Server thread/INFO]: [Skript] Line 41: (cmd.sk)
+[06:47:59] [Server thread/INFO]:     Empty configuration section! You might want to indent one or more of the subsequent lines to make them belong to this section or remove the colon at the end of the line if you don't want this line to start a section.
+[06:47:59] [Server thread/INFO]:     Line: if player is in region "terrainspawn" or "crystalterrain" or "ccacrystal" or "flatspawn" or "crystalflat":
+[06:47:59] [Server thread/INFO]:  
+[06:47:59] [Server thread/INFO]: [Skript] Line 46: (cmd.sk)
+[06:47:59] [Server thread/INFO]:     Empty configuration section! You might want to indent one or more of the subsequent lines to make them belong to this section or remove the colon at the end of the line if you don't want this line to start a section.
+[06:47:59] [Server thread/INFO]:     Line: if player is in region "terrainspawn" or "crystalterrain" or "ccacrystal" or "flatspawn" or "crystalflat":
+[06:47:59] [Server thread/INFO]:  
+[06:47:59] [Server thread/INFO]: [Skript] Line 51: (cmd.sk)
+[06:47:59] [Server thread/INFO]:     Empty configuration section! You might want to indent one or more of the subsequent lines to make them belong to this section or remove the colon at the end of the line if you don't want this line to start a section.
+[06:47:59] [Server thread/INFO]:     Line: if player is in region "terrainspawn" or "crystalterrain" or "ccacrystal" or "flatspawn" or "crystalflat":
+[06:47:59] [Server thread/INFO]:  
+[06:47:59] [Server thread/INFO]: [Skript] Line 56: (cmd.sk)
+[06:47:59] [Server thread/INFO]:     Empty configuration section! You might want to indent one or more of the subsequent lines to make them belong to this section or remove the colon at the end of the line if you don't want this line to start a section.
+[06:47:59] [Server thread/INFO]:     Line: if player is in region "terrainspawn" or "crystalterrain" or "ccacrystal" or "flatspawn" or "crystalflat":
+[06:47:59] [Server thread/INFO]:  
+[06:47:59] [Server thread/INFO]: [Skript] Line 61: (cmd.sk)
+[06:47:59] [Server thread/INFO]:     Empty configuration section! You might want to indent one or more of the subsequent lines to make them belong to this section or remove the colon at the end of the line if you don't want this line to start a section.
+[06:47:59] [Server thread/INFO]:     Line: if player is in region "terrainspawn" or "crystalterrain" or "ccacrystal" or "flatspawn" or "crystalflat":
+[06:47:59] [Server thread/INFO]:  
+[06:47:59] [Server thread/INFO]: [Skript] Line 66: (cmd.sk)
+[06:47:59] [Server thread/INFO]:     Empty configuration section! You might want to indent one or more of the subsequent lines to make them belong to this section or remove the colon at the end of the line if you don't want this line to start a section.
+[06:47:59] [Server thread/INFO]:     Line: if player is in region "terrainspawn" or "crystalterrain" or "ccacrystal" or "flatspawn" or "crystalflat":
+[06:47:59] [Server thread/INFO]:  
+[06:47:59] [Server thread/INFO]: [Skript] Line 71: (cmd.sk)
+[06:47:59] [Server thread/INFO]:     Empty configuration section! You might want to indent one or more of the subsequent lines to make them belong to this section or remove the colon at the end of the line if you don't want this line to start a section.
+[06:47:59] [Server thread/INFO]:     Line: if player is in region "terrainspawn" or "crystalterrain" or "ccacrystal" or "flatspawn" or "crystalflat":
+[06:47:59] [Server thread/INFO]:  
+[06:47:59] [Server thread/INFO]: [Skript] Line 76: (cmd.sk)
+[06:47:59] [Server thread/INFO]:     Empty configuration section! You might want to indent one or more of the subsequent lines to make them belong to this section or remove the colon at the end of the line if you don't want this line to start a section.
+[06:47:59] [Server thread/INFO]:     Line: if player is in region "terrainspawn" or "crystalterrain" or "ccacrystal" or "flatspawn" or "crystalflat":
+[06:47:59] [Server thread/INFO]:  
+[06:47:59] [Server thread/INFO]: [Skript] Line 81: (cmd.sk)
+[06:47:59] [Server thread/INFO]:     Empty configuration section! You might want to indent one or more of the subsequent lines to make them belong to this section or remove the colon at the end of the line if you don't want this line to start a section.
+[06:47:59] [Server thread/INFO]:     Line: if player is in region "terrainspawn" or "crystalterrain" or "ccacrystal" or "flatspawn" or "crystalflat":
+[06:47:59] [Server thread/INFO]:  
+[06:47:59] [Server thread/INFO]: [Skript] Line 94: (cmd.sk)
+[06:47:59] [Server thread/INFO]:     Empty configuration section! You might want to indent one or more of the subsequent lines to make them belong to this section or remove the colon at the end of the line if you don't want this line to start a section.
+[06:47:59] [Server thread/INFO]:     Line: if player is in region "terrainspawn" or "crystalterrain" or "ccacrystal" or "flatspawn" or "crystalflat":
+[06:47:59] [Server thread/INFO]:  
+[06:47:59] [Server thread/INFO]: [Skript] Line 99: (cmd.sk)
+[06:47:59] [Server thread/INFO]:     Empty configuration section! You might want to indent one or more of the subsequent lines to make them belong to this section or remove the colon at the end of the line if you don't want this line to start a section.
+[06:47:59] [Server thread/INFO]:     Line: if player is in region "terrainspawn" or "crystalterrain" or "ccacrystal" or "flatspawn" or "crystalflat":
+[06:47:59] [Server thread/INFO]:  
+[06:47:59] [Server thread/INFO]: [Skript] Line 104: (cmd.sk)
+[06:47:59] [Server thread/INFO]:     Empty configuration section! You might want to indent one or more of the subsequent lines to make them belong to this section or remove the colon at the end of the line if you don't want this line to start a section.
+[06:47:59] [Server thread/INFO]:     Line: if player is in region "terrainspawn" or "crystalterrain" or "ccacrystal" or "flatspawn" or "crystalflat":
+[06:47:59] [Server thread/INFO]:  
+[06:47:59] [Server thread/INFO]: [Skript] Line 109: (cmd.sk)
+[06:47:59] [Server thread/INFO]:     Empty configuration section! You might want to indent one or more of the subsequent lines to make them belong to this section or remove the colon at the end of the line if you don't want this line to start a section.
+[06:47:59] [Server thread/INFO]:     Line: if player is in region "terrainspawn" or "crystalterrain" or "ccacrystal" or "flatspawn" or "crystalflat":
+[06:47:59] [Server thread/INFO]:  
+[06:47:59] [Server thread/INFO]: [Skript] Line 114: (cmd.sk)
+[06:47:59] [Server thread/INFO]:     Empty configuration section! You might want to indent one or more of the subsequent lines to make them belong to this section or remove the colon at the end of the line if you don't want this line to start a section.
+[06:47:59] [Server thread/INFO]:     Line: if player is in region "terrainspawn" or "crystalterrain" or "ccacrystal" or "flatspawn" or "crystalflat":
+[06:47:59] [Server thread/INFO]:  
+[06:47:59] [Server thread/INFO]: [Skript] Line 119: (cmd.sk)
+[06:47:59] [Server thread/INFO]:     Empty configuration section! You might want to indent one or more of the subsequent lines to make them belong to this section or remove the colon at the end of the line if you don't want this line to start a section.
+[06:47:59] [Server thread/INFO]:     Line: if player is in region "terrainspawn" or "crystalterrain" or "ccacrystal" or "flatspawn" or "crystalflat":
+[06:47:59] [Server thread/INFO]:  
+[06:47:59] [Server thread/INFO]: [Skript] Line 124: (cmd.sk)
+[06:47:59] [Server thread/INFO]:     Empty configuration section! You might want to indent one or more of the subsequent lines to make them belong to this section or remove the colon at the end of the line if you don't want this line to start a section.
+[06:47:59] [Server thread/INFO]:     Line: if player is in region "terrainspawn" or "crystalterrain" or "ccacrystal" or "flatspawn" or "crystalflat":
+[06:47:59] [Server thread/INFO]:  
+[06:47:59] [Server thread/INFO]: [Skript] Line 129: (cmd.sk)
+[06:47:59] [Server thread/INFO]:     Empty configuration section! You might want to indent one or more of the subsequent lines to make them belong to this section or remove the colon at the end of the line if you don't want this line to start a section.
+[06:47:59] [Server thread/INFO]:     Line: if player is in region "terrainspawn" or "crystalterrain" or "ccacrystal" or "flatspawn" or "crystalflat":
+[06:47:59] [Server thread/INFO]:  
+[06:47:59] [Server thread/INFO]: [Skript] Line 134: (cmd.sk)
+[06:47:59] [Server thread/INFO]:     Empty configuration section! You might want to indent one or more of the subsequent lines to make them belong to this section or remove the colon at the end of the line if you don't want this line to start a section.
+[06:47:59] [Server thread/INFO]:     Line: if player is in region "terrainspawn" or "crystalterrain" or "ccacrystal" or "flatspawn" or "crystalflat":
+[06:47:59] [Server thread/INFO]:  
+[06:47:59] [Server thread/INFO]: [Skript] Line 139: (cmd.sk)
+[06:47:59] [Server thread/INFO]:     Empty configuration section! You might want to indent one or more of the subsequent lines to make them belong to this section or remove the colon at the end of the line if you don't want this line to start a section.
+[06:47:59] [Server thread/INFO]:     Line: if player is in region "terrainspawn" or "crystalterrain" or "ccacrystal" or "flatspawn" or "crystalflat":
+[06:47:59] [Server thread/INFO]:  
+[06:47:59] [Server thread/INFO]: [Skript] Line 144: (cmd.sk)
+[06:47:59] [Server thread/INFO]:     Empty configuration section! You might want to indent one or more of the subsequent lines to make them belong to this section or remove the colon at the end of the line if you don't want this line to start a section.
+[06:47:59] [Server thread/INFO]:     Line: if player is in region "terrainspawn" or "crystalterrain" or "ccacrystal" or "flatspawn" or "crystalflat":
+[06:47:59] [Server thread/INFO]:  
+[06:47:59] [Server thread/INFO]: [Skript] Line 149: (cmd.sk)
+[06:47:59] [Server thread/INFO]:     Empty configuration section! You might want to indent one or more of the subsequent lines to make them belong to this section or remove the colon at the end of the line if you don't want this line to start a section.
+[06:47:59] [Server thread/INFO]:     Line: if player is in region "terrainspawn" or "crystalterrain" or "ccacrystal" or "flatspawn" or "crystalflat":
+[06:47:59] [Server thread/INFO]:  
+[06:47:59] [Server thread/INFO]: [Skript] Line 154: (cmd.sk)
+[06:47:59] [Server thread/INFO]:     Empty configuration section! You might want to indent one or more of the subsequent lines to make them belong to this section or remove the colon at the end of the line if you don't want this line to start a section.
+[06:47:59] [Server thread/INFO]:     Line: if player is in region "terrainspawn" or "crystalterrain" or "ccacrystal" or "flatspawn" or "crystalflat":
+[06:47:59] [Server thread/INFO]:  
+[06:47:59] [Server thread/INFO]: [Skript] Line 173: (cmd.sk)
+[06:47:59] [Server thread/INFO]:     Empty configuration section! You might want to indent one or more of the subsequent lines to make them belong to this section or remove the colon at the end of the line if you don't want this line to start a section.
+[06:47:59] [Server thread/INFO]:     Line: if player is in region "spawn":
+[06:47:59] [Server thread/INFO]:  
+[06:47:59] [Server thread/INFO]: [Skript] Line 178: (cmd.sk)
+[06:47:59] [Server thread/INFO]:     Empty configuration section! You might want to indent one or more of the subsequent lines to make them belong to this section or remove the colon at the end of the line if you don't want this line to start a section.
+[06:47:59] [Server thread/INFO]:     Line: if player is in region "spawn":
+[06:47:59] [Server thread/INFO]:  
+[06:47:59] [Server thread/INFO]: [Skript] Line 195: (cmd.sk)
+[06:47:59] [Server thread/INFO]:     Empty configuration section! You might want to indent one or more of the subsequent lines to make them belong to this section or remove the colon at the end of the line if you don't want this line to start a section.
+[06:47:59] [Server thread/INFO]:     Line: if player is in region "spawn":
+[06:47:59] [Server thread/INFO]:  
+[06:47:59] [Server thread/INFO]: [Skript] Line 244: (cmd.sk)
+[06:47:59] [Server thread/INFO]:     Empty configuration section! You might want to indent one or more of the subsequent lines to make them belong to this section or remove the colon at the end of the line if you don't want this line to start a section.
+[06:47:59] [Server thread/INFO]:     Line: if player is in region "spawn":
+[06:47:59] [Server thread/INFO]:  
+[06:47:59] [Craft Scheduler Thread - 16 - Vault/INFO]: [Vault] No new version available
+[06:47:59] [Craft Scheduler Thread - 17 - OpeNLogin/INFO]: [OpeNLogin] A new version of OpeNLogin is available (v1.6.6 -> v1.6.7).
+[06:47:59] [Craft Scheduler Thread - 4 - AntiAD/INFO]: [ AntiAD ] 	Connect timeout: 983
+[06:47:59] [Craft Scheduler Thread - 4 - AntiAD/INFO]: [ AntiAD ] 	Failed to determinate read timeout. Using default.
+[06:47:59] [Craft Scheduler Thread - 14 - Maintenance/INFO]: [Maintenance] §cNewest version available: §aVersion 4.2.1§c, you're on §a4.2.0
+[06:47:59] [Craft Scheduler Thread - 9 - Essentials/WARN]: [Essentials] There is a new EssentialsX version available for download: 2.20.1.
+[06:47:59] [Craft Scheduler Thread - 9 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html?branch=stable
+[06:48:00] [Server thread/INFO]: [Skript] Line 220: (cmd.sk)
+[06:48:00] [Server thread/INFO]:     Can't compare a text with 'in world "duels"'
+[06:48:00] [Server thread/INFO]:     Line: if arg-3 is in world "duels":
+[06:48:00] [Server thread/INFO]:  
+[06:48:00] [Server thread/INFO]: [Skript] Line 235: (cmd.sk)
+[06:48:00] [Server thread/INFO]:     Can't understand this condition: 'command executed by conosle'
+[06:48:00] [Server thread/INFO]:     Line: if command executed by conosle:
+[06:48:00] [Server thread/INFO]:  
+[06:48:00] [Server thread/INFO]: [Skript] Loaded 9 scripts with a total of 115 structures in 1.23 seconds
+[06:48:00] [Server thread/INFO]: [Skript] Finished loading.
+[06:48:00] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[06:48:00] [Server thread/INFO]: [CommandAPI] Linked 1 Bukkit permissions to commands
+[06:48:00] [Server thread/INFO]: [CommandAPI] Reloading datapacks...
+[06:48:00] [Server thread/INFO]: Loaded 7 recipes
+[06:48:01] [Server thread/INFO]: [CommandAPI] Finished reloading datapacks
+[06:48:01] [Server thread/INFO]: [Citizens] Loaded 15 NPCs.
+[06:48:01] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: statistic [2.0.1]
+[06:48:01] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: player [2.0.8]
+[06:48:01] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: server [2.6.2]
+[06:48:01] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: luckperms [5.4-R2]
+[06:48:01] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: pointsapi [1.0.2]
+[06:48:01] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: kdratio [1.1.0]
+[06:48:01] [Server thread/INFO]: 6 placeholder hook(s) registered! 1 placeholder hook(s) have an update available.
+[06:48:01] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.0.1, you're on: 4.9.3
+[06:48:01] [Server thread/INFO]: [PlaceholderAPI] An update for PlaceholderAPI (v2.11.6) is available at:
+[06:48:01] [Server thread/INFO]: [PlaceholderAPI] https://www.spigotmc.org/resources/placeholderapi.6245/
+[06:48:01] [Server thread/INFO]: Done (49.856s)! For help, type "help"
+[06:48:01] [Server thread/INFO]: Timings Reset
+[06:48:02] [Server thread/INFO]: Spawning a test npc 'steve' to fetch npcs' skin. The npc will be removed in 10 seconds.
+[06:48:03] [Craft Scheduler Thread - 9 - StrikePractice/INFO]: Checking for StrikePractice updates...
+[06:48:04] [Craft Scheduler Thread - 9 - StrikePractice/INFO]:   §fThere is a new StrikePractice update available!
+§eLink: https://www.spigotmc.org/resources/46906/updates
+ 
+§7Remember to join StrikePractice Discord server: https://discord.gg/SkFbkgg
+If you're using a leaked version, consider purchasing the StrikePractice update. You will also receive good support and support the developer ;)
+[06:48:04] [Craft Scheduler Thread - 9 - StrikePractice/INFO]:   v3.9.1: Bug fix update
+[06:48:04] [Craft Scheduler Thread - 9 - StrikePractice/INFO]:   You're on 3.8.1-SNAPSHOT and the latest version is 3.9.2.
+[06:48:04] [Craft Scheduler Thread - 9 - StrikePractice/INFO]:   v3.9.2: Improved 1.20.5+ support, other fixes
+[06:48:04] [Craft Scheduler Thread - 9 - StrikePractice/INFO]:   v3.9.0: Minor new features, fixes and developer API improvements
+[06:48:04] [Server thread/INFO]: 1
+[06:48:04] [Server thread/INFO]: [StrikePractice] StrikePractice was disabled in 24 ms.
+[06:48:04] [Server thread/INFO]: [StrikePractice] Disabling StrikePractice v3.8.1-SNAPSHOT
+[06:48:04] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion strikepractice
+[06:48:04] [Server thread/INFO]: [PlaceholderAPI] Reason: required plugin StrikePractice was disabled.
+[06:48:04] [Server thread/INFO]: [StrikePractice] StrikePractice was disabled in 35 ms.
+[06:48:04] [Server thread/INFO]: Stopping server
+[06:48:04] [Server thread/INFO]: [PlugManX] Disabling PlugManX v2.3.7
+[06:48:04] [Server thread/INFO]: [MonkeyKits] Disabling MonkeyKits v1.0
+[06:48:04] [Thread-85/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=209.25.141.194:13204, peerAddr=49.36.187.40:62913, claimAddress=209.25.143.2:43784, claimToken=[44, 0, 60, -47, 25, -115, -62, 51, -108, 49, 36, -69, 40, -11, -63, -49, 56, 39, -20, -85, 8, 102, -117, -117, -92, 0, 0, 0, 0, 0, 9, -94, 65, 0, 0, 0, 0, 0, 51, -65, 42, 112, -20, -85, 8, 0, 0, 0, 0, 12, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 55, -98, 74, -46, 8, 126, 106, -60, 99, 36, -31, -104, -41, -60, 1, 115], tunnelServerId=1, dataCenterId=12}
+[06:48:04] [Thread-85/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[06:48:04] [Thread-85/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.143.2:43784 to claim client
+[06:48:04] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[06:48:04] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[06:48:04] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[06:48:04] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnection, LegacyPingHandler=class net.minecraft.server.network.LegacyPingHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.PacketSplitter, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.EnumProtocolDirection, PacketPrepender=class net.minecraft.network.PacketPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.NetworkManagerServer, NetworkManager=class net.minecraft.network.NetworkManager, HandshakeListener=class net.minecraft.server.network.HandshakeListener, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=null}
+[06:48:04] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] failed to get Minecraft server from Bukkit.getServer()
+[06:48:04] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at /0.0.0.0:25579
+[06:48:04] [nioEventLoopGroup-2-2/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[06:48:05] [User Authenticator #0/INFO]: UUID of player _Itz_ZeniFexX is 98db5a50-23b5-34b5-b5fc-294378e91a60
+[06:48:05] [Server thread/INFO]: [PlayerPoints] Disabling PlayerPoints v3.2.6
+[06:48:05] [Server thread/INFO]: [Clans] Disabling Clans v0.4.5
+[06:48:05] [Server thread/INFO]: [GrimAC] Disabling GrimAC v2.3.61
+[06:48:05] [Server thread/INFO]: [GrimAC] Terminating PacketEvents...
+[06:48:05] [Server thread/INFO]: [SkBee] Disabling SkBee v3.5.0
+[06:48:05] [Server thread/INFO]: [XyrisDeathMessages] Disabling XyrisDeathMessages vv1.1
+[06:48:05] [Server thread/INFO]: [OpeNLogin] Disabling OpeNLogin v1.6.6
+[06:48:05] [Server thread/INFO]: [AntiPearlGlitch] Disabling AntiPearlGlitch v2.1
+[06:48:05] [Server thread/INFO]: [vAntiPearlGlitch] Disabling vAntiPearlGlitch vBETA
+[06:48:05] [Server thread/INFO]: [PlatinumArenas] Disabling PlatinumArenas v0.7.4
+[06:48:05] [Server thread/INFO]: [PlayerKits] Disabling PlayerKits v2.26.1
+[06:48:05] [Server thread/INFO]: [PlayerKits] Has been disabled! Version: 2.26.1
+[06:48:05] [Server thread/INFO]: [DriveBackupV2] Disabling DriveBackupV2 v1.6.3
+[06:48:05] [Server thread/INFO]: [DriveBackupV2] Stopping plugin!
+[06:48:05] [Server thread/INFO]: [FasterCrystals] Disabling FasterCrystals v1.3.0
+[06:48:05] [Server thread/INFO]: [TAB] Disabling TAB v4.1.2
+[06:48:05] [Server thread/INFO]: [TAB] Disabled in 0ms
+[06:48:05] [Server thread/INFO]: [LPX] Disabling LPX v3.3.5
+[06:48:05] [Server thread/INFO]: [Maintenance] Disabling Maintenance v4.2.0
+[06:48:05] [Server thread/INFO]: [playit-gg] Disabling playit-gg v0.1.4
+[06:48:05] [Server thread/INFO]: [skript-gui] Disabling skript-gui v1.3
+[06:48:05] [Server thread/INFO]: [Garbage_Collector] Disabling Garbage_Collector v1.0.1
+[06:48:05] [Server thread/INFO]: [DeluxeMenus] Disabling DeluxeMenus v1.14.0-Release
+[06:48:05] [Server thread/INFO]: [DecentHolograms] Disabling DecentHolograms v2.8.1
+[06:48:05] [Server thread/INFO]: [CommandWhitelist] Disabling CommandWhitelist v2.8.2
+[06:48:05] [Server thread/INFO]: [LPC] Disabling LPC v3.6.0
+[06:48:05] [Server thread/INFO]: [StrikeExtraPlaceholders] Disabling StrikeExtraPlaceholders v2.0
+[06:48:05] [Server thread/INFO]: [ajLeaderboards] Disabling ajLeaderboards v2.8.0
+[06:48:05] [pool-61-thread-1/INFO]: [ajLeaderboards] Shutting down cache method..
+[06:48:06] [pool-61-thread-1/INFO]: [ajLeaderboards] Cache method shut down
+[06:48:06] [Server thread/INFO]: [ajLeaderboards] Killing remaining workers
+[06:48:06] [Server thread/INFO]: [ajLeaderboards] Remaining workers killed
+[06:48:06] [Server thread/INFO]: [ajLeaderboards] ajLeaderboards v2.8.0 disabled.
+[06:48:06] [Server thread/INFO]: [ZeroLagPlugin] Disabling ZeroLagPlugin v1.0
+[06:48:06] [Server thread/INFO]: [AntiAD] Disabling AntiAD v4.6.4
+[06:48:06] [Server thread/INFO]: [HealOnKill] Disabling HealOnKill v1.2
+[06:48:06] [Server thread/INFO]: [AntiCrasher] Disabling AntiCrasher v1.4.0
+[06:48:06] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.0
+[06:48:06] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[06:48:06] [Server thread/INFO]: [Skript] Disabling Skript v2.8.3
+[06:48:06] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.0.15
+[06:48:06] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.33-SNAPSHOT (build 3319)
+[06:48:06] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.3.2-SNAPSHOT-b870
+[06:48:06] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.2-SNAPSHOT (b96-7f38765)
+[06:48:06] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v4.9.2
+[06:48:06] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.3
+[06:48:06] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.7+216b061
+[06:48:06] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[06:48:06] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.1.0
+[06:48:06] [Server thread/INFO]: [FastAsyncWorldEdit] Disabling FastAsyncWorldEdit v2.9.3-SNAPSHOT-723;fa6e924
+[06:48:06] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[06:48:06] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[06:48:06] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.121
+[06:48:06] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[06:48:06] [Server thread/INFO]: [LuckPerms] Closing storage...
+[06:48:06] [Server thread/INFO]: [LuckPerms] Goodbye!
+[06:48:06] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v4.9.3
+[06:48:06] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[06:48:06] [Server thread/INFO]: Saving players
+[06:48:06] [Server thread/INFO]: Saving worlds
+[06:48:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06:48:06] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[06:48:06] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[06:48:06] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[06:48:06] [Server thread/INFO]: [ChunkHolderManager] Saved 121 block chunks, 121 entity chunks, 0 poi chunks in world 'world' in 0.20s
+[06:48:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:48:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[06:48:07] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[06:48:07] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[06:48:07] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[06:48:07] [Server thread/INFO]: [ChunkHolderManager] Saved 121 block chunks, 121 entity chunks, 0 poi chunks in world 'world_the_end' in 0.08s
+[06:48:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:48:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[spawn]'/minecraft:spawn
+[06:48:07] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'spawn'
+[06:48:07] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'spawn'
+[06:48:07] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'spawn'
+[06:48:07] [Server thread/INFO]: [ChunkHolderManager] Saved 122 block chunks, 122 entity chunks, 0 poi chunks in world 'spawn' in 0.14s
+[06:48:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (spawn): All chunks are saved
+[06:48:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[duels]'/minecraft:duels
+[06:48:07] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'duels'
+[06:48:07] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'duels'
+[06:48:07] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'duels'
+[06:48:07] [Thread-85/INFO]: [gg.playit.minecraft.PlayitManager] control channel shutdown
+[06:48:08] [Server thread/INFO]: [ChunkHolderManager] Saved 1297 block chunks, 1297 entity chunks, 0 poi chunks in world 'duels' in 0.52s
+[06:48:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (duels): All chunks are saved
+[06:48:08] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06:48:08] [Server thread/INFO]: Flushing Chunk IO
+[06:48:08] [Server thread/INFO]: Closing Thread Pool
+[06:48:08] [Server thread/INFO]: Closing Server

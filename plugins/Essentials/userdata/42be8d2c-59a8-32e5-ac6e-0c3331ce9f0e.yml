@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 106.221.73.121
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716105270487
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716105454839
+  login: 1716105218036
+money: '0'
+last-account-name: YT_Blasters
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -27.103973893730956
+  y: 178.0
+  z: -7.871462062699133
+  yaw: 91.93496704101562
+  pitch: 5.072718620300293
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -38.04805264769577
+  y: 178.0
+  z: -1.6510000662923499
+  yaw: 85.45757293701172
+  pitch: 10.727313995361328

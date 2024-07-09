@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 45.118.158.148
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716054720388
+  login: 1716054697536
+money: '0'
+last-account-name: GGDEMONS6
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -29.356086448073967
+  y: 179.24918707874468
+  z: -3.2159444848022107
+  yaw: -107.33135223388672
+  pitch: 2.4020986557006836

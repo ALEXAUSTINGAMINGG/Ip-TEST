@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 27.61.188.195
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712591874721
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712593292174
+  login: 1712589932170
+money: '0'
+last-account-name: Cute_priyanshi
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.10154285407556
+  y: 178.0
+  z: -5.300000011920929
+  yaw: 45.394500732421875
+  pitch: 1.445841670036316
+logoutlocation:
+  world: fd2a2c6a-eda5-4f74-8350-27f0fde897c2
+  world-name: duels
+  x: 199.21952973326447
+  y: 93.0
+  z: 374.44324775993715
+  yaw: 30.51171875
+  pitch: 6.034628391265869

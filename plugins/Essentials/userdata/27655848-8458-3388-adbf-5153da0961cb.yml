@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 219.91.213.206
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712587119470
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712587351878
+  login: 1712586865121
+money: '0'
+last-account-name: Atkbest_
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -36.02902691091698
+  y: 179.0
+  z: 0.6626487011563568
+  yaw: 79.45706939697266
+  pitch: 3.117481231689453
+logoutlocation:
+  world: fd2a2c6a-eda5-4f74-8350-27f0fde897c2
+  world-name: duels
+  x: 261.60170706115497
+  y: 103.0
+  z: 39.57905929468248
+  yaw: 37.36241912841797
+  pitch: -4.53805685043335

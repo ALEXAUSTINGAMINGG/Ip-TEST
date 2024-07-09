@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 223.233.81.209
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712584560121
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712584716978
+  login: 1712584468820
+money: '0'
+last-account-name: Notendboy_
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -38.00790841148637
+  y: 178.0
+  z: -3.6977794429671333
+  yaw: 31.973623275756836
+  pitch: -11.80823802947998
+logoutlocation:
+  world: 33a34951-efe1-4473-ab9e-cae292dfe960
+  world-name: world
+  x: -131.58161144195753
+  y: 52.0
+  z: 149.34882048486418
+  yaw: -34.78106689453125
+  pitch: 18.086862564086914

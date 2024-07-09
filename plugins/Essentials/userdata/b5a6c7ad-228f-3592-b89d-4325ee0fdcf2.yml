@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 202.47.50.69
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712480280043
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712480309046
+  login: 1712480138591
+money: '0'
+last-account-name: R2HALADDINxD
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.445385856158865
+  y: 178.0
+  z: -8.654076098783815
+  yaw: 45.82099533081055
+  pitch: -7.073407173156738
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -36.528996101439056
+  y: 178.0
+  z: -9.89869292254491
+  yaw: 78.72847747802734
+  pitch: -1.4213873147964478

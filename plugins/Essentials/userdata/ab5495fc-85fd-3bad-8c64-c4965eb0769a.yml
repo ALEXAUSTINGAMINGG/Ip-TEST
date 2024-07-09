@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 43.229.165.24
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712595261922
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712595792073
+  login: 1712595242620
+money: '0'
+last-account-name: umartheboss
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.69815394065468
+  y: 178.0
+  z: -7.377572880562064
+  yaw: 103.46308898925781
+  pitch: -8.233499526977539
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -24.089253417318183
+  y: 178.0000001
+  z: -12.66462801893055
+  yaw: -172.0877227783203
+  pitch: 26.849971771240234

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.36.190.185
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712591878521
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712591978275
+  login: 1712590367220
+money: '0'
+last-account-name: mohantygamer
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.083400869162055
+  y: 178.0
+  z: -2.84859303477374
+  yaw: 172.85821533203125
+  pitch: -0.045988619327545166
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -21.41054105052997
+  y: 178.0
+  z: -7.609784828543126
+  yaw: 93.77379608154297
+  pitch: 2.65620756149292

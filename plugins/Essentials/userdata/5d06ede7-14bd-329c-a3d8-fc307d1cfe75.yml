@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 117.97.184.112
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712584936070
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712585160276
+  login: 1712584003170
+money: '0'
+last-account-name: haha_legend
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.17187109981838
+  y: 178.0
+  z: -7.541408010672005
+  yaw: 91.95285034179688
+  pitch: -15.00810432434082
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -34.79207222264859
+  y: 180.0
+  z: 7.699999988079071
+  yaw: -70.57244873046875
+  pitch: -11.360322952270508

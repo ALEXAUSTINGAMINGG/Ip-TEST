@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 152.58.153.227
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712595466471
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712595556273
+  login: 1712593925820
+money: '0'
+last-account-name: PRAKARSH1657P
+logoutlocation:
+  world: fd2a2c6a-eda5-4f74-8350-27f0fde897c2
+  world-name: duels
+  x: 276.4712342991852
+  y: 90.0
+  z: 413.81237728657345
+  yaw: 2.688720703125
+  pitch: 22.407419204711914
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.24309063452975
+  y: 178.0
+  z: -8.915318805555987
+  yaw: 46.46311950683594
+  pitch: -14.683504104614258

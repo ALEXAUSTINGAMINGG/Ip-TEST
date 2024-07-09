@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.225.188.122
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712605952764
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712605970170
+  login: 1712604098463
+money: '0'
+last-account-name: Faizan_gamer
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -39.56429420173387
+  y: 178.0
+  z: -4.838217932803858
+  yaw: 82.61312103271484
+  pitch: -12.433505058288574
+logoutlocation:
+  world: 33a34951-efe1-4473-ab9e-cae292dfe960
+  world-name: world
+  x: -1555.3586991193565
+  y: 209.0
+  z: 1626.3060318738383
+  yaw: -137.9831085205078
+  pitch: 9.297405242919922

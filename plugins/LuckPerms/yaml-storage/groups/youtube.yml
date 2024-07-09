@@ -1,0 +1,30 @@
+name: youtube
+permissions:
+- essentials.fly:
+    value: true
+    context:
+      world: world
+- ajleaderboards.dontupdate.*
+- deluxemenus.open
+- duels.duel
+- duels.queue
+- duels.toggle
+- duels.use
+- essentials.msg
+- essentials.spawn
+- essentials.spawn-on-join
+- jumppads.use
+- minecraft.command.msg
+- p1.use
+- permission.one
+- permission.two
+- sternalboard.toggle
+- weight.1
+- weight.39
+- weight.70
+parents:
+- deadliest
+- default
+prefixes:
+- '&#966bfb&lM&#875fd8&lE&#7853b5&lD&#684692&lI&#593a6f&lA &f':
+    priority: 39

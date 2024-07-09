@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 182.187.166.246
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712474524645
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712474651149
+  login: 1712474505141
+money: '0'
+last-account-name: Solo_K1ller__
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -39.94905360557963
+  y: 179.0
+  z: -1.6770710233036108
+  yaw: -35.514984130859375
+  pitch: 53.497154235839844
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.45514098067643
+  y: 178.0
+  z: -6.970906936141674
+  yaw: 93.5713119506836
+  pitch: 14.57229995727539

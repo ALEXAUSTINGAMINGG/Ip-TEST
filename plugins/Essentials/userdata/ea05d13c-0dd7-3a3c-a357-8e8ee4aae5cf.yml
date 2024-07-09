@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 152.59.4.36
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712599686021
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712599694023
+  login: 1712599441170
+money: '0'
+last-account-name: MonoxideXD
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -39.30533263454694
+  y: 178.0
+  z: -2.3892550904910923
+  yaw: 8.044973373413086
+  pitch: 4.248986721038818
+logoutlocation:
+  world: 33a34951-efe1-4473-ab9e-cae292dfe960
+  world-name: world
+  x: -808.9827627999865
+  y: 164.0
+  z: 22.000716979316245
+  yaw: 10.399383544921875
+  pitch: 23.22703742980957

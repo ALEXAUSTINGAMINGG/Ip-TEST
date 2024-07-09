@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 182.69.181.246
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712589344370
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712589437275
+  login: 1712584723070
+money: '0'
+last-account-name: Deadly_B
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -35.9564426160464
+  y: 178.0
+  z: -0.7878658709927068
+  yaw: 15.237702369689941
+  pitch: 2.895900249481201
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -22.601322588628328
+  y: 178.0
+  z: -7.731025070183859
+  yaw: 101.46522521972656
+  pitch: 4.162182807922363

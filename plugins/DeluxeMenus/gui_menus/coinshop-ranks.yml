@@ -1,0 +1,50 @@
+size: 45
+menu_title: 'Server Ranks'
+
+items:
+
+  'filler':
+    material: GRAY_STAINED_GLASS_PANE
+    display_name: "&f"
+    data: 1
+    slots: [0-44]
+
+  'back':
+    material: FLOWER_BANNER_PATTERN
+    data: 1
+    slot: 40
+    hide_effects: true
+    display_name: "&c&lBACK"
+
+    click_commands:
+      - '[openmenu] coinshop'
+      
+  'vip':
+    material: BOOK
+    data: 1
+    slot: 22
+    display_name: "&#4cfba2&lVIP &fRank"
+    lore:
+      - "&8Coinshop Item"
+      - ""
+      - "&6◈ &fCost: &64,000 Coins"
+      - ""
+      - "&a&l➥ CLICK TO PURCHASE"
+
+    click_commands:
+      - '[console] lp user %player_name% parent addtemp vip 7days'
+      - '[console] points take %player_name% 4000'
+
+      - '[message] &8&l[&a&l!&8&l] &#7AFE77You successfully bought &fVIP Rank&#7AFE77!'
+      - '[close]'
+
+    click_requirement:
+      requirements:
+        check_balance:
+          type: '>='
+          input: '%playerpoints_points%'
+          output: '4000'
+          deny_commands:
+            - "[message] &8&l[&c&l!&8&l] &#FF7C7CYou don't have enough coins to purchase this item!"
+            - "[message] &8&l[&c&l!&8&l] &#FF7C7CYou need &f4,000 &#FF7C7Cbut you only have &f%playerpoints_points_formatted%&#FF7C7C."
+            - '[close]'

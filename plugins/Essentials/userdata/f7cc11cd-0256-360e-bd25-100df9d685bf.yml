@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.240.79.145
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716026824987
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716034950739
+  login: 1716032658636
+money: '0'
+last-account-name: Mortale_nqw
+lastlocation:
+  world: fd2a2c6a-eda5-4f74-8350-27f0fde897c2
+  world-name: duels
+  x: 54.5654277807058
+  y: 104.0
+  z: 239.35659250766614
+  yaw: 166.80039978027344
+  pitch: 15.726791381835938
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -26.071961066514607
+  y: 178.0
+  z: -5.221128851408892
+  yaw: -100.49853515625
+  pitch: 47.86063003540039

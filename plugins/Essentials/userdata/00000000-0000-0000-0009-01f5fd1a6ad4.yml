@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.205.45.5
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712591848471
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712621961465
+  login: 1712621887313
+money: '0'
+last-account-name: .Shivamgaming276
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -22.347197
+  y: 178.0
+  z: -7.67242
+  yaw: 92.9608154296875
+  pitch: 3.0157470703125
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.315342
+  y: 178.0
+  z: -9.177378
+  yaw: 29.985595703125
+  pitch: -6.4744110107421875

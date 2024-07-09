@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 5.13.172.73
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712600547971
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712600672523
+  login: 1712600524320
+money: '0'
+last-account-name: dariusel
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.45160268453475
+  y: 178.0
+  z: -3.0930573912645736
+  yaw: 172.8291473388672
+  pitch: 5.451706886291504
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -20.05421695446987
+  y: 178.0
+  z: -7.525341878679503
+  yaw: 92.9469223022461
+  pitch: 3.0165014266967773

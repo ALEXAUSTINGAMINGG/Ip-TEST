@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: true
+jailed: false
+ip-address: 103.166.173.68
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712476996945
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712477081600
+  login: 1712476831341
+money: '0'
+last-account-name: LapataZERO
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.25849540701847
+  y: 178.0000001
+  z: -4.691592939462144
+  yaw: 82.31319427490234
+  pitch: 2.716505289077759
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -30.052516321054764
+  y: 178.0
+  z: -3.825270340038294
+  yaw: 75.5631103515625
+  pitch: 12.166502952575684

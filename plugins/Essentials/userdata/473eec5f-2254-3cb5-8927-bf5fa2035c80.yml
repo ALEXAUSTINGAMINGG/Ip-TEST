@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 27.34.67.224
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712544086692
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712544323751
+  login: 1712543698391
+money: '0'
+last-account-name: BlackPlasmk
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.45444970454909
+  y: 178.0
+  z: -8.01705763157986
+  yaw: 69.4876708984375
+  pitch: -19.94240951538086
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -28.80014213248384
+  y: 178.0
+  z: -7.25091297518956
+  yaw: 76.05410766601562
+  pitch: -1.9475873708724976

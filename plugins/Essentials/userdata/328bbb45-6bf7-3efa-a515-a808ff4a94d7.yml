@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.184.172.33
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712643875464
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712646991169
+  login: 1712643575713
+money: '0'
+last-account-name: greninja775
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -32.76935080928437
+  y: 178.0
+  z: -8.917101437264407
+  yaw: -35.586883544921875
+  pitch: 7.06649923324585
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -39.71539111732102
+  y: 178.0
+  z: -4.18197702637767
+  yaw: 112.3138427734375
+  pitch: -10.183377265930176

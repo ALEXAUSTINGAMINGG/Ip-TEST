@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 106.202.69.252
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712643139814
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712645911217
+  login: 1712644812313
+money: '0'
+last-account-name: ArmoLucky_xD
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -38.52740590432797
+  y: 178.0
+  z: -1.677298050043914
+  yaw: 61.01789093017578
+  pitch: -2.6450023651123047
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -20.69250959042141
+  y: 178.0
+  z: -5.738533857018328
+  yaw: 113.95355224609375
+  pitch: 6.119439125061035

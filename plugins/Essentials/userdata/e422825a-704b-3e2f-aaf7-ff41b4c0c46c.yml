@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 110.224.65.253
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716105278287
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716105454489
+  login: 1716105244536
+money: '0'
+last-account-name: _VaniXD_
+logoutlocation:
+  world: 33a34951-efe1-4473-ab9e-cae292dfe960
+  world-name: world
+  x: -67.0636160208727
+  y: 52.0
+  z: 94.34867386185762
+  yaw: 132.86962890625
+  pitch: 37.67828369140625
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -38.68828632381185
+  y: 178.0
+  z: -1.9547143297536895
+  yaw: 65.9010009765625
+  pitch: -9.481786727905273

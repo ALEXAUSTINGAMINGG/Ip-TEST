@@ -1,0 +1,43 @@
+messages:
+  prefix:
+    message: '&7(&bzItemStacker&7)'
+  inventory:
+    'null':
+      message: '&cImpossible to find the inventory with the id &6%s&c.'
+    clone:
+      'null':
+        message: '&cThe clone of the inventory is null!'
+    open:
+      error:
+        message: '&cAn error occurred with the opening of the inventory &6%s&c.'
+  time:
+    day:
+      message: '%02d jour(s) %02d heure(s) %02d minute(s) %02d seconde(s)'
+    hour:
+      message: '%02d heure(s) %02d minute(s) %02d seconde(s)'
+      simple:
+        message: '%02d:%02d:%02d'
+    minute:
+      message: '%02d minute(s) %02d seconde(s)'
+    second:
+      message: '%02d second(s)'
+  command:
+    syntaxe:
+      error:
+        message: '&You must execute the order as follows&7: &a%s'
+      help:
+        message: '&a%s &b» &7%s'
+    'no':
+      permission:
+        message: '&cOnly a player can execute this command.'
+      console:
+        message: '&c Only a player can execute this command.'
+      arg:
+        message: '&cImpossible to find the order with its arguments.'
+    reload:
+      message: '&aYou have just reloaded the plugin.'
+  description:
+    reload:
+      message: Reload plugin
+    version:
+      message: Show plugin version

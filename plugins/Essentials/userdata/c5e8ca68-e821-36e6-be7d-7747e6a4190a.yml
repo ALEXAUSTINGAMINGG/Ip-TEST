@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 106.211.56.34
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712562850471
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712563176274
+  login: 1712562632270
+money: '0'
+last-account-name: Devil_140
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.16342283392897
+  y: 178.0
+  z: -2.8523632724339096
+  yaw: -17.50048828125
+  pitch: -9.28815746307373
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -18.024721547348154
+  y: 178.0
+  z: -7.795089999285698
+  yaw: 92.96310424804688
+  pitch: 3.0165014266967773

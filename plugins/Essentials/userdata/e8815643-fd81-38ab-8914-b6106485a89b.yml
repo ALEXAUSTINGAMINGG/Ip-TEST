@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.57.173.101
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712587976321
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712588054624
+  login: 1712583686270
+money: '0'
+last-account-name: ElactixNovaOG1
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.12297441031392
+  y: 178.0
+  z: -4.5943771699481815
+  yaw: 73.91661834716797
+  pitch: 9.160499572753906
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -32.24517136050644
+  y: 178.4952008770059
+  z: -6.502227333253858
+  yaw: 87.4334487915039
+  pitch: 14.075700759887695

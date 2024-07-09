@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 39.37.108.175
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712581654221
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712581781576
+  login: 1712581091070
+money: '0'
+last-account-name: ouwiee
+logoutlocation:
+  world: 33a34951-efe1-4473-ab9e-cae292dfe960
+  world-name: world
+  x: -2249.5
+  y: 213.85385295700078
+  z: 2376.5
+  yaw: 144.62242126464844
+  pitch: -15.875367164611816
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -43.218614380463826
+  y: 178.0
+  z: -8.684297820202122
+  yaw: -31.851097106933594
+  pitch: -12.134337425231934

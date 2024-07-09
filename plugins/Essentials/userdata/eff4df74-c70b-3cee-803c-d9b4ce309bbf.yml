@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.47.131.20
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712648441964
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712648483368
+  login: 1712648006813
+money: '0'
+last-account-name: SOBHITGAMING
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.7047787535609
+  y: 178.0
+  z: -5.537334560479679
+  yaw: 24.713348388671875
+  pitch: 28.366498947143555
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -27.0667538564747
+  y: 178.0
+  z: -14.332149113046434
+  yaw: -14.436906814575195
+  pitch: -1.7834960222244263

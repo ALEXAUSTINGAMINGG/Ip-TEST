@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 115.243.184.66
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712572385070
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712572682877
+  login: 1712572257970
+money: '0'
+last-account-name: Lolotopro
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -36.35549846619295
+  y: 178.0
+  z: -1.9645566301037312
+  yaw: -65.02278900146484
+  pitch: -4.2751569747924805
+logoutlocation:
+  world: fd2a2c6a-eda5-4f74-8350-27f0fde897c2
+  world-name: duels
+  x: 427.36825168866307
+  y: 93.49520087700593
+  z: 370.38797054003004
+  yaw: -19.04095458984375
+  pitch: 36.91397476196289

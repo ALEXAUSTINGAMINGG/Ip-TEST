@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.203.46.84
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712652293025
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712652510581
+  login: 1712652197874
+money: '0'
+last-account-name: JustArab_
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -35.36109918283301
+  y: 178.0
+  z: -5.602910674684613
+  yaw: -111.41773986816406
+  pitch: 1.2162237167358398
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -38.694471844397306
+  y: 178.0
+  z: -3.8886720847555094
+  yaw: 20.23907470703125
+  pitch: -4.519566535949707

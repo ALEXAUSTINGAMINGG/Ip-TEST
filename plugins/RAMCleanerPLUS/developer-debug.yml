@@ -1,0 +1,28 @@
+RAMCleanerULTRA Developer Debug File
+
+----Server Info----
+Server IP: **.**.***.***
+Server Port: 19132
+Java Version: 21.0.2
+Server Version: git-Pufferfish-73 (MC: 1.19.4)
+Server Bukkit Version: 1.19.4-R0.1-SNAPSHOT
+Timestamp: 2024-04-12 20:29:47.753
+----Server Info End----
+
+----Config Settings----
+Max Ram: 12884901888
+Check Interval: 6000
+Debug: false
+Auto Notify: false
+----Config Settings End----
+
+----Debug----
+Keine Logs vorhanden.
+----Debug End----
+
+----RAM DATA----
+Gesamter RAM: 1895825408
+Benutzter RAM: 1292617488
+Freier RAM: 1928607984
+Zeitpunkt der RAM-Abfrage: 2024-04-12 20:29:47.753
+----RAM DATA End----

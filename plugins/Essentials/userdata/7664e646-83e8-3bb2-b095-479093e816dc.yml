@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.47.132.164
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712652243875
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712653556031
+  login: 1712652933924
+money: '0'
+last-account-name: Ninja_Ujjawal
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.48096929159216
+  y: 179.0
+  z: -10.347824322134883
+  yaw: 88.33070373535156
+  pitch: 11.586406707763672
+logoutlocation:
+  world: fd2a2c6a-eda5-4f74-8350-27f0fde897c2
+  world-name: duels
+  x: 364.9145785805382
+  y: 103.0
+  z: 147.32319341563368
+  yaw: 143.7877197265625
+  pitch: -4.9187421798706055

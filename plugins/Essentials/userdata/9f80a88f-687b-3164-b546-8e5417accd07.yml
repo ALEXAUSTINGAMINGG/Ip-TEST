@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 123.253.65.147
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712597425921
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712597467924
+  login: 1712597185920
+money: '0'
+last-account-name: SrabonV2
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -39.36447197804456
+  y: 178.0
+  z: -3.4364450309879278
+  yaw: 4.567726135253906
+  pitch: -10.376775741577148
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -39.479413995752665
+  y: 178.0
+  z: -7.853079356746854
+  yaw: 151.1282501220703
+  pitch: -0.6188359260559082

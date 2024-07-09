@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.33.231.120
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716027408438
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716027424040
+  login: 1716026713686
+money: '0'
+last-account-name: Hunt3rTheOG
+logoutlocation:
+  world: 33a34951-efe1-4473-ab9e-cae292dfe960
+  world-name: world
+  x: -130.49528432799983
+  y: 52.0
+  z: 150.9695622246655
+  yaw: -87.916259765625
+  pitch: 10.850907325744629
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -39.89520333488654
+  y: 178.0
+  z: -3.202489114577004
+  yaw: -18.21150779724121
+  pitch: -7.413527488708496

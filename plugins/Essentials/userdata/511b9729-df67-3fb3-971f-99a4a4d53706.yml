@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.47.199.46
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712544290443
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712544294845
+  login: 1712544125591
+money: '0'
+last-account-name: ITZ_TYSON_X2
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -42.228950213849345
+  y: 179.0
+  z: -7.625618295925404
+  yaw: 103.6131362915039
+  pitch: -6.28350830078125
+logoutlocation:
+  world: 33a34951-efe1-4473-ab9e-cae292dfe960
+  world-name: world
+  x: 653.3867691279668
+  y: 243.0
+  z: 1809.8338673873172
+  yaw: -32.8890380859375
+  pitch: 33.149993896484375

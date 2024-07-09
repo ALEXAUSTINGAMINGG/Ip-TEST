@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.43.178.147
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712564189071
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712564570875
+  login: 1712562263473
+money: '0'
+last-account-name: GoldenBoyAr
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.23551114963523
+  y: 178.0
+  z: -3.868465189510151
+  yaw: -10.086910247802734
+  pitch: -13.333502769470215
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -28.66329096407158
+  y: 178.0
+  z: -8.53568259877913
+  yaw: 47.21305847167969
+  pitch: 13.366504669189453

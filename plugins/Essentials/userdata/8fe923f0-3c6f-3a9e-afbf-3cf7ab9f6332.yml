@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 106.202.27.85
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1716048891737
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716048928738
+  login: 1716046851686
+money: '0'
+last-account-name: Lunar_012
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.284439593471795
+  y: 178.0
+  z: -3.9205596501468705
+  yaw: 135.1859130859375
+  pitch: -3.176182746887207
+logoutlocation:
+  world: 33a34951-efe1-4473-ab9e-cae292dfe960
+  world-name: world
+  x: -1568.5
+  y: 269.0000001
+  z: 1637.5
+  yaw: -90.4332275390625
+  pitch: 52.497406005859375

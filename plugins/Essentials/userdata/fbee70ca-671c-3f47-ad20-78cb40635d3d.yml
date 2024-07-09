@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 182.188.75.113
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712589173821
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712589998275
+  login: 1712589139720
+money: '0'
+last-account-name: HeroFlaimXD
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.43891283746195
+  y: 178.0
+  z: -4.254977686522464
+  yaw: 98.81306457519531
+  pitch: -9.133493423461914
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -18.096125450489335
+  y: 178.0
+  z: -7.357348859385778
+  yaw: 92.96310424804688
+  pitch: 3.0165014266967773

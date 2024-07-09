@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.210.147.53
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712572398470
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712572872624
+  login: 1712572309820
+money: '0'
+last-account-name: wall_playz786
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.304836105301575
+  y: 178.0
+  z: -8.592274930606223
+  yaw: 51.11309814453125
+  pitch: -1.1834980249404907
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -20.24561472694083
+  y: 178.0
+  z: -7.561332805572951
+  yaw: 92.96310424804688
+  pitch: 3.0165014266967773

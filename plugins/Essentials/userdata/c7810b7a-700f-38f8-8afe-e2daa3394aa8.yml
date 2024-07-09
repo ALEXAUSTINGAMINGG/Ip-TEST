@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.81.105.135
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712479198394
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712479276705
+  login: 1712479164091
+money: '0'
+last-account-name: Solaiman
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -40.38788514731185
+  y: 178.0
+  z: -4.0210178219118315
+  yaw: 113.8527603149414
+  pitch: -12.343498229980469
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -19.647867709038497
+  y: 178.0
+  z: -8.07318641219327
+  yaw: 92.96310424804688
+  pitch: 3.0165014266967773

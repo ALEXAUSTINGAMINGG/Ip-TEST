@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 106.221.222.61
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712558540141
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712558676847
+  login: 1712557842191
+money: '0'
+last-account-name: Hazardo_xd_
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -36.4286800358659
+  y: 179.0
+  z: 0.6150948770452386
+  yaw: 67.60359191894531
+  pitch: 9.7623872756958
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -30.463531862036433
+  y: 179.0
+  z: 4.298149110855898
+  yaw: -95.04718017578125
+  pitch: 28.625885009765625

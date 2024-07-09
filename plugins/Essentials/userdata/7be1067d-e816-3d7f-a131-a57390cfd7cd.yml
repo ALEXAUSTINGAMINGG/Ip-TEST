@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.36.239.249
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712585089671
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712644753969
+  login: 1712643984263
+money: '0'
+last-account-name: VXIXD
+logoutlocation:
+  world: fd2a2c6a-eda5-4f74-8350-27f0fde897c2
+  world-name: duels
+  x: 197.6851270821914
+  y: 103.0
+  z: 109.67448790582036
+  yaw: 142.39581298828125
+  pitch: 6.401082515716553
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -41.512556477646385
+  y: 179.0
+  z: -4.575235236400377
+  yaw: 33.29738998413086
+  pitch: 18.595247268676758

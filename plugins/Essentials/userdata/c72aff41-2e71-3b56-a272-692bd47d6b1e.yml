@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 117.98.70.3
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1712542892943
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1712542929594
+  login: 1712542307241
+money: '0'
+last-account-name: DaddyZainn
+lastlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -38.81878185797139
+  y: 178.0
+  z: -3.264166679928902
+  yaw: 7.663116455078125
+  pitch: -4.075184345245361
+logoutlocation:
+  world: 8004a412-8e0c-4ee2-b761-faff454e92aa
+  world-name: spawn
+  x: -35.25715033583436
+  y: 178.1212968405392
+  z: -12.374089862944885
+  yaw: -102.52969360351562
+  pitch: 28.686384201049805
